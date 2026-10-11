@@ -1,0 +1,3 @@
+sed -i 's/historicalImpactMarkers?: HistoricalImpactMarker\[\];/historicalImpactMarkers?: HistoricalImpactMarker\[\];\n  hydraulicSnapshotOverride?: import("@\/lib\/hydraulic-engine").NowcastTimeStep;/g' src/components/OpenLayersMapCanvas.tsx
+sed -i 's/const snapshot = getHydraulicSnapshotAtTime(timeOffsetMins, selectedCityId);/const snapshot = props.hydraulicSnapshotOverride || getHydraulicSnapshotAtTime(timeOffsetMins, selectedCityId);/g' src/components/OpenLayersMapCanvas.tsx
+sed -i 's/const snapshotData = getHydraulicSnapshotAtTime(timeOffsetMins, selectedCityId);/const snapshotData = props.hydraulicSnapshotOverride || getHydraulicSnapshotAtTime(timeOffsetMins, selectedCityId);/g' src/components/OpenLayersMapCanvas.tsx

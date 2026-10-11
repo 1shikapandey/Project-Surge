@@ -1,0 +1,547 @@
+{
+  "type": "FeatureCollection",
+  "name": "chennai-water-bodies-current",
+  "_provenance": "GCC & CMWSSB Water Body Atlas and OpenStreetMap Lakes Registry",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.01310000000001,
+              13.0037
+            ],
+            [
+              80.0291,
+              13.0037
+            ],
+            [
+              80.0291,
+              13.019699999999998
+            ],
+            [
+              80.01310000000001,
+              13.019699999999998
+            ],
+            [
+              80.01310000000001,
+              13.0037
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 100000,
+        "name": "Chembarambakkam Lake Reservoir",
+        "water_type": "reservoir",
+        "area_ha": 2350
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.1662,
+              13.1737
+            ],
+            [
+              80.1822,
+              13.1737
+            ],
+            [
+              80.1822,
+              13.189699999999998
+            ],
+            [
+              80.1662,
+              13.189699999999998
+            ],
+            [
+              80.1662,
+              13.1737
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 100001,
+        "name": "Puzhal / Red Hills Reservoir",
+        "water_type": "reservoir",
+        "area_ha": 2100
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.85090000000001,
+              13.180900000000001
+            ],
+            [
+              79.8669,
+              13.180900000000001
+            ],
+            [
+              79.8669,
+              13.1969
+            ],
+            [
+              79.85090000000001,
+              13.1969
+            ],
+            [
+              79.85090000000001,
+              13.180900000000001
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 100002,
+        "name": "Poondi Reservoir (Sathyamurthy Sagar)",
+        "water_type": "reservoir",
+        "area_ha": 3450
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.13980000000001,
+              13.2276
+            ],
+            [
+              80.1558,
+              13.2276
+            ],
+            [
+              80.1558,
+              13.243599999999999
+            ],
+            [
+              80.13980000000001,
+              13.243599999999999
+            ],
+            [
+              80.13980000000001,
+              13.2276
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 100003,
+        "name": "Cholavaram Lake",
+        "water_type": "reservoir",
+        "area_ha": 580
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.9682,
+              13.337100000000001
+            ],
+            [
+              79.9762,
+              13.337100000000001
+            ],
+            [
+              79.9762,
+              13.3451
+            ],
+            [
+              79.9682,
+              13.3451
+            ],
+            [
+              79.9682,
+              13.337100000000001
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 100004,
+        "name": "Thervoy Kandigai Reservoir",
+        "water_type": "reservoir",
+        "area_ha": 420
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.2171,
+              12.9749
+            ],
+            [
+              80.22510000000001,
+              12.9749
+            ],
+            [
+              80.22510000000001,
+              12.982899999999999
+            ],
+            [
+              80.2171,
+              12.982899999999999
+            ],
+            [
+              80.2171,
+              12.9749
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 100005,
+        "name": "Velachery Lake",
+        "water_type": "lake",
+        "area_ha": 110
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.2059,
+              12.9281
+            ],
+            [
+              80.22189999999999,
+              12.9281
+            ],
+            [
+              80.22189999999999,
+              12.944099999999999
+            ],
+            [
+              80.2059,
+              12.944099999999999
+            ],
+            [
+              80.2059,
+              12.9281
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 100006,
+        "name": "Pallikaranai Marshland Buffer",
+        "water_type": "wetland",
+        "area_ha": 1250
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.1516,
+              13.1099
+            ],
+            [
+              80.15960000000001,
+              13.1099
+            ],
+            [
+              80.15960000000001,
+              13.117899999999999
+            ],
+            [
+              80.1516,
+              13.117899999999999
+            ],
+            [
+              80.1516,
+              13.1099
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 100007,
+        "name": "Ambattur Lake",
+        "water_type": "lake",
+        "area_ha": 180
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.1738,
+              13.121
+            ],
+            [
+              80.18180000000001,
+              13.121
+            ],
+            [
+              80.18180000000001,
+              13.129
+            ],
+            [
+              80.1738,
+              13.129
+            ],
+            [
+              80.1738,
+              13.121
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 100008,
+        "name": "Korattur Lake",
+        "water_type": "lake",
+        "area_ha": 220
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.1377,
+              12.9293
+            ],
+            [
+              80.1457,
+              12.9293
+            ],
+            [
+              80.1457,
+              12.937299999999999
+            ],
+            [
+              80.1377,
+              12.937299999999999
+            ],
+            [
+              80.1377,
+              12.9293
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 100009,
+        "name": "Chitlapakkam Lake",
+        "water_type": "lake",
+        "area_ha": 45
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.146,
+              13.026
+            ],
+            [
+              80.15400000000001,
+              13.026
+            ],
+            [
+              80.15400000000001,
+              13.033999999999999
+            ],
+            [
+              80.146,
+              13.033999999999999
+            ],
+            [
+              80.146,
+              13.026
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 100010,
+        "name": "Porur Lake",
+        "water_type": "lake",
+        "area_ha": 150
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.196,
+              13.136000000000001
+            ],
+            [
+              80.20400000000001,
+              13.136000000000001
+            ],
+            [
+              80.20400000000001,
+              13.144
+            ],
+            [
+              80.196,
+              13.144
+            ],
+            [
+              80.196,
+              13.136000000000001
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 100011,
+        "name": "Retteri Lake (Madhavaram)",
+        "water_type": "lake",
+        "area_ha": 190
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.23599999999999,
+              12.956000000000001
+            ],
+            [
+              80.244,
+              12.956000000000001
+            ],
+            [
+              80.244,
+              12.964
+            ],
+            [
+              80.23599999999999,
+              12.964
+            ],
+            [
+              80.23599999999999,
+              12.956000000000001
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 100012,
+        "name": "Perungudi Marsh Tank",
+        "water_type": "lake",
+        "area_ha": 65
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.22099999999999,
+              12.891
+            ],
+            [
+              80.229,
+              12.891
+            ],
+            [
+              80.229,
+              12.899
+            ],
+            [
+              80.22099999999999,
+              12.899
+            ],
+            [
+              80.22099999999999,
+              12.891
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 100013,
+        "name": "Sholinganallur Wetland Tank",
+        "water_type": "wetland",
+        "area_ha": 95
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.226,
+              13.086
+            ],
+            [
+              80.23400000000001,
+              13.086
+            ],
+            [
+              80.23400000000001,
+              13.094
+            ],
+            [
+              80.226,
+              13.094
+            ],
+            [
+              80.226,
+              13.086
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 100014,
+        "name": "Ayanavaram Lake",
+        "water_type": "lake",
+        "area_ha": 25
+      }
+    }
+  ]
+}

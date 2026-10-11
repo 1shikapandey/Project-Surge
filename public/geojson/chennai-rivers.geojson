@@ -1,0 +1,211 @@
+{
+  "type": "FeatureCollection",
+  "name": "chennai-rivers",
+  "_provenance": "Tamil Nadu State Disaster Management Authority (TNSDMA) & CMWSSB River Basin Register",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            79.92,
+            13.08
+          ],
+          [
+            80.05,
+            13.075
+          ],
+          [
+            80.14,
+            13.07
+          ],
+          [
+            80.19,
+            13.074
+          ],
+          [
+            80.24,
+            13.072
+          ],
+          [
+            80.285,
+            13.068
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Cooum River",
+        "type": "river",
+        "status": "critical",
+        "basin": "Cooum Basin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.0,
+            12.98
+          ],
+          [
+            80.08,
+            13.0
+          ],
+          [
+            80.14,
+            13.008
+          ],
+          [
+            80.19,
+            13.012
+          ],
+          [
+            80.24,
+            13.014
+          ],
+          [
+            80.278,
+            13.01
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Adyar River",
+        "type": "river",
+        "status": "moderate",
+        "basin": "Adyar Basin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            79.9,
+            13.2
+          ],
+          [
+            80.05,
+            13.22
+          ],
+          [
+            80.15,
+            13.23
+          ],
+          [
+            80.25,
+            13.24
+          ],
+          [
+            80.32,
+            13.26
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Kosasthalaiyar River",
+        "type": "river",
+        "status": "monitored",
+        "basin": "Kosasthalaiyar Basin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.3,
+            13.3
+          ],
+          [
+            80.28,
+            13.2
+          ],
+          [
+            80.265,
+            13.1
+          ],
+          [
+            80.268,
+            13.0
+          ],
+          [
+            80.258,
+            12.9
+          ],
+          [
+            80.245,
+            12.8
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Buckingham Canal (North & South)",
+        "type": "canal",
+        "status": "critical",
+        "basin": "Coastal Canal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.2,
+            13.1
+          ],
+          [
+            80.23,
+            13.108
+          ],
+          [
+            80.26,
+            13.112
+          ],
+          [
+            80.275,
+            13.115
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Otteri Nullah Channel",
+        "type": "drain",
+        "status": "critical",
+        "basin": "North Chennai Drain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.18,
+            13.05
+          ],
+          [
+            80.205,
+            13.04
+          ],
+          [
+            80.22,
+            13.025
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Virugambakkam Storm Channel",
+        "type": "drain",
+        "status": "moderate",
+        "basin": "Adyar Feeder"
+      }
+    }
+  ]
+}

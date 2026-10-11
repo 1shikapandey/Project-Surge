@@ -1,0 +1,2 @@
+sed -i 's/const manholes = getPhysicsDerivedManholes(selectedCityId, timeOffsetMins);/const manholes = hydraulicSnapshotOverride?.physicsManholes || getPhysicsDerivedManholes(selectedCityId, timeOffsetMins);/g' src/components/OpenLayersMapCanvas.tsx
+sed -i 's/}, \[selectedCityId, timeOffsetMins, showManholesLayer\]);/}, \[selectedCityId, timeOffsetMins, showManholesLayer, hydraulicSnapshotOverride\]);/g' src/components/OpenLayersMapCanvas.tsx

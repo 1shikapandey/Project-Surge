@@ -1,0 +1,54 @@
+{
+  "cityId": "delhi",
+  "stations": [
+    {
+      "name": "CGWB Connaught Place Monitoring Well",
+      "lat": 28.6315,
+      "lng": 77.2195,
+      "district": "Central Delhi",
+      "readings": [{ "year": 2024, "month": 11, "depth_m_bgl": 14.2 }]
+    },
+    {
+      "name": "CGWB ITO Vikas Marg Station Well",
+      "lat": 28.6270,
+      "lng": 77.2410,
+      "district": "Central Delhi",
+      "readings": [{ "year": 2024, "month": 11, "depth_m_bgl": 9.8 }]
+    },
+    {
+      "name": "CGWB Lajpat Nagar Piezometer",
+      "lat": 28.5680,
+      "lng": 77.2400,
+      "district": "South Delhi",
+      "readings": [{ "year": 2024, "month": 11, "depth_m_bgl": 18.5 }]
+    },
+    {
+      "name": "CGWB Vasant Kunj Ridge Station",
+      "lat": 28.5280,
+      "lng": 77.1550,
+      "district": "South West Delhi",
+      "readings": [{ "year": 2024, "month": 11, "depth_m_bgl": 26.4 }]
+    },
+    {
+      "name": "CGWB Karol Bagh Pusa Well",
+      "lat": 28.6480,
+      "lng": 77.1880,
+      "district": "Central Delhi",
+      "readings": [{ "year": 2024, "month": 11, "depth_m_bgl": 16.1 }]
+    },
+    {
+      "name": "CGWB Azadpur GT Karnal Road Well",
+      "lat": 28.7080,
+      "lng": 77.1750,
+      "district": "North West Delhi",
+      "readings": [{ "year": 2024, "month": 11, "depth_m_bgl": 12.0 }]
+    },
+    {
+      "name": "CGWB Shahdara Yamuna Floodplain Well",
+      "lat": 28.6710,
+      "lng": 77.2850,
+      "district": "East Delhi",
+      "readings": [{ "year": 2024, "month": 11, "depth_m_bgl": 4.5 }]
+    }
+  ]
+}

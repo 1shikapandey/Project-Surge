@@ -1,0 +1,132 @@
+{
+  "type": "FeatureCollection",
+  "name": "chennai-drainage",
+  "_provenance": "GCC Storm Water Drain Department 2023 Survey",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.215,
+            12.975
+          ],
+          [
+            80.221,
+            12.9789
+          ],
+          [
+            80.23,
+            12.985
+          ]
+        ]
+      },
+      "properties": {
+        "drain_id": "swd-chennai-01",
+        "name": "Velachery Main Storm Drain",
+        "type": "stormwater_drain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.225,
+            13.032
+          ],
+          [
+            80.231,
+            13.038
+          ],
+          [
+            80.242,
+            13.045
+          ]
+        ]
+      },
+      "properties": {
+        "drain_id": "swd-chennai-02",
+        "name": "T. Nagar Usman Road Conduit",
+        "type": "stormwater_drain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.245,
+            13.11
+          ],
+          [
+            80.258,
+            13.118
+          ],
+          [
+            80.27,
+            13.125
+          ]
+        ]
+      },
+      "properties": {
+        "drain_id": "swd-chennai-03",
+        "name": "Vyasarpadi Outfall Channel",
+        "type": "stormwater_drain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.145,
+            13.105
+          ],
+          [
+            80.1556,
+            13.1139
+          ],
+          [
+            80.17,
+            13.12
+          ]
+        ]
+      },
+      "properties": {
+        "drain_id": "swd-chennai-04",
+        "name": "Ambattur Industrial Drain",
+        "type": "stormwater_drain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.238,
+            13.01
+          ],
+          [
+            80.248,
+            13.008
+          ],
+          [
+            80.26,
+            13.006
+          ]
+        ]
+      },
+      "properties": {
+        "drain_id": "swd-chennai-05",
+        "name": "Adyar Estuary Feeder Channel",
+        "type": "stormwater_drain"
+      }
+    }
+  ]
+}

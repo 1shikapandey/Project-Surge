@@ -1,0 +1,115 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.2245, 28.6330] },
+      "properties": {
+        "name": "Minto Bridge Railway Underpass",
+        "category": "subway",
+        "category_label": "Critical Underpass Sump",
+        "ward": "Central Delhi",
+        "location": "Connaught Place / Deen Dayal Upadhyaya Marg Connection"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.2810, 28.5050] },
+      "properties": {
+        "name": "Pul Prahladpur Railway Underpass",
+        "category": "subway",
+        "category_label": "Severe Inundation Sump",
+        "ward": "South East Delhi",
+        "location": "Mehrauli-Badarpur Road Underpass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.1580, 28.6650] },
+      "properties": {
+        "name": "Zakhira Flyover Railway Underpass",
+        "category": "subway",
+        "category_label": "Chronic Subway Spot",
+        "ward": "West Delhi",
+        "location": "Najafgarh Road / Patel Nagar Junction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.1720, 28.7050] },
+      "properties": {
+        "name": "Azadpur Railway Underpass",
+        "category": "subway",
+        "category_label": "Chronic Subway Spot",
+        "ward": "North West Delhi",
+        "location": "GT Karnal Road Junction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.2430, 28.6285] },
+      "properties": {
+        "name": "ITO Ring Road Junction",
+        "category": "chronic_spot",
+        "category_label": "Yamuna Outfall Backflow Spot",
+        "ward": "Central Delhi",
+        "location": "Vikas Marg / Supreme Court Approach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.2380, 28.6310] },
+      "properties": {
+        "name": "Tilak Bridge Underpass",
+        "category": "subway",
+        "category_label": "Underpass Sump",
+        "ward": "Central Delhi",
+        "location": "BSZ Marg / Bahadur Shah Zafar Marg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.2420, 28.5700] },
+      "properties": {
+        "name": "Lajpat Nagar Ring Road Underpass",
+        "category": "flooding_spot",
+        "category_label": "Ring Road Depression",
+        "ward": "South Delhi",
+        "location": "Lala Lajpat Rai Marg Junction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.2280, 28.6680] },
+      "properties": {
+        "name": "Kashmere Gate ISBT Ring Road",
+        "category": "chronic_spot",
+        "category_label": "River Stage Inundation",
+        "ward": "North Delhi",
+        "location": "Yamuna Bank / Ring Road Loop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.1950, 28.6520] },
+      "properties": {
+        "name": "Karol Bagh Pusa Road Junction",
+        "category": "flooding_spot",
+        "category_label": "Commercial Basin Inundation",
+        "ward": "Central Delhi",
+        "location": "Arya Samaj Road / Pusa Road"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.0400, 28.4700] },
+      "properties": {
+        "name": "IFFCO Chowk Underpass (Gurugram)",
+        "category": "subway",
+        "category_label": "NCR Arterial Underpass",
+        "ward": "Gurugram NCR",
+        "location": "NH-48 / Express Highway Junction"
+      }
+    }
+  ]
+}

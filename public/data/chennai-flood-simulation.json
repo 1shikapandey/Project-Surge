@@ -1,0 +1,48 @@
+{
+  "city": "chennai",
+  "generated_at": "2026-09-15T10:50:00Z",
+  "scenarios": [
+    {
+      "id": "current-live-simulation",
+      "name": "Live Hydrodynamic Simulation (Current Monsoon Grid)",
+      "rainfallMmPerHour": 42.5,
+      "tideLevelM": 1.2,
+      "inundationHotspots": [
+        { "location": "Velachery Main Road & Bypass", "lat": 12.9789, "lng": 80.2211, "waterDepthM": 0.65, "passableVehicles": ["SUV", "Bus", "Emergency"] },
+        { "location": "T. Nagar Usman Road Underpass", "lat": 13.0380, "lng": 80.2310, "waterDepthM": 0.85, "passableVehicles": ["Bus", "Emergency"] },
+        { "location": "Vyasarpadi Jeeva Railway Subway", "lat": 13.1180, "lng": 80.2580, "waterDepthM": 1.10, "passableVehicles": ["Emergency"] },
+        { "location": "Adyar Canal Bank Road", "lat": 13.0080, "lng": 80.2480, "waterDepthM": 0.25, "passableVehicles": ["Sedan", "SUV", "Bus", "Emergency"] }
+      ]
+    },
+    {
+      "id": "cyclone-michaung-2023",
+      "name": "Historical Event: Cyclone Michaung (Dec 2023)",
+      "rainfallMmPerHour": 85.0,
+      "tideLevelM": 1.8,
+      "inundationHotspots": [
+        { "location": "Velachery South Ward 177", "lat": 12.9789, "lng": 80.2211, "waterDepthM": 1.40, "passableVehicles": ["Emergency"] },
+        { "location": "Perumbakkam Housing Colony", "lat": 12.8900, "lng": 80.2000, "waterDepthM": 1.60, "passableVehicles": ["Emergency"] },
+        { "location": "Mudichur High Road", "lat": 12.9100, "lng": 80.0700, "waterDepthM": 1.50, "passableVehicles": ["Emergency"] }
+      ]
+    },
+    {
+      "id": "deluge-2015",
+      "name": "Historical Event: Chennai 2015 Extreme Deluge",
+      "rainfallMmPerHour": 120.0,
+      "tideLevelM": 2.1,
+      "inundationHotspots": [
+        { "location": "Kotturpuram Adyar Bank", "lat": 13.0200, "lng": 80.2400, "waterDepthM": 2.20, "passableVehicles": [] },
+        { "location": "Jafferkhanpet Bridge Approach", "lat": 13.0300, "lng": 80.2000, "waterDepthM": 2.50, "passableVehicles": [] }
+      ]
+    }
+  ],
+  "vehicleClearanceRules": {
+    "Auto": 0.20,
+    "Hatchback": 0.25,
+    "Sedan": 0.30,
+    "SUV": 0.50,
+    "Bus": 0.80,
+    "HeavyTruck": 0.90,
+    "Emergency": 1.50
+  }
+}

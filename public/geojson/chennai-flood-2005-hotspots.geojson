@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection",
+  "name": "chennai-flood-2015-hotspots",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [80.0211, 13.0117] },
+      "properties": {
+        "name": "Chembarambakkam Surplus Outfall",
+        "depth_label": "3.5m surge",
+        "note": "29,000 cusecs peak discharge overflow in Dec 2015"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [80.0700, 12.9100] },
+      "properties": {
+        "name": "Mudichur Residential Colony",
+        "depth_label": "2.8m inundation",
+        "note": "Complete residential submersion during 2015 NE monsoon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [80.2400, 13.0200] },
+      "properties": {
+        "name": "Kotturpuram Housing Board",
+        "depth_label": "3.1m depth",
+        "note": "Adyar river overtopped flood embankments"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [80.2211, 12.9789] },
+      "properties": {
+        "name": "Velachery AGA Colony & Bypass",
+        "depth_label": "2.4m depth",
+        "note": "Pallikaranai marshland backwater inundation"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [80.2000, 13.0300] },
+      "properties": {
+        "name": "Jafferkhanpet Adyar Bridge",
+        "depth_label": "3.0m depth",
+        "note": "Bridge deck level inundated during peak release"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [80.2230, 13.0220] },
+      "properties": {
+        "name": "Saidapet Causeway & Bazaar",
+        "depth_label": "2.6m depth",
+        "note": "Adyar river bank breach area"
+      }
+    }
+  ]
+}

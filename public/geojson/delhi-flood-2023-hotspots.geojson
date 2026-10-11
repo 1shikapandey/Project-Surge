@@ -1,0 +1,41 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.2245, 28.6330] },
+      "properties": {
+        "name": "Minto Bridge Underpass Sump",
+        "depth_label": "2.8 meters submerged",
+        "note": "9 July 2023: 153mm cloudburst caused complete subway submersion; 15,000 L/s automated sump pumps active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.2430, 28.6285] },
+      "properties": {
+        "name": "ITO Ring Road Flyover Approach",
+        "depth_label": "1.2 meters water accumulation",
+        "note": "9 July 2023: Yamuna stage breached 205.33m danger mark, choking ITO drain outfall"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.2810, 28.5050] },
+      "properties": {
+        "name": "Pul Prahladpur Railway Underpass",
+        "depth_label": "2.2 meters depth",
+        "note": "9 July 2023: MB Road traffic closed due to heavy runoff accumulation"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.2280, 28.6680] },
+      "properties": {
+        "name": "Kashmere Gate Ring Road",
+        "depth_label": "1.5 meters inundation",
+        "note": "9 July 2023: Yamuna river bank overflow onto Ring Road transit corridor"
+      }
+    }
+  ]
+}

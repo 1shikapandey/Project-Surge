@@ -1,0 +1,171 @@
+{
+  "type": "FeatureCollection",
+  "name": "chennai-flood-hotspots",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [80.2211, 12.9789] },
+      "properties": {
+        "name": "Velachery Main Road & Bypass",
+        "category": "chronic_spot",
+        "category_label": "Chronic Inundation Spot",
+        "ward": "177",
+        "location": "Velachery Lake overflow & low-lying residential sector"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [80.2330, 13.0410] },
+      "properties": {
+        "name": "T. Nagar Usman Road Underpass",
+        "category": "subway",
+        "category_label": "Flood-prone Subway / Underpass",
+        "ward": "136",
+        "location": "Commercial hub storm drain bottle-neck"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [80.2580, 13.1180] },
+      "properties": {
+        "name": "Vyasarpadi Jeeva Railway Subway",
+        "category": "subway",
+        "category_label": "Flood-prone Railway Subway",
+        "ward": "34",
+        "location": "North Chennai rail underpass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [80.2400, 13.0200] },
+      "properties": {
+        "name": "Kotturpuram Housing Board Belt",
+        "category": "chronic_spot",
+        "category_label": "Chronic Inundation Spot",
+        "ward": "171",
+        "location": "Adyar River floodplain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [80.2000, 13.0300] },
+      "properties": {
+        "name": "Jafferkhanpet Adyar Bank",
+        "category": "chronic_spot",
+        "category_label": "Chronic Inundation Spot",
+        "ward": "140",
+        "location": "Adyar river S-bend backwater zone"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [80.2230, 13.0220] },
+      "properties": {
+        "name": "Saidapet Bazaar Road & Arch",
+        "category": "chronic_spot",
+        "category_label": "Chronic Inundation Spot",
+        "ward": "142",
+        "location": "Low-elevation Adyar river crossing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [80.0700, 12.9100] },
+      "properties": {
+        "name": "Mudichur High Road Corridor",
+        "category": "chronic_spot",
+        "category_label": "Chronic Inundation Spot",
+        "ward": "CMDA Peri-Urban",
+        "location": "Upstream Adyar basin overflow"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [80.1980, 12.9660] },
+      "properties": {
+        "name": "Madipakkam Lake Margin",
+        "category": "flooding_spot",
+        "category_label": "Monitored Waterlogging Spot",
+        "ward": "188",
+        "location": "Inter-connected lake wetland cascade"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [80.1850, 13.1110] },
+      "properties": {
+        "name": "Korattur Canal Bank Road",
+        "category": "flooding_spot",
+        "category_label": "Monitored Waterlogging Spot",
+        "ward": "84",
+        "location": "Surplus canal spillway zone"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [80.2620, 13.0950] },
+      "properties": {
+        "name": "Pulianthope High Road",
+        "category": "chronic_spot",
+        "category_label": "Chronic Inundation Spot",
+        "ward": "73",
+        "location": "Low bowl topography north drain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [80.2610, 13.1080] },
+      "properties": {
+        "name": "Ganesapuram Subway",
+        "category": "subway",
+        "category_label": "Flood-prone Subway",
+        "ward": "70",
+        "location": "Vyasarpadi arterial railway subway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [80.2020, 13.0067] },
+      "properties": {
+        "name": "Kathipara Grade Separator Approach",
+        "category": "flooding_spot",
+        "category_label": "Monitored Waterlogging Spot",
+        "ward": "156",
+        "location": "Grand Southern Trunk road intersection"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [80.1940, 13.0690] },
+      "properties": {
+        "name": "Koyambedu Wholesale Market Road",
+        "category": "flooding_spot",
+        "category_label": "Monitored Waterlogging Spot",
+        "ward": "127",
+        "location": "Cooum river proximity stormwater discharge"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [80.2510, 13.0520] },
+      "properties": {
+        "name": "Anna Salai Gemini Circle",
+        "category": "flooding_spot",
+        "category_label": "Monitored Waterlogging Spot",
+        "ward": "111",
+        "location": "Arterial transit hub"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [80.2000, 12.8900] },
+      "properties": {
+        "name": "Perumbakkam Main Road",
+        "category": "chronic_spot",
+        "category_label": "Chronic Inundation Spot",
+        "ward": "197",
+        "location": "Pallikaranai marshland margin"
+      }
+    }
+  ]
+}

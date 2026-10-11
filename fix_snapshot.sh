@@ -1,0 +1,2 @@
+sed -i 's/const snapshot = getHydraulicSnapshotAtTime(timeOffsetMins, selectedCityId);/const snapshot = hydraulicSnapshotOverride || getHydraulicSnapshotAtTime(timeOffsetMins, selectedCityId);/g' src/components/OpenLayersMapCanvas.tsx
+sed -i 's/const snapshotData = getHydraulicSnapshotAtTime(timeOffsetMins, selectedCityId);/const snapshotData = hydraulicSnapshotOverride || getHydraulicSnapshotAtTime(timeOffsetMins, selectedCityId);/g' src/components/OpenLayersMapCanvas.tsx

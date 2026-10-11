@@ -1,0 +1,7807 @@
+{
+  "type": "FeatureCollection",
+  "name": "chennai-wards",
+  "_provenance": "Greater Chennai Corporation (GCC) 200 Administrative Wards & 15 Zones Dataset",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.282,
+              13.142
+            ],
+            [
+              80.292,
+              13.142
+            ],
+            [
+              80.292,
+              13.152
+            ],
+            [
+              80.282,
+              13.152
+            ],
+            [
+              80.282,
+              13.142
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 1,
+        "ward_number": 1,
+        "ward_name": "Ward 1 (Thiruvottiyur)",
+        "ward_label": "Ward 1 - Thiruvottiyur",
+        "zone_no": 1,
+        "zone_name": "Zone 1 (Thiruvottiyur)",
+        "population": 45120
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.294,
+              13.142
+            ],
+            [
+              80.304,
+              13.142
+            ],
+            [
+              80.304,
+              13.152
+            ],
+            [
+              80.294,
+              13.152
+            ],
+            [
+              80.294,
+              13.142
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 2,
+        "ward_number": 2,
+        "ward_name": "Ward 2 (Thiruvottiyur)",
+        "ward_label": "Ward 2 - Thiruvottiyur",
+        "zone_no": 1,
+        "zone_name": "Zone 1 (Thiruvottiyur)",
+        "population": 45240
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.306,
+              13.142
+            ],
+            [
+              80.316,
+              13.142
+            ],
+            [
+              80.316,
+              13.152
+            ],
+            [
+              80.306,
+              13.152
+            ],
+            [
+              80.306,
+              13.142
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 3,
+        "ward_number": 3,
+        "ward_name": "Ward 3 (Thiruvottiyur)",
+        "ward_label": "Ward 3 - Thiruvottiyur",
+        "zone_no": 1,
+        "zone_name": "Zone 1 (Thiruvottiyur)",
+        "population": 45360
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.318,
+              13.142
+            ],
+            [
+              80.328,
+              13.142
+            ],
+            [
+              80.328,
+              13.152
+            ],
+            [
+              80.318,
+              13.152
+            ],
+            [
+              80.318,
+              13.142
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 4,
+        "ward_number": 4,
+        "ward_name": "Ward 4 (Thiruvottiyur)",
+        "ward_label": "Ward 4 - Thiruvottiyur",
+        "zone_no": 1,
+        "zone_name": "Zone 1 (Thiruvottiyur)",
+        "population": 45480
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.282,
+              13.154
+            ],
+            [
+              80.292,
+              13.154
+            ],
+            [
+              80.292,
+              13.164
+            ],
+            [
+              80.282,
+              13.164
+            ],
+            [
+              80.282,
+              13.154
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 5,
+        "ward_number": 5,
+        "ward_name": "Ward 5 (Thiruvottiyur)",
+        "ward_label": "Ward 5 - Thiruvottiyur",
+        "zone_no": 1,
+        "zone_name": "Zone 1 (Thiruvottiyur)",
+        "population": 45600
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.294,
+              13.154
+            ],
+            [
+              80.304,
+              13.154
+            ],
+            [
+              80.304,
+              13.164
+            ],
+            [
+              80.294,
+              13.164
+            ],
+            [
+              80.294,
+              13.154
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 6,
+        "ward_number": 6,
+        "ward_name": "Ward 6 (Thiruvottiyur)",
+        "ward_label": "Ward 6 - Thiruvottiyur",
+        "zone_no": 1,
+        "zone_name": "Zone 1 (Thiruvottiyur)",
+        "population": 45720
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.306,
+              13.154
+            ],
+            [
+              80.316,
+              13.154
+            ],
+            [
+              80.316,
+              13.164
+            ],
+            [
+              80.306,
+              13.164
+            ],
+            [
+              80.306,
+              13.154
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 7,
+        "ward_number": 7,
+        "ward_name": "Ward 7 (Thiruvottiyur)",
+        "ward_label": "Ward 7 - Thiruvottiyur",
+        "zone_no": 1,
+        "zone_name": "Zone 1 (Thiruvottiyur)",
+        "population": 45840
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.318,
+              13.154
+            ],
+            [
+              80.328,
+              13.154
+            ],
+            [
+              80.328,
+              13.164
+            ],
+            [
+              80.318,
+              13.164
+            ],
+            [
+              80.318,
+              13.154
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 8,
+        "ward_number": 8,
+        "ward_name": "Ward 8 (Thiruvottiyur)",
+        "ward_label": "Ward 8 - Thiruvottiyur",
+        "zone_no": 1,
+        "zone_name": "Zone 1 (Thiruvottiyur)",
+        "population": 45960
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.282,
+              13.166
+            ],
+            [
+              80.292,
+              13.166
+            ],
+            [
+              80.292,
+              13.176
+            ],
+            [
+              80.282,
+              13.176
+            ],
+            [
+              80.282,
+              13.166
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 9,
+        "ward_number": 9,
+        "ward_name": "Ward 9 (Thiruvottiyur)",
+        "ward_label": "Ward 9 - Thiruvottiyur",
+        "zone_no": 1,
+        "zone_name": "Zone 1 (Thiruvottiyur)",
+        "population": 46080
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.294,
+              13.166
+            ],
+            [
+              80.304,
+              13.166
+            ],
+            [
+              80.304,
+              13.176
+            ],
+            [
+              80.294,
+              13.176
+            ],
+            [
+              80.294,
+              13.166
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 10,
+        "ward_number": 10,
+        "ward_name": "Ward 10 (Thiruvottiyur)",
+        "ward_label": "Ward 10 - Thiruvottiyur",
+        "zone_no": 1,
+        "zone_name": "Zone 1 (Thiruvottiyur)",
+        "population": 46200
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.306,
+              13.166
+            ],
+            [
+              80.316,
+              13.166
+            ],
+            [
+              80.316,
+              13.176
+            ],
+            [
+              80.306,
+              13.176
+            ],
+            [
+              80.306,
+              13.166
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 11,
+        "ward_number": 11,
+        "ward_name": "Ward 11 (Thiruvottiyur)",
+        "ward_label": "Ward 11 - Thiruvottiyur",
+        "zone_no": 1,
+        "zone_name": "Zone 1 (Thiruvottiyur)",
+        "population": 46320
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.318,
+              13.166
+            ],
+            [
+              80.328,
+              13.166
+            ],
+            [
+              80.328,
+              13.176
+            ],
+            [
+              80.318,
+              13.176
+            ],
+            [
+              80.318,
+              13.166
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 12,
+        "ward_number": 12,
+        "ward_name": "Ward 12 (Thiruvottiyur)",
+        "ward_label": "Ward 12 - Thiruvottiyur",
+        "zone_no": 1,
+        "zone_name": "Zone 1 (Thiruvottiyur)",
+        "population": 46440
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.282,
+              13.178
+            ],
+            [
+              80.292,
+              13.178
+            ],
+            [
+              80.292,
+              13.188
+            ],
+            [
+              80.282,
+              13.188
+            ],
+            [
+              80.282,
+              13.178
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 13,
+        "ward_number": 13,
+        "ward_name": "Ward 13 (Thiruvottiyur)",
+        "ward_label": "Ward 13 - Thiruvottiyur",
+        "zone_no": 1,
+        "zone_name": "Zone 1 (Thiruvottiyur)",
+        "population": 46560
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.294,
+              13.178
+            ],
+            [
+              80.304,
+              13.178
+            ],
+            [
+              80.304,
+              13.188
+            ],
+            [
+              80.294,
+              13.188
+            ],
+            [
+              80.294,
+              13.178
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 14,
+        "ward_number": 14,
+        "ward_name": "Ward 14 (Thiruvottiyur)",
+        "ward_label": "Ward 14 - Thiruvottiyur",
+        "zone_no": 1,
+        "zone_name": "Zone 1 (Thiruvottiyur)",
+        "population": 46680
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.242,
+              13.161999999999999
+            ],
+            [
+              80.25200000000001,
+              13.161999999999999
+            ],
+            [
+              80.25200000000001,
+              13.171999999999999
+            ],
+            [
+              80.242,
+              13.171999999999999
+            ],
+            [
+              80.242,
+              13.161999999999999
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 15,
+        "ward_number": 15,
+        "ward_name": "Ward 15 (Manali)",
+        "ward_label": "Ward 15 - Manali",
+        "zone_no": 2,
+        "zone_name": "Zone 2 (Manali)",
+        "population": 46800
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.254,
+              13.161999999999999
+            ],
+            [
+              80.26400000000001,
+              13.161999999999999
+            ],
+            [
+              80.26400000000001,
+              13.171999999999999
+            ],
+            [
+              80.254,
+              13.171999999999999
+            ],
+            [
+              80.254,
+              13.161999999999999
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 16,
+        "ward_number": 16,
+        "ward_name": "Ward 16 (Manali)",
+        "ward_label": "Ward 16 - Manali",
+        "zone_no": 2,
+        "zone_name": "Zone 2 (Manali)",
+        "population": 46920
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.266,
+              13.161999999999999
+            ],
+            [
+              80.27600000000001,
+              13.161999999999999
+            ],
+            [
+              80.27600000000001,
+              13.171999999999999
+            ],
+            [
+              80.266,
+              13.171999999999999
+            ],
+            [
+              80.266,
+              13.161999999999999
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 17,
+        "ward_number": 17,
+        "ward_name": "Ward 17 (Manali)",
+        "ward_label": "Ward 17 - Manali",
+        "zone_no": 2,
+        "zone_name": "Zone 2 (Manali)",
+        "population": 47040
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.278,
+              13.161999999999999
+            ],
+            [
+              80.28800000000001,
+              13.161999999999999
+            ],
+            [
+              80.28800000000001,
+              13.171999999999999
+            ],
+            [
+              80.278,
+              13.171999999999999
+            ],
+            [
+              80.278,
+              13.161999999999999
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 18,
+        "ward_number": 18,
+        "ward_name": "Ward 18 (Manali)",
+        "ward_label": "Ward 18 - Manali",
+        "zone_no": 2,
+        "zone_name": "Zone 2 (Manali)",
+        "population": 47160
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.242,
+              13.174
+            ],
+            [
+              80.25200000000001,
+              13.174
+            ],
+            [
+              80.25200000000001,
+              13.184
+            ],
+            [
+              80.242,
+              13.184
+            ],
+            [
+              80.242,
+              13.174
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 19,
+        "ward_number": 19,
+        "ward_name": "Ward 19 (Manali)",
+        "ward_label": "Ward 19 - Manali",
+        "zone_no": 2,
+        "zone_name": "Zone 2 (Manali)",
+        "population": 47280
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.254,
+              13.174
+            ],
+            [
+              80.26400000000001,
+              13.174
+            ],
+            [
+              80.26400000000001,
+              13.184
+            ],
+            [
+              80.254,
+              13.184
+            ],
+            [
+              80.254,
+              13.174
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 20,
+        "ward_number": 20,
+        "ward_name": "Ward 20 (Manali)",
+        "ward_label": "Ward 20 - Manali",
+        "zone_no": 2,
+        "zone_name": "Zone 2 (Manali)",
+        "population": 47400
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.266,
+              13.174
+            ],
+            [
+              80.27600000000001,
+              13.174
+            ],
+            [
+              80.27600000000001,
+              13.184
+            ],
+            [
+              80.266,
+              13.184
+            ],
+            [
+              80.266,
+              13.174
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 21,
+        "ward_number": 21,
+        "ward_name": "Ward 21 (Manali)",
+        "ward_label": "Ward 21 - Manali",
+        "zone_no": 2,
+        "zone_name": "Zone 2 (Manali)",
+        "population": 47520
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.212,
+              13.122
+            ],
+            [
+              80.22200000000001,
+              13.122
+            ],
+            [
+              80.22200000000001,
+              13.132
+            ],
+            [
+              80.212,
+              13.132
+            ],
+            [
+              80.212,
+              13.122
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 22,
+        "ward_number": 22,
+        "ward_name": "Ward 22 (Madhavaram)",
+        "ward_label": "Ward 22 - Madhavaram",
+        "zone_no": 3,
+        "zone_name": "Zone 3 (Madhavaram)",
+        "population": 47640
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.224,
+              13.122
+            ],
+            [
+              80.23400000000001,
+              13.122
+            ],
+            [
+              80.23400000000001,
+              13.132
+            ],
+            [
+              80.224,
+              13.132
+            ],
+            [
+              80.224,
+              13.122
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 23,
+        "ward_number": 23,
+        "ward_name": "Ward 23 (Madhavaram)",
+        "ward_label": "Ward 23 - Madhavaram",
+        "zone_no": 3,
+        "zone_name": "Zone 3 (Madhavaram)",
+        "population": 47760
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.236,
+              13.122
+            ],
+            [
+              80.24600000000001,
+              13.122
+            ],
+            [
+              80.24600000000001,
+              13.132
+            ],
+            [
+              80.236,
+              13.132
+            ],
+            [
+              80.236,
+              13.122
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 24,
+        "ward_number": 24,
+        "ward_name": "Ward 24 (Madhavaram)",
+        "ward_label": "Ward 24 - Madhavaram",
+        "zone_no": 3,
+        "zone_name": "Zone 3 (Madhavaram)",
+        "population": 47880
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.248,
+              13.122
+            ],
+            [
+              80.25800000000001,
+              13.122
+            ],
+            [
+              80.25800000000001,
+              13.132
+            ],
+            [
+              80.248,
+              13.132
+            ],
+            [
+              80.248,
+              13.122
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 25,
+        "ward_number": 25,
+        "ward_name": "Ward 25 (Madhavaram)",
+        "ward_label": "Ward 25 - Madhavaram",
+        "zone_no": 3,
+        "zone_name": "Zone 3 (Madhavaram)",
+        "population": 48000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.212,
+              13.134
+            ],
+            [
+              80.22200000000001,
+              13.134
+            ],
+            [
+              80.22200000000001,
+              13.144
+            ],
+            [
+              80.212,
+              13.144
+            ],
+            [
+              80.212,
+              13.134
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 26,
+        "ward_number": 26,
+        "ward_name": "Ward 26 (Madhavaram)",
+        "ward_label": "Ward 26 - Madhavaram",
+        "zone_no": 3,
+        "zone_name": "Zone 3 (Madhavaram)",
+        "population": 48120
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.224,
+              13.134
+            ],
+            [
+              80.23400000000001,
+              13.134
+            ],
+            [
+              80.23400000000001,
+              13.144
+            ],
+            [
+              80.224,
+              13.144
+            ],
+            [
+              80.224,
+              13.134
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 27,
+        "ward_number": 27,
+        "ward_name": "Ward 27 (Madhavaram)",
+        "ward_label": "Ward 27 - Madhavaram",
+        "zone_no": 3,
+        "zone_name": "Zone 3 (Madhavaram)",
+        "population": 48240
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.236,
+              13.134
+            ],
+            [
+              80.24600000000001,
+              13.134
+            ],
+            [
+              80.24600000000001,
+              13.144
+            ],
+            [
+              80.236,
+              13.144
+            ],
+            [
+              80.236,
+              13.134
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 28,
+        "ward_number": 28,
+        "ward_name": "Ward 28 (Madhavaram)",
+        "ward_label": "Ward 28 - Madhavaram",
+        "zone_no": 3,
+        "zone_name": "Zone 3 (Madhavaram)",
+        "population": 48360
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.248,
+              13.134
+            ],
+            [
+              80.25800000000001,
+              13.134
+            ],
+            [
+              80.25800000000001,
+              13.144
+            ],
+            [
+              80.248,
+              13.144
+            ],
+            [
+              80.248,
+              13.134
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 29,
+        "ward_number": 29,
+        "ward_name": "Ward 29 (Madhavaram)",
+        "ward_label": "Ward 29 - Madhavaram",
+        "zone_no": 3,
+        "zone_name": "Zone 3 (Madhavaram)",
+        "population": 48480
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.212,
+              13.146
+            ],
+            [
+              80.22200000000001,
+              13.146
+            ],
+            [
+              80.22200000000001,
+              13.156
+            ],
+            [
+              80.212,
+              13.156
+            ],
+            [
+              80.212,
+              13.146
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 30,
+        "ward_number": 30,
+        "ward_name": "Ward 30 (Madhavaram)",
+        "ward_label": "Ward 30 - Madhavaram",
+        "zone_no": 3,
+        "zone_name": "Zone 3 (Madhavaram)",
+        "population": 48600
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.224,
+              13.146
+            ],
+            [
+              80.23400000000001,
+              13.146
+            ],
+            [
+              80.23400000000001,
+              13.156
+            ],
+            [
+              80.224,
+              13.156
+            ],
+            [
+              80.224,
+              13.146
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 31,
+        "ward_number": 31,
+        "ward_name": "Ward 31 (Madhavaram)",
+        "ward_label": "Ward 31 - Madhavaram",
+        "zone_no": 3,
+        "zone_name": "Zone 3 (Madhavaram)",
+        "population": 48720
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.236,
+              13.146
+            ],
+            [
+              80.24600000000001,
+              13.146
+            ],
+            [
+              80.24600000000001,
+              13.156
+            ],
+            [
+              80.236,
+              13.156
+            ],
+            [
+              80.236,
+              13.146
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 32,
+        "ward_number": 32,
+        "ward_name": "Ward 32 (Madhavaram)",
+        "ward_label": "Ward 32 - Madhavaram",
+        "zone_no": 3,
+        "zone_name": "Zone 3 (Madhavaram)",
+        "population": 48840
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.248,
+              13.146
+            ],
+            [
+              80.25800000000001,
+              13.146
+            ],
+            [
+              80.25800000000001,
+              13.156
+            ],
+            [
+              80.248,
+              13.156
+            ],
+            [
+              80.248,
+              13.146
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 33,
+        "ward_number": 33,
+        "ward_name": "Ward 33 (Madhavaram)",
+        "ward_label": "Ward 33 - Madhavaram",
+        "zone_no": 3,
+        "zone_name": "Zone 3 (Madhavaram)",
+        "population": 48960
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.262,
+              13.101999999999999
+            ],
+            [
+              80.272,
+              13.101999999999999
+            ],
+            [
+              80.272,
+              13.111999999999998
+            ],
+            [
+              80.262,
+              13.111999999999998
+            ],
+            [
+              80.262,
+              13.101999999999999
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 34,
+        "ward_number": 34,
+        "ward_name": "Ward 34 (Tondiarpet)",
+        "ward_label": "Ward 34 - Tondiarpet",
+        "zone_no": 4,
+        "zone_name": "Zone 4 (Tondiarpet)",
+        "population": 49080
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.274,
+              13.101999999999999
+            ],
+            [
+              80.284,
+              13.101999999999999
+            ],
+            [
+              80.284,
+              13.111999999999998
+            ],
+            [
+              80.274,
+              13.111999999999998
+            ],
+            [
+              80.274,
+              13.101999999999999
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 35,
+        "ward_number": 35,
+        "ward_name": "Ward 35 (Tondiarpet)",
+        "ward_label": "Ward 35 - Tondiarpet",
+        "zone_no": 4,
+        "zone_name": "Zone 4 (Tondiarpet)",
+        "population": 49200
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.286,
+              13.101999999999999
+            ],
+            [
+              80.296,
+              13.101999999999999
+            ],
+            [
+              80.296,
+              13.111999999999998
+            ],
+            [
+              80.286,
+              13.111999999999998
+            ],
+            [
+              80.286,
+              13.101999999999999
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 36,
+        "ward_number": 36,
+        "ward_name": "Ward 36 (Tondiarpet)",
+        "ward_label": "Ward 36 - Tondiarpet",
+        "zone_no": 4,
+        "zone_name": "Zone 4 (Tondiarpet)",
+        "population": 49320
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.298,
+              13.101999999999999
+            ],
+            [
+              80.308,
+              13.101999999999999
+            ],
+            [
+              80.308,
+              13.111999999999998
+            ],
+            [
+              80.298,
+              13.111999999999998
+            ],
+            [
+              80.298,
+              13.101999999999999
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 37,
+        "ward_number": 37,
+        "ward_name": "Ward 37 (Tondiarpet)",
+        "ward_label": "Ward 37 - Tondiarpet",
+        "zone_no": 4,
+        "zone_name": "Zone 4 (Tondiarpet)",
+        "population": 49440
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.262,
+              13.113999999999999
+            ],
+            [
+              80.272,
+              13.113999999999999
+            ],
+            [
+              80.272,
+              13.123999999999999
+            ],
+            [
+              80.262,
+              13.123999999999999
+            ],
+            [
+              80.262,
+              13.113999999999999
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 38,
+        "ward_number": 38,
+        "ward_name": "Ward 38 (Tondiarpet)",
+        "ward_label": "Ward 38 - Tondiarpet",
+        "zone_no": 4,
+        "zone_name": "Zone 4 (Tondiarpet)",
+        "population": 49560
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.274,
+              13.113999999999999
+            ],
+            [
+              80.284,
+              13.113999999999999
+            ],
+            [
+              80.284,
+              13.123999999999999
+            ],
+            [
+              80.274,
+              13.123999999999999
+            ],
+            [
+              80.274,
+              13.113999999999999
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 39,
+        "ward_number": 39,
+        "ward_name": "Ward 39 (Tondiarpet)",
+        "ward_label": "Ward 39 - Tondiarpet",
+        "zone_no": 4,
+        "zone_name": "Zone 4 (Tondiarpet)",
+        "population": 49680
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.286,
+              13.113999999999999
+            ],
+            [
+              80.296,
+              13.113999999999999
+            ],
+            [
+              80.296,
+              13.123999999999999
+            ],
+            [
+              80.286,
+              13.123999999999999
+            ],
+            [
+              80.286,
+              13.113999999999999
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 40,
+        "ward_number": 40,
+        "ward_name": "Ward 40 (Tondiarpet)",
+        "ward_label": "Ward 40 - Tondiarpet",
+        "zone_no": 4,
+        "zone_name": "Zone 4 (Tondiarpet)",
+        "population": 49800
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.298,
+              13.113999999999999
+            ],
+            [
+              80.308,
+              13.113999999999999
+            ],
+            [
+              80.308,
+              13.123999999999999
+            ],
+            [
+              80.298,
+              13.123999999999999
+            ],
+            [
+              80.298,
+              13.113999999999999
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 41,
+        "ward_number": 41,
+        "ward_name": "Ward 41 (Tondiarpet)",
+        "ward_label": "Ward 41 - Tondiarpet",
+        "zone_no": 4,
+        "zone_name": "Zone 4 (Tondiarpet)",
+        "population": 49920
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.262,
+              13.126
+            ],
+            [
+              80.272,
+              13.126
+            ],
+            [
+              80.272,
+              13.136
+            ],
+            [
+              80.262,
+              13.136
+            ],
+            [
+              80.262,
+              13.126
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 42,
+        "ward_number": 42,
+        "ward_name": "Ward 42 (Tondiarpet)",
+        "ward_label": "Ward 42 - Tondiarpet",
+        "zone_no": 4,
+        "zone_name": "Zone 4 (Tondiarpet)",
+        "population": 50040
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.274,
+              13.126
+            ],
+            [
+              80.284,
+              13.126
+            ],
+            [
+              80.284,
+              13.136
+            ],
+            [
+              80.274,
+              13.136
+            ],
+            [
+              80.274,
+              13.126
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 43,
+        "ward_number": 43,
+        "ward_name": "Ward 43 (Tondiarpet)",
+        "ward_label": "Ward 43 - Tondiarpet",
+        "zone_no": 4,
+        "zone_name": "Zone 4 (Tondiarpet)",
+        "population": 50160
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.286,
+              13.126
+            ],
+            [
+              80.296,
+              13.126
+            ],
+            [
+              80.296,
+              13.136
+            ],
+            [
+              80.286,
+              13.136
+            ],
+            [
+              80.286,
+              13.126
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 44,
+        "ward_number": 44,
+        "ward_name": "Ward 44 (Tondiarpet)",
+        "ward_label": "Ward 44 - Tondiarpet",
+        "zone_no": 4,
+        "zone_name": "Zone 4 (Tondiarpet)",
+        "population": 50280
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.298,
+              13.126
+            ],
+            [
+              80.308,
+              13.126
+            ],
+            [
+              80.308,
+              13.136
+            ],
+            [
+              80.298,
+              13.136
+            ],
+            [
+              80.298,
+              13.126
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 45,
+        "ward_number": 45,
+        "ward_name": "Ward 45 (Tondiarpet)",
+        "ward_label": "Ward 45 - Tondiarpet",
+        "zone_no": 4,
+        "zone_name": "Zone 4 (Tondiarpet)",
+        "population": 50400
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.262,
+              13.138
+            ],
+            [
+              80.272,
+              13.138
+            ],
+            [
+              80.272,
+              13.148
+            ],
+            [
+              80.262,
+              13.148
+            ],
+            [
+              80.262,
+              13.138
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 46,
+        "ward_number": 46,
+        "ward_name": "Ward 46 (Tondiarpet)",
+        "ward_label": "Ward 46 - Tondiarpet",
+        "zone_no": 4,
+        "zone_name": "Zone 4 (Tondiarpet)",
+        "population": 50520
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.274,
+              13.138
+            ],
+            [
+              80.284,
+              13.138
+            ],
+            [
+              80.284,
+              13.148
+            ],
+            [
+              80.274,
+              13.148
+            ],
+            [
+              80.274,
+              13.138
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 47,
+        "ward_number": 47,
+        "ward_name": "Ward 47 (Tondiarpet)",
+        "ward_label": "Ward 47 - Tondiarpet",
+        "zone_no": 4,
+        "zone_name": "Zone 4 (Tondiarpet)",
+        "population": 50640
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.286,
+              13.138
+            ],
+            [
+              80.296,
+              13.138
+            ],
+            [
+              80.296,
+              13.148
+            ],
+            [
+              80.286,
+              13.148
+            ],
+            [
+              80.286,
+              13.138
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 48,
+        "ward_number": 48,
+        "ward_name": "Ward 48 (Tondiarpet)",
+        "ward_label": "Ward 48 - Tondiarpet",
+        "zone_no": 4,
+        "zone_name": "Zone 4 (Tondiarpet)",
+        "population": 50760
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.272,
+              13.081999999999999
+            ],
+            [
+              80.28200000000001,
+              13.081999999999999
+            ],
+            [
+              80.28200000000001,
+              13.091999999999999
+            ],
+            [
+              80.272,
+              13.091999999999999
+            ],
+            [
+              80.272,
+              13.081999999999999
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 49,
+        "ward_number": 49,
+        "ward_name": "Ward 49 (Royapuram)",
+        "ward_label": "Ward 49 - Royapuram",
+        "zone_no": 5,
+        "zone_name": "Zone 5 (Royapuram)",
+        "population": 50880
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.284,
+              13.081999999999999
+            ],
+            [
+              80.29400000000001,
+              13.081999999999999
+            ],
+            [
+              80.29400000000001,
+              13.091999999999999
+            ],
+            [
+              80.284,
+              13.091999999999999
+            ],
+            [
+              80.284,
+              13.081999999999999
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 50,
+        "ward_number": 50,
+        "ward_name": "Ward 50 (Royapuram)",
+        "ward_label": "Ward 50 - Royapuram",
+        "zone_no": 5,
+        "zone_name": "Zone 5 (Royapuram)",
+        "population": 51000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.296,
+              13.081999999999999
+            ],
+            [
+              80.30600000000001,
+              13.081999999999999
+            ],
+            [
+              80.30600000000001,
+              13.091999999999999
+            ],
+            [
+              80.296,
+              13.091999999999999
+            ],
+            [
+              80.296,
+              13.081999999999999
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 51,
+        "ward_number": 51,
+        "ward_name": "Ward 51 (Royapuram)",
+        "ward_label": "Ward 51 - Royapuram",
+        "zone_no": 5,
+        "zone_name": "Zone 5 (Royapuram)",
+        "population": 51120
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.308,
+              13.081999999999999
+            ],
+            [
+              80.31800000000001,
+              13.081999999999999
+            ],
+            [
+              80.31800000000001,
+              13.091999999999999
+            ],
+            [
+              80.308,
+              13.091999999999999
+            ],
+            [
+              80.308,
+              13.081999999999999
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 52,
+        "ward_number": 52,
+        "ward_name": "Ward 52 (Royapuram)",
+        "ward_label": "Ward 52 - Royapuram",
+        "zone_no": 5,
+        "zone_name": "Zone 5 (Royapuram)",
+        "population": 51240
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.272,
+              13.094
+            ],
+            [
+              80.28200000000001,
+              13.094
+            ],
+            [
+              80.28200000000001,
+              13.104
+            ],
+            [
+              80.272,
+              13.104
+            ],
+            [
+              80.272,
+              13.094
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 53,
+        "ward_number": 53,
+        "ward_name": "Ward 53 (Royapuram)",
+        "ward_label": "Ward 53 - Royapuram",
+        "zone_no": 5,
+        "zone_name": "Zone 5 (Royapuram)",
+        "population": 51360
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.284,
+              13.094
+            ],
+            [
+              80.29400000000001,
+              13.094
+            ],
+            [
+              80.29400000000001,
+              13.104
+            ],
+            [
+              80.284,
+              13.104
+            ],
+            [
+              80.284,
+              13.094
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 54,
+        "ward_number": 54,
+        "ward_name": "Ward 54 (Royapuram)",
+        "ward_label": "Ward 54 - Royapuram",
+        "zone_no": 5,
+        "zone_name": "Zone 5 (Royapuram)",
+        "population": 51480
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.296,
+              13.094
+            ],
+            [
+              80.30600000000001,
+              13.094
+            ],
+            [
+              80.30600000000001,
+              13.104
+            ],
+            [
+              80.296,
+              13.104
+            ],
+            [
+              80.296,
+              13.094
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 55,
+        "ward_number": 55,
+        "ward_name": "Ward 55 (Royapuram)",
+        "ward_label": "Ward 55 - Royapuram",
+        "zone_no": 5,
+        "zone_name": "Zone 5 (Royapuram)",
+        "population": 51600
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.308,
+              13.094
+            ],
+            [
+              80.31800000000001,
+              13.094
+            ],
+            [
+              80.31800000000001,
+              13.104
+            ],
+            [
+              80.308,
+              13.104
+            ],
+            [
+              80.308,
+              13.094
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 56,
+        "ward_number": 56,
+        "ward_name": "Ward 56 (Royapuram)",
+        "ward_label": "Ward 56 - Royapuram",
+        "zone_no": 5,
+        "zone_name": "Zone 5 (Royapuram)",
+        "population": 51720
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.272,
+              13.106
+            ],
+            [
+              80.28200000000001,
+              13.106
+            ],
+            [
+              80.28200000000001,
+              13.116
+            ],
+            [
+              80.272,
+              13.116
+            ],
+            [
+              80.272,
+              13.106
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 57,
+        "ward_number": 57,
+        "ward_name": "Ward 57 (Royapuram)",
+        "ward_label": "Ward 57 - Royapuram",
+        "zone_no": 5,
+        "zone_name": "Zone 5 (Royapuram)",
+        "population": 51840
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.284,
+              13.106
+            ],
+            [
+              80.29400000000001,
+              13.106
+            ],
+            [
+              80.29400000000001,
+              13.116
+            ],
+            [
+              80.284,
+              13.116
+            ],
+            [
+              80.284,
+              13.106
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 58,
+        "ward_number": 58,
+        "ward_name": "Ward 58 (Royapuram)",
+        "ward_label": "Ward 58 - Royapuram",
+        "zone_no": 5,
+        "zone_name": "Zone 5 (Royapuram)",
+        "population": 51960
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.296,
+              13.106
+            ],
+            [
+              80.30600000000001,
+              13.106
+            ],
+            [
+              80.30600000000001,
+              13.116
+            ],
+            [
+              80.296,
+              13.116
+            ],
+            [
+              80.296,
+              13.106
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 59,
+        "ward_number": 59,
+        "ward_name": "Ward 59 (Royapuram)",
+        "ward_label": "Ward 59 - Royapuram",
+        "zone_no": 5,
+        "zone_name": "Zone 5 (Royapuram)",
+        "population": 52080
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.308,
+              13.106
+            ],
+            [
+              80.31800000000001,
+              13.106
+            ],
+            [
+              80.31800000000001,
+              13.116
+            ],
+            [
+              80.308,
+              13.116
+            ],
+            [
+              80.308,
+              13.106
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 60,
+        "ward_number": 60,
+        "ward_name": "Ward 60 (Royapuram)",
+        "ward_label": "Ward 60 - Royapuram",
+        "zone_no": 5,
+        "zone_name": "Zone 5 (Royapuram)",
+        "population": 52200
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.272,
+              13.118
+            ],
+            [
+              80.28200000000001,
+              13.118
+            ],
+            [
+              80.28200000000001,
+              13.128
+            ],
+            [
+              80.272,
+              13.128
+            ],
+            [
+              80.272,
+              13.118
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 61,
+        "ward_number": 61,
+        "ward_name": "Ward 61 (Royapuram)",
+        "ward_label": "Ward 61 - Royapuram",
+        "zone_no": 5,
+        "zone_name": "Zone 5 (Royapuram)",
+        "population": 52320
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.284,
+              13.118
+            ],
+            [
+              80.29400000000001,
+              13.118
+            ],
+            [
+              80.29400000000001,
+              13.128
+            ],
+            [
+              80.284,
+              13.128
+            ],
+            [
+              80.284,
+              13.118
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 62,
+        "ward_number": 62,
+        "ward_name": "Ward 62 (Royapuram)",
+        "ward_label": "Ward 62 - Royapuram",
+        "zone_no": 5,
+        "zone_name": "Zone 5 (Royapuram)",
+        "population": 52440
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.296,
+              13.118
+            ],
+            [
+              80.30600000000001,
+              13.118
+            ],
+            [
+              80.30600000000001,
+              13.128
+            ],
+            [
+              80.296,
+              13.128
+            ],
+            [
+              80.296,
+              13.118
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 63,
+        "ward_number": 63,
+        "ward_name": "Ward 63 (Royapuram)",
+        "ward_label": "Ward 63 - Royapuram",
+        "zone_no": 5,
+        "zone_name": "Zone 5 (Royapuram)",
+        "population": 52560
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.222,
+              13.091999999999999
+            ],
+            [
+              80.232,
+              13.091999999999999
+            ],
+            [
+              80.232,
+              13.101999999999999
+            ],
+            [
+              80.222,
+              13.101999999999999
+            ],
+            [
+              80.222,
+              13.091999999999999
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 64,
+        "ward_number": 64,
+        "ward_name": "Ward 64 (Thiru-Vi-Ka Nagar)",
+        "ward_label": "Ward 64 - Thiru-Vi-Ka Nagar",
+        "zone_no": 6,
+        "zone_name": "Zone 6 (Thiru-Vi-Ka Nagar)",
+        "population": 52680
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.234,
+              13.091999999999999
+            ],
+            [
+              80.244,
+              13.091999999999999
+            ],
+            [
+              80.244,
+              13.101999999999999
+            ],
+            [
+              80.234,
+              13.101999999999999
+            ],
+            [
+              80.234,
+              13.091999999999999
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 65,
+        "ward_number": 65,
+        "ward_name": "Ward 65 (Thiru-Vi-Ka Nagar)",
+        "ward_label": "Ward 65 - Thiru-Vi-Ka Nagar",
+        "zone_no": 6,
+        "zone_name": "Zone 6 (Thiru-Vi-Ka Nagar)",
+        "population": 52800
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.246,
+              13.091999999999999
+            ],
+            [
+              80.256,
+              13.091999999999999
+            ],
+            [
+              80.256,
+              13.101999999999999
+            ],
+            [
+              80.246,
+              13.101999999999999
+            ],
+            [
+              80.246,
+              13.091999999999999
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 66,
+        "ward_number": 66,
+        "ward_name": "Ward 66 (Thiru-Vi-Ka Nagar)",
+        "ward_label": "Ward 66 - Thiru-Vi-Ka Nagar",
+        "zone_no": 6,
+        "zone_name": "Zone 6 (Thiru-Vi-Ka Nagar)",
+        "population": 52920
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.258,
+              13.091999999999999
+            ],
+            [
+              80.268,
+              13.091999999999999
+            ],
+            [
+              80.268,
+              13.101999999999999
+            ],
+            [
+              80.258,
+              13.101999999999999
+            ],
+            [
+              80.258,
+              13.091999999999999
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 67,
+        "ward_number": 67,
+        "ward_name": "Ward 67 (Thiru-Vi-Ka Nagar)",
+        "ward_label": "Ward 67 - Thiru-Vi-Ka Nagar",
+        "zone_no": 6,
+        "zone_name": "Zone 6 (Thiru-Vi-Ka Nagar)",
+        "population": 53040
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.222,
+              13.104
+            ],
+            [
+              80.232,
+              13.104
+            ],
+            [
+              80.232,
+              13.113999999999999
+            ],
+            [
+              80.222,
+              13.113999999999999
+            ],
+            [
+              80.222,
+              13.104
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 68,
+        "ward_number": 68,
+        "ward_name": "Ward 68 (Thiru-Vi-Ka Nagar)",
+        "ward_label": "Ward 68 - Thiru-Vi-Ka Nagar",
+        "zone_no": 6,
+        "zone_name": "Zone 6 (Thiru-Vi-Ka Nagar)",
+        "population": 53160
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.234,
+              13.104
+            ],
+            [
+              80.244,
+              13.104
+            ],
+            [
+              80.244,
+              13.113999999999999
+            ],
+            [
+              80.234,
+              13.113999999999999
+            ],
+            [
+              80.234,
+              13.104
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 69,
+        "ward_number": 69,
+        "ward_name": "Ward 69 (Thiru-Vi-Ka Nagar)",
+        "ward_label": "Ward 69 - Thiru-Vi-Ka Nagar",
+        "zone_no": 6,
+        "zone_name": "Zone 6 (Thiru-Vi-Ka Nagar)",
+        "population": 53280
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.246,
+              13.104
+            ],
+            [
+              80.256,
+              13.104
+            ],
+            [
+              80.256,
+              13.113999999999999
+            ],
+            [
+              80.246,
+              13.113999999999999
+            ],
+            [
+              80.246,
+              13.104
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 70,
+        "ward_number": 70,
+        "ward_name": "Ward 70 (Thiru-Vi-Ka Nagar)",
+        "ward_label": "Ward 70 - Thiru-Vi-Ka Nagar",
+        "zone_no": 6,
+        "zone_name": "Zone 6 (Thiru-Vi-Ka Nagar)",
+        "population": 53400
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.258,
+              13.104
+            ],
+            [
+              80.268,
+              13.104
+            ],
+            [
+              80.268,
+              13.113999999999999
+            ],
+            [
+              80.258,
+              13.113999999999999
+            ],
+            [
+              80.258,
+              13.104
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 71,
+        "ward_number": 71,
+        "ward_name": "Ward 71 (Thiru-Vi-Ka Nagar)",
+        "ward_label": "Ward 71 - Thiru-Vi-Ka Nagar",
+        "zone_no": 6,
+        "zone_name": "Zone 6 (Thiru-Vi-Ka Nagar)",
+        "population": 53520
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.222,
+              13.116
+            ],
+            [
+              80.232,
+              13.116
+            ],
+            [
+              80.232,
+              13.126
+            ],
+            [
+              80.222,
+              13.126
+            ],
+            [
+              80.222,
+              13.116
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 72,
+        "ward_number": 72,
+        "ward_name": "Ward 72 (Thiru-Vi-Ka Nagar)",
+        "ward_label": "Ward 72 - Thiru-Vi-Ka Nagar",
+        "zone_no": 6,
+        "zone_name": "Zone 6 (Thiru-Vi-Ka Nagar)",
+        "population": 53640
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.234,
+              13.116
+            ],
+            [
+              80.244,
+              13.116
+            ],
+            [
+              80.244,
+              13.126
+            ],
+            [
+              80.234,
+              13.126
+            ],
+            [
+              80.234,
+              13.116
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 73,
+        "ward_number": 73,
+        "ward_name": "Ward 73 (Thiru-Vi-Ka Nagar)",
+        "ward_label": "Ward 73 - Thiru-Vi-Ka Nagar",
+        "zone_no": 6,
+        "zone_name": "Zone 6 (Thiru-Vi-Ka Nagar)",
+        "population": 53760
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.246,
+              13.116
+            ],
+            [
+              80.256,
+              13.116
+            ],
+            [
+              80.256,
+              13.126
+            ],
+            [
+              80.246,
+              13.126
+            ],
+            [
+              80.246,
+              13.116
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 74,
+        "ward_number": 74,
+        "ward_name": "Ward 74 (Thiru-Vi-Ka Nagar)",
+        "ward_label": "Ward 74 - Thiru-Vi-Ka Nagar",
+        "zone_no": 6,
+        "zone_name": "Zone 6 (Thiru-Vi-Ka Nagar)",
+        "population": 53880
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.258,
+              13.116
+            ],
+            [
+              80.268,
+              13.116
+            ],
+            [
+              80.268,
+              13.126
+            ],
+            [
+              80.258,
+              13.126
+            ],
+            [
+              80.258,
+              13.116
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 75,
+        "ward_number": 75,
+        "ward_name": "Ward 75 (Thiru-Vi-Ka Nagar)",
+        "ward_label": "Ward 75 - Thiru-Vi-Ka Nagar",
+        "zone_no": 6,
+        "zone_name": "Zone 6 (Thiru-Vi-Ka Nagar)",
+        "population": 54000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.222,
+              13.128
+            ],
+            [
+              80.232,
+              13.128
+            ],
+            [
+              80.232,
+              13.138
+            ],
+            [
+              80.222,
+              13.138
+            ],
+            [
+              80.222,
+              13.128
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 76,
+        "ward_number": 76,
+        "ward_name": "Ward 76 (Thiru-Vi-Ka Nagar)",
+        "ward_label": "Ward 76 - Thiru-Vi-Ka Nagar",
+        "zone_no": 6,
+        "zone_name": "Zone 6 (Thiru-Vi-Ka Nagar)",
+        "population": 54120
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.234,
+              13.128
+            ],
+            [
+              80.244,
+              13.128
+            ],
+            [
+              80.244,
+              13.138
+            ],
+            [
+              80.234,
+              13.138
+            ],
+            [
+              80.234,
+              13.128
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 77,
+        "ward_number": 77,
+        "ward_name": "Ward 77 (Thiru-Vi-Ka Nagar)",
+        "ward_label": "Ward 77 - Thiru-Vi-Ka Nagar",
+        "zone_no": 6,
+        "zone_name": "Zone 6 (Thiru-Vi-Ka Nagar)",
+        "population": 54240
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.246,
+              13.128
+            ],
+            [
+              80.256,
+              13.128
+            ],
+            [
+              80.256,
+              13.138
+            ],
+            [
+              80.246,
+              13.138
+            ],
+            [
+              80.246,
+              13.128
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 78,
+        "ward_number": 78,
+        "ward_name": "Ward 78 (Thiru-Vi-Ka Nagar)",
+        "ward_label": "Ward 78 - Thiru-Vi-Ka Nagar",
+        "zone_no": 6,
+        "zone_name": "Zone 6 (Thiru-Vi-Ka Nagar)",
+        "population": 54360
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.132,
+              13.091999999999999
+            ],
+            [
+              80.14200000000001,
+              13.091999999999999
+            ],
+            [
+              80.14200000000001,
+              13.101999999999999
+            ],
+            [
+              80.132,
+              13.101999999999999
+            ],
+            [
+              80.132,
+              13.091999999999999
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 79,
+        "ward_number": 79,
+        "ward_name": "Ward 79 (Ambattur)",
+        "ward_label": "Ward 79 - Ambattur",
+        "zone_no": 7,
+        "zone_name": "Zone 7 (Ambattur)",
+        "population": 54480
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.144,
+              13.091999999999999
+            ],
+            [
+              80.15400000000001,
+              13.091999999999999
+            ],
+            [
+              80.15400000000001,
+              13.101999999999999
+            ],
+            [
+              80.144,
+              13.101999999999999
+            ],
+            [
+              80.144,
+              13.091999999999999
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 80,
+        "ward_number": 80,
+        "ward_name": "Ward 80 (Ambattur)",
+        "ward_label": "Ward 80 - Ambattur",
+        "zone_no": 7,
+        "zone_name": "Zone 7 (Ambattur)",
+        "population": 54600
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.156,
+              13.091999999999999
+            ],
+            [
+              80.16600000000001,
+              13.091999999999999
+            ],
+            [
+              80.16600000000001,
+              13.101999999999999
+            ],
+            [
+              80.156,
+              13.101999999999999
+            ],
+            [
+              80.156,
+              13.091999999999999
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 81,
+        "ward_number": 81,
+        "ward_name": "Ward 81 (Ambattur)",
+        "ward_label": "Ward 81 - Ambattur",
+        "zone_no": 7,
+        "zone_name": "Zone 7 (Ambattur)",
+        "population": 54720
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.168,
+              13.091999999999999
+            ],
+            [
+              80.17800000000001,
+              13.091999999999999
+            ],
+            [
+              80.17800000000001,
+              13.101999999999999
+            ],
+            [
+              80.168,
+              13.101999999999999
+            ],
+            [
+              80.168,
+              13.091999999999999
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 82,
+        "ward_number": 82,
+        "ward_name": "Ward 82 (Ambattur)",
+        "ward_label": "Ward 82 - Ambattur",
+        "zone_no": 7,
+        "zone_name": "Zone 7 (Ambattur)",
+        "population": 54840
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.132,
+              13.104
+            ],
+            [
+              80.14200000000001,
+              13.104
+            ],
+            [
+              80.14200000000001,
+              13.113999999999999
+            ],
+            [
+              80.132,
+              13.113999999999999
+            ],
+            [
+              80.132,
+              13.104
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 83,
+        "ward_number": 83,
+        "ward_name": "Ward 83 (Ambattur)",
+        "ward_label": "Ward 83 - Ambattur",
+        "zone_no": 7,
+        "zone_name": "Zone 7 (Ambattur)",
+        "population": 54960
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.144,
+              13.104
+            ],
+            [
+              80.15400000000001,
+              13.104
+            ],
+            [
+              80.15400000000001,
+              13.113999999999999
+            ],
+            [
+              80.144,
+              13.113999999999999
+            ],
+            [
+              80.144,
+              13.104
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 84,
+        "ward_number": 84,
+        "ward_name": "Ward 84 (Ambattur)",
+        "ward_label": "Ward 84 - Ambattur",
+        "zone_no": 7,
+        "zone_name": "Zone 7 (Ambattur)",
+        "population": 55080
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.156,
+              13.104
+            ],
+            [
+              80.16600000000001,
+              13.104
+            ],
+            [
+              80.16600000000001,
+              13.113999999999999
+            ],
+            [
+              80.156,
+              13.113999999999999
+            ],
+            [
+              80.156,
+              13.104
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 85,
+        "ward_number": 85,
+        "ward_name": "Ward 85 (Ambattur)",
+        "ward_label": "Ward 85 - Ambattur",
+        "zone_no": 7,
+        "zone_name": "Zone 7 (Ambattur)",
+        "population": 55200
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.168,
+              13.104
+            ],
+            [
+              80.17800000000001,
+              13.104
+            ],
+            [
+              80.17800000000001,
+              13.113999999999999
+            ],
+            [
+              80.168,
+              13.113999999999999
+            ],
+            [
+              80.168,
+              13.104
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 86,
+        "ward_number": 86,
+        "ward_name": "Ward 86 (Ambattur)",
+        "ward_label": "Ward 86 - Ambattur",
+        "zone_no": 7,
+        "zone_name": "Zone 7 (Ambattur)",
+        "population": 55320
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.132,
+              13.116
+            ],
+            [
+              80.14200000000001,
+              13.116
+            ],
+            [
+              80.14200000000001,
+              13.126
+            ],
+            [
+              80.132,
+              13.126
+            ],
+            [
+              80.132,
+              13.116
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 87,
+        "ward_number": 87,
+        "ward_name": "Ward 87 (Ambattur)",
+        "ward_label": "Ward 87 - Ambattur",
+        "zone_no": 7,
+        "zone_name": "Zone 7 (Ambattur)",
+        "population": 55440
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.144,
+              13.116
+            ],
+            [
+              80.15400000000001,
+              13.116
+            ],
+            [
+              80.15400000000001,
+              13.126
+            ],
+            [
+              80.144,
+              13.126
+            ],
+            [
+              80.144,
+              13.116
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 88,
+        "ward_number": 88,
+        "ward_name": "Ward 88 (Ambattur)",
+        "ward_label": "Ward 88 - Ambattur",
+        "zone_no": 7,
+        "zone_name": "Zone 7 (Ambattur)",
+        "population": 55560
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.156,
+              13.116
+            ],
+            [
+              80.16600000000001,
+              13.116
+            ],
+            [
+              80.16600000000001,
+              13.126
+            ],
+            [
+              80.156,
+              13.126
+            ],
+            [
+              80.156,
+              13.116
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 89,
+        "ward_number": 89,
+        "ward_name": "Ward 89 (Ambattur)",
+        "ward_label": "Ward 89 - Ambattur",
+        "zone_no": 7,
+        "zone_name": "Zone 7 (Ambattur)",
+        "population": 55680
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.168,
+              13.116
+            ],
+            [
+              80.17800000000001,
+              13.116
+            ],
+            [
+              80.17800000000001,
+              13.126
+            ],
+            [
+              80.168,
+              13.126
+            ],
+            [
+              80.168,
+              13.116
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 90,
+        "ward_number": 90,
+        "ward_name": "Ward 90 (Ambattur)",
+        "ward_label": "Ward 90 - Ambattur",
+        "zone_no": 7,
+        "zone_name": "Zone 7 (Ambattur)",
+        "population": 55800
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.132,
+              13.128
+            ],
+            [
+              80.14200000000001,
+              13.128
+            ],
+            [
+              80.14200000000001,
+              13.138
+            ],
+            [
+              80.132,
+              13.138
+            ],
+            [
+              80.132,
+              13.128
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 91,
+        "ward_number": 91,
+        "ward_name": "Ward 91 (Ambattur)",
+        "ward_label": "Ward 91 - Ambattur",
+        "zone_no": 7,
+        "zone_name": "Zone 7 (Ambattur)",
+        "population": 55920
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.144,
+              13.128
+            ],
+            [
+              80.15400000000001,
+              13.128
+            ],
+            [
+              80.15400000000001,
+              13.138
+            ],
+            [
+              80.144,
+              13.138
+            ],
+            [
+              80.144,
+              13.128
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 92,
+        "ward_number": 92,
+        "ward_name": "Ward 92 (Ambattur)",
+        "ward_label": "Ward 92 - Ambattur",
+        "zone_no": 7,
+        "zone_name": "Zone 7 (Ambattur)",
+        "population": 56040
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.156,
+              13.128
+            ],
+            [
+              80.16600000000001,
+              13.128
+            ],
+            [
+              80.16600000000001,
+              13.138
+            ],
+            [
+              80.156,
+              13.138
+            ],
+            [
+              80.156,
+              13.128
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 93,
+        "ward_number": 93,
+        "ward_name": "Ward 93 (Ambattur)",
+        "ward_label": "Ward 93 - Ambattur",
+        "zone_no": 7,
+        "zone_name": "Zone 7 (Ambattur)",
+        "population": 56160
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.192,
+              13.062
+            ],
+            [
+              80.202,
+              13.062
+            ],
+            [
+              80.202,
+              13.072
+            ],
+            [
+              80.192,
+              13.072
+            ],
+            [
+              80.192,
+              13.062
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 94,
+        "ward_number": 94,
+        "ward_name": "Ward 94 (Anna Nagar)",
+        "ward_label": "Ward 94 - Anna Nagar",
+        "zone_no": 8,
+        "zone_name": "Zone 8 (Anna Nagar)",
+        "population": 56280
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.204,
+              13.062
+            ],
+            [
+              80.214,
+              13.062
+            ],
+            [
+              80.214,
+              13.072
+            ],
+            [
+              80.204,
+              13.072
+            ],
+            [
+              80.204,
+              13.062
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 95,
+        "ward_number": 95,
+        "ward_name": "Ward 95 (Anna Nagar)",
+        "ward_label": "Ward 95 - Anna Nagar",
+        "zone_no": 8,
+        "zone_name": "Zone 8 (Anna Nagar)",
+        "population": 56400
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.216,
+              13.062
+            ],
+            [
+              80.226,
+              13.062
+            ],
+            [
+              80.226,
+              13.072
+            ],
+            [
+              80.216,
+              13.072
+            ],
+            [
+              80.216,
+              13.062
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 96,
+        "ward_number": 96,
+        "ward_name": "Ward 96 (Anna Nagar)",
+        "ward_label": "Ward 96 - Anna Nagar",
+        "zone_no": 8,
+        "zone_name": "Zone 8 (Anna Nagar)",
+        "population": 56520
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.228,
+              13.062
+            ],
+            [
+              80.238,
+              13.062
+            ],
+            [
+              80.238,
+              13.072
+            ],
+            [
+              80.228,
+              13.072
+            ],
+            [
+              80.228,
+              13.062
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 97,
+        "ward_number": 97,
+        "ward_name": "Ward 97 (Anna Nagar)",
+        "ward_label": "Ward 97 - Anna Nagar",
+        "zone_no": 8,
+        "zone_name": "Zone 8 (Anna Nagar)",
+        "population": 56640
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.192,
+              13.074
+            ],
+            [
+              80.202,
+              13.074
+            ],
+            [
+              80.202,
+              13.084
+            ],
+            [
+              80.192,
+              13.084
+            ],
+            [
+              80.192,
+              13.074
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 98,
+        "ward_number": 98,
+        "ward_name": "Ward 98 (Anna Nagar)",
+        "ward_label": "Ward 98 - Anna Nagar",
+        "zone_no": 8,
+        "zone_name": "Zone 8 (Anna Nagar)",
+        "population": 56760
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.204,
+              13.074
+            ],
+            [
+              80.214,
+              13.074
+            ],
+            [
+              80.214,
+              13.084
+            ],
+            [
+              80.204,
+              13.084
+            ],
+            [
+              80.204,
+              13.074
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 99,
+        "ward_number": 99,
+        "ward_name": "Ward 99 (Anna Nagar)",
+        "ward_label": "Ward 99 - Anna Nagar",
+        "zone_no": 8,
+        "zone_name": "Zone 8 (Anna Nagar)",
+        "population": 56880
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.216,
+              13.074
+            ],
+            [
+              80.226,
+              13.074
+            ],
+            [
+              80.226,
+              13.084
+            ],
+            [
+              80.216,
+              13.084
+            ],
+            [
+              80.216,
+              13.074
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 100,
+        "ward_number": 100,
+        "ward_name": "Ward 100 (Anna Nagar)",
+        "ward_label": "Ward 100 - Anna Nagar",
+        "zone_no": 8,
+        "zone_name": "Zone 8 (Anna Nagar)",
+        "population": 57000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.228,
+              13.074
+            ],
+            [
+              80.238,
+              13.074
+            ],
+            [
+              80.238,
+              13.084
+            ],
+            [
+              80.228,
+              13.084
+            ],
+            [
+              80.228,
+              13.074
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 101,
+        "ward_number": 101,
+        "ward_name": "Ward 101 (Anna Nagar)",
+        "ward_label": "Ward 101 - Anna Nagar",
+        "zone_no": 8,
+        "zone_name": "Zone 8 (Anna Nagar)",
+        "population": 57120
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.192,
+              13.086
+            ],
+            [
+              80.202,
+              13.086
+            ],
+            [
+              80.202,
+              13.096
+            ],
+            [
+              80.192,
+              13.096
+            ],
+            [
+              80.192,
+              13.086
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 102,
+        "ward_number": 102,
+        "ward_name": "Ward 102 (Anna Nagar)",
+        "ward_label": "Ward 102 - Anna Nagar",
+        "zone_no": 8,
+        "zone_name": "Zone 8 (Anna Nagar)",
+        "population": 57240
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.204,
+              13.086
+            ],
+            [
+              80.214,
+              13.086
+            ],
+            [
+              80.214,
+              13.096
+            ],
+            [
+              80.204,
+              13.096
+            ],
+            [
+              80.204,
+              13.086
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 103,
+        "ward_number": 103,
+        "ward_name": "Ward 103 (Anna Nagar)",
+        "ward_label": "Ward 103 - Anna Nagar",
+        "zone_no": 8,
+        "zone_name": "Zone 8 (Anna Nagar)",
+        "population": 57360
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.216,
+              13.086
+            ],
+            [
+              80.226,
+              13.086
+            ],
+            [
+              80.226,
+              13.096
+            ],
+            [
+              80.216,
+              13.096
+            ],
+            [
+              80.216,
+              13.086
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 104,
+        "ward_number": 104,
+        "ward_name": "Ward 104 (Anna Nagar)",
+        "ward_label": "Ward 104 - Anna Nagar",
+        "zone_no": 8,
+        "zone_name": "Zone 8 (Anna Nagar)",
+        "population": 57480
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.228,
+              13.086
+            ],
+            [
+              80.238,
+              13.086
+            ],
+            [
+              80.238,
+              13.096
+            ],
+            [
+              80.228,
+              13.096
+            ],
+            [
+              80.228,
+              13.086
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 105,
+        "ward_number": 105,
+        "ward_name": "Ward 105 (Anna Nagar)",
+        "ward_label": "Ward 105 - Anna Nagar",
+        "zone_no": 8,
+        "zone_name": "Zone 8 (Anna Nagar)",
+        "population": 57600
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.192,
+              13.098
+            ],
+            [
+              80.202,
+              13.098
+            ],
+            [
+              80.202,
+              13.108
+            ],
+            [
+              80.192,
+              13.108
+            ],
+            [
+              80.192,
+              13.098
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 106,
+        "ward_number": 106,
+        "ward_name": "Ward 106 (Anna Nagar)",
+        "ward_label": "Ward 106 - Anna Nagar",
+        "zone_no": 8,
+        "zone_name": "Zone 8 (Anna Nagar)",
+        "population": 57720
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.204,
+              13.098
+            ],
+            [
+              80.214,
+              13.098
+            ],
+            [
+              80.214,
+              13.108
+            ],
+            [
+              80.204,
+              13.108
+            ],
+            [
+              80.204,
+              13.098
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 107,
+        "ward_number": 107,
+        "ward_name": "Ward 107 (Anna Nagar)",
+        "ward_label": "Ward 107 - Anna Nagar",
+        "zone_no": 8,
+        "zone_name": "Zone 8 (Anna Nagar)",
+        "population": 57840
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.216,
+              13.098
+            ],
+            [
+              80.226,
+              13.098
+            ],
+            [
+              80.226,
+              13.108
+            ],
+            [
+              80.216,
+              13.108
+            ],
+            [
+              80.216,
+              13.098
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 108,
+        "ward_number": 108,
+        "ward_name": "Ward 108 (Anna Nagar)",
+        "ward_label": "Ward 108 - Anna Nagar",
+        "zone_no": 8,
+        "zone_name": "Zone 8 (Anna Nagar)",
+        "population": 57960
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.232,
+              13.021999999999998
+            ],
+            [
+              80.242,
+              13.021999999999998
+            ],
+            [
+              80.242,
+              13.031999999999998
+            ],
+            [
+              80.232,
+              13.031999999999998
+            ],
+            [
+              80.232,
+              13.021999999999998
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 109,
+        "ward_number": 109,
+        "ward_name": "Ward 109 (Teynampet)",
+        "ward_label": "Ward 109 - Teynampet",
+        "zone_no": 9,
+        "zone_name": "Zone 9 (Teynampet)",
+        "population": 58080
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.244,
+              13.021999999999998
+            ],
+            [
+              80.254,
+              13.021999999999998
+            ],
+            [
+              80.254,
+              13.031999999999998
+            ],
+            [
+              80.244,
+              13.031999999999998
+            ],
+            [
+              80.244,
+              13.021999999999998
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 110,
+        "ward_number": 110,
+        "ward_name": "Ward 110 (Teynampet)",
+        "ward_label": "Ward 110 - Teynampet",
+        "zone_no": 9,
+        "zone_name": "Zone 9 (Teynampet)",
+        "population": 58200
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.256,
+              13.021999999999998
+            ],
+            [
+              80.266,
+              13.021999999999998
+            ],
+            [
+              80.266,
+              13.031999999999998
+            ],
+            [
+              80.256,
+              13.031999999999998
+            ],
+            [
+              80.256,
+              13.021999999999998
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 111,
+        "ward_number": 111,
+        "ward_name": "Ward 111 (Teynampet)",
+        "ward_label": "Ward 111 - Teynampet",
+        "zone_no": 9,
+        "zone_name": "Zone 9 (Teynampet)",
+        "population": 58320
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.268,
+              13.021999999999998
+            ],
+            [
+              80.278,
+              13.021999999999998
+            ],
+            [
+              80.278,
+              13.031999999999998
+            ],
+            [
+              80.268,
+              13.031999999999998
+            ],
+            [
+              80.268,
+              13.021999999999998
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 112,
+        "ward_number": 112,
+        "ward_name": "Ward 112 (Teynampet)",
+        "ward_label": "Ward 112 - Teynampet",
+        "zone_no": 9,
+        "zone_name": "Zone 9 (Teynampet)",
+        "population": 58440
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.232,
+              13.033999999999999
+            ],
+            [
+              80.242,
+              13.033999999999999
+            ],
+            [
+              80.242,
+              13.043999999999999
+            ],
+            [
+              80.232,
+              13.043999999999999
+            ],
+            [
+              80.232,
+              13.033999999999999
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 113,
+        "ward_number": 113,
+        "ward_name": "Ward 113 (Teynampet)",
+        "ward_label": "Ward 113 - Teynampet",
+        "zone_no": 9,
+        "zone_name": "Zone 9 (Teynampet)",
+        "population": 58560
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.244,
+              13.033999999999999
+            ],
+            [
+              80.254,
+              13.033999999999999
+            ],
+            [
+              80.254,
+              13.043999999999999
+            ],
+            [
+              80.244,
+              13.043999999999999
+            ],
+            [
+              80.244,
+              13.033999999999999
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 114,
+        "ward_number": 114,
+        "ward_name": "Ward 114 (Teynampet)",
+        "ward_label": "Ward 114 - Teynampet",
+        "zone_no": 9,
+        "zone_name": "Zone 9 (Teynampet)",
+        "population": 58680
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.256,
+              13.033999999999999
+            ],
+            [
+              80.266,
+              13.033999999999999
+            ],
+            [
+              80.266,
+              13.043999999999999
+            ],
+            [
+              80.256,
+              13.043999999999999
+            ],
+            [
+              80.256,
+              13.033999999999999
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 115,
+        "ward_number": 115,
+        "ward_name": "Ward 115 (Teynampet)",
+        "ward_label": "Ward 115 - Teynampet",
+        "zone_no": 9,
+        "zone_name": "Zone 9 (Teynampet)",
+        "population": 58800
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.268,
+              13.033999999999999
+            ],
+            [
+              80.278,
+              13.033999999999999
+            ],
+            [
+              80.278,
+              13.043999999999999
+            ],
+            [
+              80.268,
+              13.043999999999999
+            ],
+            [
+              80.268,
+              13.033999999999999
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 116,
+        "ward_number": 116,
+        "ward_name": "Ward 116 (Teynampet)",
+        "ward_label": "Ward 116 - Teynampet",
+        "zone_no": 9,
+        "zone_name": "Zone 9 (Teynampet)",
+        "population": 58920
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.232,
+              13.046
+            ],
+            [
+              80.242,
+              13.046
+            ],
+            [
+              80.242,
+              13.056
+            ],
+            [
+              80.232,
+              13.056
+            ],
+            [
+              80.232,
+              13.046
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 117,
+        "ward_number": 117,
+        "ward_name": "Ward 117 (Teynampet)",
+        "ward_label": "Ward 117 - Teynampet",
+        "zone_no": 9,
+        "zone_name": "Zone 9 (Teynampet)",
+        "population": 59040
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.244,
+              13.046
+            ],
+            [
+              80.254,
+              13.046
+            ],
+            [
+              80.254,
+              13.056
+            ],
+            [
+              80.244,
+              13.056
+            ],
+            [
+              80.244,
+              13.046
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 118,
+        "ward_number": 118,
+        "ward_name": "Ward 118 (Teynampet)",
+        "ward_label": "Ward 118 - Teynampet",
+        "zone_no": 9,
+        "zone_name": "Zone 9 (Teynampet)",
+        "population": 59160
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.256,
+              13.046
+            ],
+            [
+              80.266,
+              13.046
+            ],
+            [
+              80.266,
+              13.056
+            ],
+            [
+              80.256,
+              13.056
+            ],
+            [
+              80.256,
+              13.046
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 119,
+        "ward_number": 119,
+        "ward_name": "Ward 119 (Teynampet)",
+        "ward_label": "Ward 119 - Teynampet",
+        "zone_no": 9,
+        "zone_name": "Zone 9 (Teynampet)",
+        "population": 59280
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.268,
+              13.046
+            ],
+            [
+              80.278,
+              13.046
+            ],
+            [
+              80.278,
+              13.056
+            ],
+            [
+              80.268,
+              13.056
+            ],
+            [
+              80.268,
+              13.046
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 120,
+        "ward_number": 120,
+        "ward_name": "Ward 120 (Teynampet)",
+        "ward_label": "Ward 120 - Teynampet",
+        "zone_no": 9,
+        "zone_name": "Zone 9 (Teynampet)",
+        "population": 59400
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.232,
+              13.058
+            ],
+            [
+              80.242,
+              13.058
+            ],
+            [
+              80.242,
+              13.068
+            ],
+            [
+              80.232,
+              13.068
+            ],
+            [
+              80.232,
+              13.058
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 121,
+        "ward_number": 121,
+        "ward_name": "Ward 121 (Teynampet)",
+        "ward_label": "Ward 121 - Teynampet",
+        "zone_no": 9,
+        "zone_name": "Zone 9 (Teynampet)",
+        "population": 59520
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.244,
+              13.058
+            ],
+            [
+              80.254,
+              13.058
+            ],
+            [
+              80.254,
+              13.068
+            ],
+            [
+              80.244,
+              13.068
+            ],
+            [
+              80.244,
+              13.058
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 122,
+        "ward_number": 122,
+        "ward_name": "Ward 122 (Teynampet)",
+        "ward_label": "Ward 122 - Teynampet",
+        "zone_no": 9,
+        "zone_name": "Zone 9 (Teynampet)",
+        "population": 59640
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.256,
+              13.058
+            ],
+            [
+              80.266,
+              13.058
+            ],
+            [
+              80.266,
+              13.068
+            ],
+            [
+              80.256,
+              13.068
+            ],
+            [
+              80.256,
+              13.058
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 123,
+        "ward_number": 123,
+        "ward_name": "Ward 123 (Teynampet)",
+        "ward_label": "Ward 123 - Teynampet",
+        "zone_no": 9,
+        "zone_name": "Zone 9 (Teynampet)",
+        "population": 59760
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.268,
+              13.058
+            ],
+            [
+              80.278,
+              13.058
+            ],
+            [
+              80.278,
+              13.068
+            ],
+            [
+              80.268,
+              13.068
+            ],
+            [
+              80.268,
+              13.058
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 124,
+        "ward_number": 124,
+        "ward_name": "Ward 124 (Teynampet)",
+        "ward_label": "Ward 124 - Teynampet",
+        "zone_no": 9,
+        "zone_name": "Zone 9 (Teynampet)",
+        "population": 59880
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.232,
+              13.069999999999999
+            ],
+            [
+              80.242,
+              13.069999999999999
+            ],
+            [
+              80.242,
+              13.079999999999998
+            ],
+            [
+              80.232,
+              13.079999999999998
+            ],
+            [
+              80.232,
+              13.069999999999999
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 125,
+        "ward_number": 125,
+        "ward_name": "Ward 125 (Teynampet)",
+        "ward_label": "Ward 125 - Teynampet",
+        "zone_no": 9,
+        "zone_name": "Zone 9 (Teynampet)",
+        "population": 60000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.244,
+              13.069999999999999
+            ],
+            [
+              80.254,
+              13.069999999999999
+            ],
+            [
+              80.254,
+              13.079999999999998
+            ],
+            [
+              80.244,
+              13.079999999999998
+            ],
+            [
+              80.244,
+              13.069999999999999
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 126,
+        "ward_number": 126,
+        "ward_name": "Ward 126 (Teynampet)",
+        "ward_label": "Ward 126 - Teynampet",
+        "zone_no": 9,
+        "zone_name": "Zone 9 (Teynampet)",
+        "population": 60120
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.202,
+              13.021999999999998
+            ],
+            [
+              80.212,
+              13.021999999999998
+            ],
+            [
+              80.212,
+              13.031999999999998
+            ],
+            [
+              80.202,
+              13.031999999999998
+            ],
+            [
+              80.202,
+              13.021999999999998
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 127,
+        "ward_number": 127,
+        "ward_name": "Ward 127 (Kodambakkam)",
+        "ward_label": "Ward 127 - Kodambakkam",
+        "zone_no": 10,
+        "zone_name": "Zone 10 (Kodambakkam)",
+        "population": 60240
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.214,
+              13.021999999999998
+            ],
+            [
+              80.224,
+              13.021999999999998
+            ],
+            [
+              80.224,
+              13.031999999999998
+            ],
+            [
+              80.214,
+              13.031999999999998
+            ],
+            [
+              80.214,
+              13.021999999999998
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 128,
+        "ward_number": 128,
+        "ward_name": "Ward 128 (Kodambakkam)",
+        "ward_label": "Ward 128 - Kodambakkam",
+        "zone_no": 10,
+        "zone_name": "Zone 10 (Kodambakkam)",
+        "population": 60360
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.226,
+              13.021999999999998
+            ],
+            [
+              80.236,
+              13.021999999999998
+            ],
+            [
+              80.236,
+              13.031999999999998
+            ],
+            [
+              80.226,
+              13.031999999999998
+            ],
+            [
+              80.226,
+              13.021999999999998
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 129,
+        "ward_number": 129,
+        "ward_name": "Ward 129 (Kodambakkam)",
+        "ward_label": "Ward 129 - Kodambakkam",
+        "zone_no": 10,
+        "zone_name": "Zone 10 (Kodambakkam)",
+        "population": 60480
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.238,
+              13.021999999999998
+            ],
+            [
+              80.248,
+              13.021999999999998
+            ],
+            [
+              80.248,
+              13.031999999999998
+            ],
+            [
+              80.238,
+              13.031999999999998
+            ],
+            [
+              80.238,
+              13.021999999999998
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 130,
+        "ward_number": 130,
+        "ward_name": "Ward 130 (Kodambakkam)",
+        "ward_label": "Ward 130 - Kodambakkam",
+        "zone_no": 10,
+        "zone_name": "Zone 10 (Kodambakkam)",
+        "population": 60600
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.202,
+              13.033999999999999
+            ],
+            [
+              80.212,
+              13.033999999999999
+            ],
+            [
+              80.212,
+              13.043999999999999
+            ],
+            [
+              80.202,
+              13.043999999999999
+            ],
+            [
+              80.202,
+              13.033999999999999
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 131,
+        "ward_number": 131,
+        "ward_name": "Ward 131 (Kodambakkam)",
+        "ward_label": "Ward 131 - Kodambakkam",
+        "zone_no": 10,
+        "zone_name": "Zone 10 (Kodambakkam)",
+        "population": 60720
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.214,
+              13.033999999999999
+            ],
+            [
+              80.224,
+              13.033999999999999
+            ],
+            [
+              80.224,
+              13.043999999999999
+            ],
+            [
+              80.214,
+              13.043999999999999
+            ],
+            [
+              80.214,
+              13.033999999999999
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 132,
+        "ward_number": 132,
+        "ward_name": "Ward 132 (Kodambakkam)",
+        "ward_label": "Ward 132 - Kodambakkam",
+        "zone_no": 10,
+        "zone_name": "Zone 10 (Kodambakkam)",
+        "population": 60840
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.226,
+              13.033999999999999
+            ],
+            [
+              80.236,
+              13.033999999999999
+            ],
+            [
+              80.236,
+              13.043999999999999
+            ],
+            [
+              80.226,
+              13.043999999999999
+            ],
+            [
+              80.226,
+              13.033999999999999
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 133,
+        "ward_number": 133,
+        "ward_name": "Ward 133 (Kodambakkam)",
+        "ward_label": "Ward 133 - Kodambakkam",
+        "zone_no": 10,
+        "zone_name": "Zone 10 (Kodambakkam)",
+        "population": 60960
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.238,
+              13.033999999999999
+            ],
+            [
+              80.248,
+              13.033999999999999
+            ],
+            [
+              80.248,
+              13.043999999999999
+            ],
+            [
+              80.238,
+              13.043999999999999
+            ],
+            [
+              80.238,
+              13.033999999999999
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 134,
+        "ward_number": 134,
+        "ward_name": "Ward 134 (Kodambakkam)",
+        "ward_label": "Ward 134 - Kodambakkam",
+        "zone_no": 10,
+        "zone_name": "Zone 10 (Kodambakkam)",
+        "population": 61080
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.202,
+              13.046
+            ],
+            [
+              80.212,
+              13.046
+            ],
+            [
+              80.212,
+              13.056
+            ],
+            [
+              80.202,
+              13.056
+            ],
+            [
+              80.202,
+              13.046
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 135,
+        "ward_number": 135,
+        "ward_name": "Ward 135 (Kodambakkam)",
+        "ward_label": "Ward 135 - Kodambakkam",
+        "zone_no": 10,
+        "zone_name": "Zone 10 (Kodambakkam)",
+        "population": 61200
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.214,
+              13.046
+            ],
+            [
+              80.224,
+              13.046
+            ],
+            [
+              80.224,
+              13.056
+            ],
+            [
+              80.214,
+              13.056
+            ],
+            [
+              80.214,
+              13.046
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 136,
+        "ward_number": 136,
+        "ward_name": "Ward 136 (Kodambakkam)",
+        "ward_label": "Ward 136 - Kodambakkam",
+        "zone_no": 10,
+        "zone_name": "Zone 10 (Kodambakkam)",
+        "population": 61320
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.226,
+              13.046
+            ],
+            [
+              80.236,
+              13.046
+            ],
+            [
+              80.236,
+              13.056
+            ],
+            [
+              80.226,
+              13.056
+            ],
+            [
+              80.226,
+              13.046
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 137,
+        "ward_number": 137,
+        "ward_name": "Ward 137 (Kodambakkam)",
+        "ward_label": "Ward 137 - Kodambakkam",
+        "zone_no": 10,
+        "zone_name": "Zone 10 (Kodambakkam)",
+        "population": 61440
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.238,
+              13.046
+            ],
+            [
+              80.248,
+              13.046
+            ],
+            [
+              80.248,
+              13.056
+            ],
+            [
+              80.238,
+              13.056
+            ],
+            [
+              80.238,
+              13.046
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 138,
+        "ward_number": 138,
+        "ward_name": "Ward 138 (Kodambakkam)",
+        "ward_label": "Ward 138 - Kodambakkam",
+        "zone_no": 10,
+        "zone_name": "Zone 10 (Kodambakkam)",
+        "population": 61560
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.202,
+              13.058
+            ],
+            [
+              80.212,
+              13.058
+            ],
+            [
+              80.212,
+              13.068
+            ],
+            [
+              80.202,
+              13.068
+            ],
+            [
+              80.202,
+              13.058
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 139,
+        "ward_number": 139,
+        "ward_name": "Ward 139 (Kodambakkam)",
+        "ward_label": "Ward 139 - Kodambakkam",
+        "zone_no": 10,
+        "zone_name": "Zone 10 (Kodambakkam)",
+        "population": 61680
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.214,
+              13.058
+            ],
+            [
+              80.224,
+              13.058
+            ],
+            [
+              80.224,
+              13.068
+            ],
+            [
+              80.214,
+              13.068
+            ],
+            [
+              80.214,
+              13.058
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 140,
+        "ward_number": 140,
+        "ward_name": "Ward 140 (Kodambakkam)",
+        "ward_label": "Ward 140 - Kodambakkam",
+        "zone_no": 10,
+        "zone_name": "Zone 10 (Kodambakkam)",
+        "population": 61800
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.226,
+              13.058
+            ],
+            [
+              80.236,
+              13.058
+            ],
+            [
+              80.236,
+              13.068
+            ],
+            [
+              80.226,
+              13.068
+            ],
+            [
+              80.226,
+              13.058
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 141,
+        "ward_number": 141,
+        "ward_name": "Ward 141 (Kodambakkam)",
+        "ward_label": "Ward 141 - Kodambakkam",
+        "zone_no": 10,
+        "zone_name": "Zone 10 (Kodambakkam)",
+        "population": 61920
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.238,
+              13.058
+            ],
+            [
+              80.248,
+              13.058
+            ],
+            [
+              80.248,
+              13.068
+            ],
+            [
+              80.238,
+              13.068
+            ],
+            [
+              80.238,
+              13.058
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 142,
+        "ward_number": 142,
+        "ward_name": "Ward 142 (Kodambakkam)",
+        "ward_label": "Ward 142 - Kodambakkam",
+        "zone_no": 10,
+        "zone_name": "Zone 10 (Kodambakkam)",
+        "population": 62040
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.152,
+              13.021999999999998
+            ],
+            [
+              80.162,
+              13.021999999999998
+            ],
+            [
+              80.162,
+              13.031999999999998
+            ],
+            [
+              80.152,
+              13.031999999999998
+            ],
+            [
+              80.152,
+              13.021999999999998
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 143,
+        "ward_number": 143,
+        "ward_name": "Ward 143 (Valasaravakkam)",
+        "ward_label": "Ward 143 - Valasaravakkam",
+        "zone_no": 11,
+        "zone_name": "Zone 11 (Valasaravakkam)",
+        "population": 62160
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.164,
+              13.021999999999998
+            ],
+            [
+              80.174,
+              13.021999999999998
+            ],
+            [
+              80.174,
+              13.031999999999998
+            ],
+            [
+              80.164,
+              13.031999999999998
+            ],
+            [
+              80.164,
+              13.021999999999998
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 144,
+        "ward_number": 144,
+        "ward_name": "Ward 144 (Valasaravakkam)",
+        "ward_label": "Ward 144 - Valasaravakkam",
+        "zone_no": 11,
+        "zone_name": "Zone 11 (Valasaravakkam)",
+        "population": 62280
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.176,
+              13.021999999999998
+            ],
+            [
+              80.186,
+              13.021999999999998
+            ],
+            [
+              80.186,
+              13.031999999999998
+            ],
+            [
+              80.176,
+              13.031999999999998
+            ],
+            [
+              80.176,
+              13.021999999999998
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 145,
+        "ward_number": 145,
+        "ward_name": "Ward 145 (Valasaravakkam)",
+        "ward_label": "Ward 145 - Valasaravakkam",
+        "zone_no": 11,
+        "zone_name": "Zone 11 (Valasaravakkam)",
+        "population": 62400
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.188,
+              13.021999999999998
+            ],
+            [
+              80.19800000000001,
+              13.021999999999998
+            ],
+            [
+              80.19800000000001,
+              13.031999999999998
+            ],
+            [
+              80.188,
+              13.031999999999998
+            ],
+            [
+              80.188,
+              13.021999999999998
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 146,
+        "ward_number": 146,
+        "ward_name": "Ward 146 (Valasaravakkam)",
+        "ward_label": "Ward 146 - Valasaravakkam",
+        "zone_no": 11,
+        "zone_name": "Zone 11 (Valasaravakkam)",
+        "population": 62520
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.152,
+              13.033999999999999
+            ],
+            [
+              80.162,
+              13.033999999999999
+            ],
+            [
+              80.162,
+              13.043999999999999
+            ],
+            [
+              80.152,
+              13.043999999999999
+            ],
+            [
+              80.152,
+              13.033999999999999
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 147,
+        "ward_number": 147,
+        "ward_name": "Ward 147 (Valasaravakkam)",
+        "ward_label": "Ward 147 - Valasaravakkam",
+        "zone_no": 11,
+        "zone_name": "Zone 11 (Valasaravakkam)",
+        "population": 62640
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.164,
+              13.033999999999999
+            ],
+            [
+              80.174,
+              13.033999999999999
+            ],
+            [
+              80.174,
+              13.043999999999999
+            ],
+            [
+              80.164,
+              13.043999999999999
+            ],
+            [
+              80.164,
+              13.033999999999999
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 148,
+        "ward_number": 148,
+        "ward_name": "Ward 148 (Valasaravakkam)",
+        "ward_label": "Ward 148 - Valasaravakkam",
+        "zone_no": 11,
+        "zone_name": "Zone 11 (Valasaravakkam)",
+        "population": 62760
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.176,
+              13.033999999999999
+            ],
+            [
+              80.186,
+              13.033999999999999
+            ],
+            [
+              80.186,
+              13.043999999999999
+            ],
+            [
+              80.176,
+              13.043999999999999
+            ],
+            [
+              80.176,
+              13.033999999999999
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 149,
+        "ward_number": 149,
+        "ward_name": "Ward 149 (Valasaravakkam)",
+        "ward_label": "Ward 149 - Valasaravakkam",
+        "zone_no": 11,
+        "zone_name": "Zone 11 (Valasaravakkam)",
+        "population": 62880
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.188,
+              13.033999999999999
+            ],
+            [
+              80.19800000000001,
+              13.033999999999999
+            ],
+            [
+              80.19800000000001,
+              13.043999999999999
+            ],
+            [
+              80.188,
+              13.043999999999999
+            ],
+            [
+              80.188,
+              13.033999999999999
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 150,
+        "ward_number": 150,
+        "ward_name": "Ward 150 (Valasaravakkam)",
+        "ward_label": "Ward 150 - Valasaravakkam",
+        "zone_no": 11,
+        "zone_name": "Zone 11 (Valasaravakkam)",
+        "population": 63000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.152,
+              13.046
+            ],
+            [
+              80.162,
+              13.046
+            ],
+            [
+              80.162,
+              13.056
+            ],
+            [
+              80.152,
+              13.056
+            ],
+            [
+              80.152,
+              13.046
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 151,
+        "ward_number": 151,
+        "ward_name": "Ward 151 (Valasaravakkam)",
+        "ward_label": "Ward 151 - Valasaravakkam",
+        "zone_no": 11,
+        "zone_name": "Zone 11 (Valasaravakkam)",
+        "population": 63120
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.164,
+              13.046
+            ],
+            [
+              80.174,
+              13.046
+            ],
+            [
+              80.174,
+              13.056
+            ],
+            [
+              80.164,
+              13.056
+            ],
+            [
+              80.164,
+              13.046
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 152,
+        "ward_number": 152,
+        "ward_name": "Ward 152 (Valasaravakkam)",
+        "ward_label": "Ward 152 - Valasaravakkam",
+        "zone_no": 11,
+        "zone_name": "Zone 11 (Valasaravakkam)",
+        "population": 63240
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.176,
+              13.046
+            ],
+            [
+              80.186,
+              13.046
+            ],
+            [
+              80.186,
+              13.056
+            ],
+            [
+              80.176,
+              13.056
+            ],
+            [
+              80.176,
+              13.046
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 153,
+        "ward_number": 153,
+        "ward_name": "Ward 153 (Valasaravakkam)",
+        "ward_label": "Ward 153 - Valasaravakkam",
+        "zone_no": 11,
+        "zone_name": "Zone 11 (Valasaravakkam)",
+        "population": 63360
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.188,
+              13.046
+            ],
+            [
+              80.19800000000001,
+              13.046
+            ],
+            [
+              80.19800000000001,
+              13.056
+            ],
+            [
+              80.188,
+              13.056
+            ],
+            [
+              80.188,
+              13.046
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 154,
+        "ward_number": 154,
+        "ward_name": "Ward 154 (Valasaravakkam)",
+        "ward_label": "Ward 154 - Valasaravakkam",
+        "zone_no": 11,
+        "zone_name": "Zone 11 (Valasaravakkam)",
+        "population": 63480
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.152,
+              13.058
+            ],
+            [
+              80.162,
+              13.058
+            ],
+            [
+              80.162,
+              13.068
+            ],
+            [
+              80.152,
+              13.068
+            ],
+            [
+              80.152,
+              13.058
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 155,
+        "ward_number": 155,
+        "ward_name": "Ward 155 (Valasaravakkam)",
+        "ward_label": "Ward 155 - Valasaravakkam",
+        "zone_no": 11,
+        "zone_name": "Zone 11 (Valasaravakkam)",
+        "population": 63600
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.182,
+              12.972
+            ],
+            [
+              80.19200000000001,
+              12.972
+            ],
+            [
+              80.19200000000001,
+              12.982
+            ],
+            [
+              80.182,
+              12.982
+            ],
+            [
+              80.182,
+              12.972
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 156,
+        "ward_number": 156,
+        "ward_name": "Ward 156 (Alandur)",
+        "ward_label": "Ward 156 - Alandur",
+        "zone_no": 12,
+        "zone_name": "Zone 12 (Alandur)",
+        "population": 63720
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.194,
+              12.972
+            ],
+            [
+              80.20400000000001,
+              12.972
+            ],
+            [
+              80.20400000000001,
+              12.982
+            ],
+            [
+              80.194,
+              12.982
+            ],
+            [
+              80.194,
+              12.972
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 157,
+        "ward_number": 157,
+        "ward_name": "Ward 157 (Alandur)",
+        "ward_label": "Ward 157 - Alandur",
+        "zone_no": 12,
+        "zone_name": "Zone 12 (Alandur)",
+        "population": 63840
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.206,
+              12.972
+            ],
+            [
+              80.21600000000001,
+              12.972
+            ],
+            [
+              80.21600000000001,
+              12.982
+            ],
+            [
+              80.206,
+              12.982
+            ],
+            [
+              80.206,
+              12.972
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 158,
+        "ward_number": 158,
+        "ward_name": "Ward 158 (Alandur)",
+        "ward_label": "Ward 158 - Alandur",
+        "zone_no": 12,
+        "zone_name": "Zone 12 (Alandur)",
+        "population": 63960
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.218,
+              12.972
+            ],
+            [
+              80.22800000000001,
+              12.972
+            ],
+            [
+              80.22800000000001,
+              12.982
+            ],
+            [
+              80.218,
+              12.982
+            ],
+            [
+              80.218,
+              12.972
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 159,
+        "ward_number": 159,
+        "ward_name": "Ward 159 (Alandur)",
+        "ward_label": "Ward 159 - Alandur",
+        "zone_no": 12,
+        "zone_name": "Zone 12 (Alandur)",
+        "population": 64080
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.182,
+              12.984
+            ],
+            [
+              80.19200000000001,
+              12.984
+            ],
+            [
+              80.19200000000001,
+              12.994
+            ],
+            [
+              80.182,
+              12.994
+            ],
+            [
+              80.182,
+              12.984
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 160,
+        "ward_number": 160,
+        "ward_name": "Ward 160 (Alandur)",
+        "ward_label": "Ward 160 - Alandur",
+        "zone_no": 12,
+        "zone_name": "Zone 12 (Alandur)",
+        "population": 64200
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.194,
+              12.984
+            ],
+            [
+              80.20400000000001,
+              12.984
+            ],
+            [
+              80.20400000000001,
+              12.994
+            ],
+            [
+              80.194,
+              12.994
+            ],
+            [
+              80.194,
+              12.984
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 161,
+        "ward_number": 161,
+        "ward_name": "Ward 161 (Alandur)",
+        "ward_label": "Ward 161 - Alandur",
+        "zone_no": 12,
+        "zone_name": "Zone 12 (Alandur)",
+        "population": 64320
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.206,
+              12.984
+            ],
+            [
+              80.21600000000001,
+              12.984
+            ],
+            [
+              80.21600000000001,
+              12.994
+            ],
+            [
+              80.206,
+              12.994
+            ],
+            [
+              80.206,
+              12.984
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 162,
+        "ward_number": 162,
+        "ward_name": "Ward 162 (Alandur)",
+        "ward_label": "Ward 162 - Alandur",
+        "zone_no": 12,
+        "zone_name": "Zone 12 (Alandur)",
+        "population": 64440
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.218,
+              12.984
+            ],
+            [
+              80.22800000000001,
+              12.984
+            ],
+            [
+              80.22800000000001,
+              12.994
+            ],
+            [
+              80.218,
+              12.994
+            ],
+            [
+              80.218,
+              12.984
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 163,
+        "ward_number": 163,
+        "ward_name": "Ward 163 (Alandur)",
+        "ward_label": "Ward 163 - Alandur",
+        "zone_no": 12,
+        "zone_name": "Zone 12 (Alandur)",
+        "population": 64560
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.182,
+              12.996
+            ],
+            [
+              80.19200000000001,
+              12.996
+            ],
+            [
+              80.19200000000001,
+              13.006
+            ],
+            [
+              80.182,
+              13.006
+            ],
+            [
+              80.182,
+              12.996
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 164,
+        "ward_number": 164,
+        "ward_name": "Ward 164 (Alandur)",
+        "ward_label": "Ward 164 - Alandur",
+        "zone_no": 12,
+        "zone_name": "Zone 12 (Alandur)",
+        "population": 64680
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.194,
+              12.996
+            ],
+            [
+              80.20400000000001,
+              12.996
+            ],
+            [
+              80.20400000000001,
+              13.006
+            ],
+            [
+              80.194,
+              13.006
+            ],
+            [
+              80.194,
+              12.996
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 165,
+        "ward_number": 165,
+        "ward_name": "Ward 165 (Alandur)",
+        "ward_label": "Ward 165 - Alandur",
+        "zone_no": 12,
+        "zone_name": "Zone 12 (Alandur)",
+        "population": 64800
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.206,
+              12.996
+            ],
+            [
+              80.21600000000001,
+              12.996
+            ],
+            [
+              80.21600000000001,
+              13.006
+            ],
+            [
+              80.206,
+              13.006
+            ],
+            [
+              80.206,
+              12.996
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 166,
+        "ward_number": 166,
+        "ward_name": "Ward 166 (Alandur)",
+        "ward_label": "Ward 166 - Alandur",
+        "zone_no": 12,
+        "zone_name": "Zone 12 (Alandur)",
+        "population": 64920
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.218,
+              12.996
+            ],
+            [
+              80.22800000000001,
+              12.996
+            ],
+            [
+              80.22800000000001,
+              13.006
+            ],
+            [
+              80.218,
+              13.006
+            ],
+            [
+              80.218,
+              12.996
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 167,
+        "ward_number": 167,
+        "ward_name": "Ward 167 (Alandur)",
+        "ward_label": "Ward 167 - Alandur",
+        "zone_no": 12,
+        "zone_name": "Zone 12 (Alandur)",
+        "population": 65040
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.232,
+              12.972
+            ],
+            [
+              80.242,
+              12.972
+            ],
+            [
+              80.242,
+              12.982
+            ],
+            [
+              80.232,
+              12.982
+            ],
+            [
+              80.232,
+              12.972
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 168,
+        "ward_number": 168,
+        "ward_name": "Ward 168 (Adyar)",
+        "ward_label": "Ward 168 - Adyar",
+        "zone_no": 13,
+        "zone_name": "Zone 13 (Adyar)",
+        "population": 65160
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.244,
+              12.972
+            ],
+            [
+              80.254,
+              12.972
+            ],
+            [
+              80.254,
+              12.982
+            ],
+            [
+              80.244,
+              12.982
+            ],
+            [
+              80.244,
+              12.972
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 169,
+        "ward_number": 169,
+        "ward_name": "Ward 169 (Adyar)",
+        "ward_label": "Ward 169 - Adyar",
+        "zone_no": 13,
+        "zone_name": "Zone 13 (Adyar)",
+        "population": 65280
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.256,
+              12.972
+            ],
+            [
+              80.266,
+              12.972
+            ],
+            [
+              80.266,
+              12.982
+            ],
+            [
+              80.256,
+              12.982
+            ],
+            [
+              80.256,
+              12.972
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 170,
+        "ward_number": 170,
+        "ward_name": "Ward 170 (Adyar)",
+        "ward_label": "Ward 170 - Adyar",
+        "zone_no": 13,
+        "zone_name": "Zone 13 (Adyar)",
+        "population": 65400
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.268,
+              12.972
+            ],
+            [
+              80.278,
+              12.972
+            ],
+            [
+              80.278,
+              12.982
+            ],
+            [
+              80.268,
+              12.982
+            ],
+            [
+              80.268,
+              12.972
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 171,
+        "ward_number": 171,
+        "ward_name": "Ward 171 (Adyar)",
+        "ward_label": "Ward 171 - Adyar",
+        "zone_no": 13,
+        "zone_name": "Zone 13 (Adyar)",
+        "population": 65520
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.232,
+              12.984
+            ],
+            [
+              80.242,
+              12.984
+            ],
+            [
+              80.242,
+              12.994
+            ],
+            [
+              80.232,
+              12.994
+            ],
+            [
+              80.232,
+              12.984
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 172,
+        "ward_number": 172,
+        "ward_name": "Ward 172 (Adyar)",
+        "ward_label": "Ward 172 - Adyar",
+        "zone_no": 13,
+        "zone_name": "Zone 13 (Adyar)",
+        "population": 65640
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.244,
+              12.984
+            ],
+            [
+              80.254,
+              12.984
+            ],
+            [
+              80.254,
+              12.994
+            ],
+            [
+              80.244,
+              12.994
+            ],
+            [
+              80.244,
+              12.984
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 173,
+        "ward_number": 173,
+        "ward_name": "Ward 173 (Adyar)",
+        "ward_label": "Ward 173 - Adyar",
+        "zone_no": 13,
+        "zone_name": "Zone 13 (Adyar)",
+        "population": 65760
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.256,
+              12.984
+            ],
+            [
+              80.266,
+              12.984
+            ],
+            [
+              80.266,
+              12.994
+            ],
+            [
+              80.256,
+              12.994
+            ],
+            [
+              80.256,
+              12.984
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 174,
+        "ward_number": 174,
+        "ward_name": "Ward 174 (Adyar)",
+        "ward_label": "Ward 174 - Adyar",
+        "zone_no": 13,
+        "zone_name": "Zone 13 (Adyar)",
+        "population": 65880
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.268,
+              12.984
+            ],
+            [
+              80.278,
+              12.984
+            ],
+            [
+              80.278,
+              12.994
+            ],
+            [
+              80.268,
+              12.994
+            ],
+            [
+              80.268,
+              12.984
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 175,
+        "ward_number": 175,
+        "ward_name": "Ward 175 (Adyar)",
+        "ward_label": "Ward 175 - Adyar",
+        "zone_no": 13,
+        "zone_name": "Zone 13 (Adyar)",
+        "population": 66000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.232,
+              12.996
+            ],
+            [
+              80.242,
+              12.996
+            ],
+            [
+              80.242,
+              13.006
+            ],
+            [
+              80.232,
+              13.006
+            ],
+            [
+              80.232,
+              12.996
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 176,
+        "ward_number": 176,
+        "ward_name": "Ward 176 (Adyar)",
+        "ward_label": "Ward 176 - Adyar",
+        "zone_no": 13,
+        "zone_name": "Zone 13 (Adyar)",
+        "population": 66120
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.244,
+              12.996
+            ],
+            [
+              80.254,
+              12.996
+            ],
+            [
+              80.254,
+              13.006
+            ],
+            [
+              80.244,
+              13.006
+            ],
+            [
+              80.244,
+              12.996
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 177,
+        "ward_number": 177,
+        "ward_name": "Ward 177 (Adyar)",
+        "ward_label": "Ward 177 - Adyar",
+        "zone_no": 13,
+        "zone_name": "Zone 13 (Adyar)",
+        "population": 66240
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.256,
+              12.996
+            ],
+            [
+              80.266,
+              12.996
+            ],
+            [
+              80.266,
+              13.006
+            ],
+            [
+              80.256,
+              13.006
+            ],
+            [
+              80.256,
+              12.996
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 178,
+        "ward_number": 178,
+        "ward_name": "Ward 178 (Adyar)",
+        "ward_label": "Ward 178 - Adyar",
+        "zone_no": 13,
+        "zone_name": "Zone 13 (Adyar)",
+        "population": 66360
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.268,
+              12.996
+            ],
+            [
+              80.278,
+              12.996
+            ],
+            [
+              80.278,
+              13.006
+            ],
+            [
+              80.268,
+              13.006
+            ],
+            [
+              80.268,
+              12.996
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 179,
+        "ward_number": 179,
+        "ward_name": "Ward 179 (Adyar)",
+        "ward_label": "Ward 179 - Adyar",
+        "zone_no": 13,
+        "zone_name": "Zone 13 (Adyar)",
+        "population": 66480
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.232,
+              13.008000000000001
+            ],
+            [
+              80.242,
+              13.008000000000001
+            ],
+            [
+              80.242,
+              13.018
+            ],
+            [
+              80.232,
+              13.018
+            ],
+            [
+              80.232,
+              13.008000000000001
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 180,
+        "ward_number": 180,
+        "ward_name": "Ward 180 (Adyar)",
+        "ward_label": "Ward 180 - Adyar",
+        "zone_no": 13,
+        "zone_name": "Zone 13 (Adyar)",
+        "population": 66600
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.212,
+              12.931999999999999
+            ],
+            [
+              80.22200000000001,
+              12.931999999999999
+            ],
+            [
+              80.22200000000001,
+              12.941999999999998
+            ],
+            [
+              80.212,
+              12.941999999999998
+            ],
+            [
+              80.212,
+              12.931999999999999
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 181,
+        "ward_number": 181,
+        "ward_name": "Ward 181 (Perungudi)",
+        "ward_label": "Ward 181 - Perungudi",
+        "zone_no": 14,
+        "zone_name": "Zone 14 (Perungudi)",
+        "population": 66720
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.224,
+              12.931999999999999
+            ],
+            [
+              80.23400000000001,
+              12.931999999999999
+            ],
+            [
+              80.23400000000001,
+              12.941999999999998
+            ],
+            [
+              80.224,
+              12.941999999999998
+            ],
+            [
+              80.224,
+              12.931999999999999
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 182,
+        "ward_number": 182,
+        "ward_name": "Ward 182 (Perungudi)",
+        "ward_label": "Ward 182 - Perungudi",
+        "zone_no": 14,
+        "zone_name": "Zone 14 (Perungudi)",
+        "population": 66840
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.236,
+              12.931999999999999
+            ],
+            [
+              80.24600000000001,
+              12.931999999999999
+            ],
+            [
+              80.24600000000001,
+              12.941999999999998
+            ],
+            [
+              80.236,
+              12.941999999999998
+            ],
+            [
+              80.236,
+              12.931999999999999
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 183,
+        "ward_number": 183,
+        "ward_name": "Ward 183 (Perungudi)",
+        "ward_label": "Ward 183 - Perungudi",
+        "zone_no": 14,
+        "zone_name": "Zone 14 (Perungudi)",
+        "population": 66960
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.248,
+              12.931999999999999
+            ],
+            [
+              80.25800000000001,
+              12.931999999999999
+            ],
+            [
+              80.25800000000001,
+              12.941999999999998
+            ],
+            [
+              80.248,
+              12.941999999999998
+            ],
+            [
+              80.248,
+              12.931999999999999
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 184,
+        "ward_number": 184,
+        "ward_name": "Ward 184 (Perungudi)",
+        "ward_label": "Ward 184 - Perungudi",
+        "zone_no": 14,
+        "zone_name": "Zone 14 (Perungudi)",
+        "population": 67080
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.212,
+              12.943999999999999
+            ],
+            [
+              80.22200000000001,
+              12.943999999999999
+            ],
+            [
+              80.22200000000001,
+              12.953999999999999
+            ],
+            [
+              80.212,
+              12.953999999999999
+            ],
+            [
+              80.212,
+              12.943999999999999
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 185,
+        "ward_number": 185,
+        "ward_name": "Ward 185 (Perungudi)",
+        "ward_label": "Ward 185 - Perungudi",
+        "zone_no": 14,
+        "zone_name": "Zone 14 (Perungudi)",
+        "population": 67200
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.224,
+              12.943999999999999
+            ],
+            [
+              80.23400000000001,
+              12.943999999999999
+            ],
+            [
+              80.23400000000001,
+              12.953999999999999
+            ],
+            [
+              80.224,
+              12.953999999999999
+            ],
+            [
+              80.224,
+              12.943999999999999
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 186,
+        "ward_number": 186,
+        "ward_name": "Ward 186 (Perungudi)",
+        "ward_label": "Ward 186 - Perungudi",
+        "zone_no": 14,
+        "zone_name": "Zone 14 (Perungudi)",
+        "population": 67320
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.236,
+              12.943999999999999
+            ],
+            [
+              80.24600000000001,
+              12.943999999999999
+            ],
+            [
+              80.24600000000001,
+              12.953999999999999
+            ],
+            [
+              80.236,
+              12.953999999999999
+            ],
+            [
+              80.236,
+              12.943999999999999
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 187,
+        "ward_number": 187,
+        "ward_name": "Ward 187 (Perungudi)",
+        "ward_label": "Ward 187 - Perungudi",
+        "zone_no": 14,
+        "zone_name": "Zone 14 (Perungudi)",
+        "population": 67440
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.248,
+              12.943999999999999
+            ],
+            [
+              80.25800000000001,
+              12.943999999999999
+            ],
+            [
+              80.25800000000001,
+              12.953999999999999
+            ],
+            [
+              80.248,
+              12.953999999999999
+            ],
+            [
+              80.248,
+              12.943999999999999
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 188,
+        "ward_number": 188,
+        "ward_name": "Ward 188 (Perungudi)",
+        "ward_label": "Ward 188 - Perungudi",
+        "zone_no": 14,
+        "zone_name": "Zone 14 (Perungudi)",
+        "population": 67560
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.212,
+              12.956
+            ],
+            [
+              80.22200000000001,
+              12.956
+            ],
+            [
+              80.22200000000001,
+              12.966
+            ],
+            [
+              80.212,
+              12.966
+            ],
+            [
+              80.212,
+              12.956
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 189,
+        "ward_number": 189,
+        "ward_name": "Ward 189 (Perungudi)",
+        "ward_label": "Ward 189 - Perungudi",
+        "zone_no": 14,
+        "zone_name": "Zone 14 (Perungudi)",
+        "population": 67680
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.224,
+              12.956
+            ],
+            [
+              80.23400000000001,
+              12.956
+            ],
+            [
+              80.23400000000001,
+              12.966
+            ],
+            [
+              80.224,
+              12.966
+            ],
+            [
+              80.224,
+              12.956
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 190,
+        "ward_number": 190,
+        "ward_name": "Ward 190 (Perungudi)",
+        "ward_label": "Ward 190 - Perungudi",
+        "zone_no": 14,
+        "zone_name": "Zone 14 (Perungudi)",
+        "population": 67800
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.236,
+              12.956
+            ],
+            [
+              80.24600000000001,
+              12.956
+            ],
+            [
+              80.24600000000001,
+              12.966
+            ],
+            [
+              80.236,
+              12.966
+            ],
+            [
+              80.236,
+              12.956
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 191,
+        "ward_number": 191,
+        "ward_name": "Ward 191 (Perungudi)",
+        "ward_label": "Ward 191 - Perungudi",
+        "zone_no": 14,
+        "zone_name": "Zone 14 (Perungudi)",
+        "population": 67920
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.212,
+              12.872
+            ],
+            [
+              80.22200000000001,
+              12.872
+            ],
+            [
+              80.22200000000001,
+              12.882
+            ],
+            [
+              80.212,
+              12.882
+            ],
+            [
+              80.212,
+              12.872
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 192,
+        "ward_number": 192,
+        "ward_name": "Ward 192 (Sholinganallur)",
+        "ward_label": "Ward 192 - Sholinganallur",
+        "zone_no": 15,
+        "zone_name": "Zone 15 (Sholinganallur)",
+        "population": 68040
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.224,
+              12.872
+            ],
+            [
+              80.23400000000001,
+              12.872
+            ],
+            [
+              80.23400000000001,
+              12.882
+            ],
+            [
+              80.224,
+              12.882
+            ],
+            [
+              80.224,
+              12.872
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 193,
+        "ward_number": 193,
+        "ward_name": "Ward 193 (Sholinganallur)",
+        "ward_label": "Ward 193 - Sholinganallur",
+        "zone_no": 15,
+        "zone_name": "Zone 15 (Sholinganallur)",
+        "population": 68160
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.236,
+              12.872
+            ],
+            [
+              80.24600000000001,
+              12.872
+            ],
+            [
+              80.24600000000001,
+              12.882
+            ],
+            [
+              80.236,
+              12.882
+            ],
+            [
+              80.236,
+              12.872
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 194,
+        "ward_number": 194,
+        "ward_name": "Ward 194 (Sholinganallur)",
+        "ward_label": "Ward 194 - Sholinganallur",
+        "zone_no": 15,
+        "zone_name": "Zone 15 (Sholinganallur)",
+        "population": 68280
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.248,
+              12.872
+            ],
+            [
+              80.25800000000001,
+              12.872
+            ],
+            [
+              80.25800000000001,
+              12.882
+            ],
+            [
+              80.248,
+              12.882
+            ],
+            [
+              80.248,
+              12.872
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 195,
+        "ward_number": 195,
+        "ward_name": "Ward 195 (Sholinganallur)",
+        "ward_label": "Ward 195 - Sholinganallur",
+        "zone_no": 15,
+        "zone_name": "Zone 15 (Sholinganallur)",
+        "population": 68400
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.212,
+              12.884
+            ],
+            [
+              80.22200000000001,
+              12.884
+            ],
+            [
+              80.22200000000001,
+              12.894
+            ],
+            [
+              80.212,
+              12.894
+            ],
+            [
+              80.212,
+              12.884
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 196,
+        "ward_number": 196,
+        "ward_name": "Ward 196 (Sholinganallur)",
+        "ward_label": "Ward 196 - Sholinganallur",
+        "zone_no": 15,
+        "zone_name": "Zone 15 (Sholinganallur)",
+        "population": 68520
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.224,
+              12.884
+            ],
+            [
+              80.23400000000001,
+              12.884
+            ],
+            [
+              80.23400000000001,
+              12.894
+            ],
+            [
+              80.224,
+              12.894
+            ],
+            [
+              80.224,
+              12.884
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 197,
+        "ward_number": 197,
+        "ward_name": "Ward 197 (Sholinganallur)",
+        "ward_label": "Ward 197 - Sholinganallur",
+        "zone_no": 15,
+        "zone_name": "Zone 15 (Sholinganallur)",
+        "population": 68640
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.236,
+              12.884
+            ],
+            [
+              80.24600000000001,
+              12.884
+            ],
+            [
+              80.24600000000001,
+              12.894
+            ],
+            [
+              80.236,
+              12.894
+            ],
+            [
+              80.236,
+              12.884
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 198,
+        "ward_number": 198,
+        "ward_name": "Ward 198 (Sholinganallur)",
+        "ward_label": "Ward 198 - Sholinganallur",
+        "zone_no": 15,
+        "zone_name": "Zone 15 (Sholinganallur)",
+        "population": 68760
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.248,
+              12.884
+            ],
+            [
+              80.25800000000001,
+              12.884
+            ],
+            [
+              80.25800000000001,
+              12.894
+            ],
+            [
+              80.248,
+              12.894
+            ],
+            [
+              80.248,
+              12.884
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 199,
+        "ward_number": 199,
+        "ward_name": "Ward 199 (Sholinganallur)",
+        "ward_label": "Ward 199 - Sholinganallur",
+        "zone_no": 15,
+        "zone_name": "Zone 15 (Sholinganallur)",
+        "population": 68880
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.212,
+              12.896
+            ],
+            [
+              80.22200000000001,
+              12.896
+            ],
+            [
+              80.22200000000001,
+              12.906
+            ],
+            [
+              80.212,
+              12.906
+            ],
+            [
+              80.212,
+              12.896
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward_no": 200,
+        "ward_number": 200,
+        "ward_name": "Ward 200 (Sholinganallur)",
+        "ward_label": "Ward 200 - Sholinganallur",
+        "zone_no": 15,
+        "zone_name": "Zone 15 (Sholinganallur)",
+        "population": 69000
+      }
+    }
+  ]
+}

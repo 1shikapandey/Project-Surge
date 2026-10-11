@@ -1,0 +1,7365 @@
+{
+  "attribution": "Parsed Real KML Dataset (Delhi Irrigation & Flood Control Dept / OpenCity staging.opencity.in)",
+  "nodes": [
+    {
+      "id": "dl-kml-node-1",
+      "name": "Asola Drain Jct 1",
+      "lat": 28.4448335431344,
+      "lng": 77.1946804206659,
+      "type": "inlet",
+      "invertDepthMeters": 4.9,
+      "capacityLps": 5146,
+      "currentWaterLevelMeters": 1.8,
+      "surchargePct": 68
+    },
+    {
+      "id": "dl-kml-node-2",
+      "name": "Asola Drain Jct 2",
+      "lat": 28.4458716791356,
+      "lng": 77.1938631635551,
+      "type": "manhole",
+      "invertDepthMeters": 4.6,
+      "capacityLps": 4935,
+      "currentWaterLevelMeters": 1.8,
+      "surchargePct": 48
+    },
+    {
+      "id": "dl-kml-node-3",
+      "name": "Asola Drain Jct 3",
+      "lat": 28.4460974161637,
+      "lng": 77.1933188443901,
+      "type": "manhole",
+      "invertDepthMeters": 4.3,
+      "capacityLps": 7031,
+      "currentWaterLevelMeters": 1.8,
+      "surchargePct": 52
+    },
+    {
+      "id": "dl-kml-node-4",
+      "name": "Asola Drain Jct 5",
+      "lat": 28.4461192247233,
+      "lng": 77.1932031600987,
+      "type": "manhole",
+      "invertDepthMeters": 3.8,
+      "capacityLps": 4548,
+      "currentWaterLevelMeters": 1.8,
+      "surchargePct": 43
+    },
+    {
+      "id": "dl-kml-node-5",
+      "name": "Asola Drain Jct 6",
+      "lat": 28.4461102386974,
+      "lng": 77.1931294813415,
+      "type": "manhole",
+      "invertDepthMeters": 4.3,
+      "capacityLps": 7450,
+      "currentWaterLevelMeters": 1.8,
+      "surchargePct": 42
+    },
+    {
+      "id": "dl-kml-node-6",
+      "name": "Asola Drain Jct 8",
+      "lat": 28.4461993264387,
+      "lng": 77.1930284398116,
+      "type": "manhole",
+      "invertDepthMeters": 4.2,
+      "capacityLps": 3870,
+      "currentWaterLevelMeters": 1.8,
+      "surchargePct": 52
+    },
+    {
+      "id": "dl-kml-node-7",
+      "name": "Asola Drain Jct 9",
+      "lat": 28.446282296092,
+      "lng": 77.1928175191142,
+      "type": "manhole",
+      "invertDepthMeters": 4.7,
+      "capacityLps": 3508,
+      "currentWaterLevelMeters": 1.8,
+      "surchargePct": 57
+    },
+    {
+      "id": "dl-kml-node-8",
+      "name": "Asola Drain Jct 10",
+      "lat": 28.4463055759425,
+      "lng": 77.1927204840641,
+      "type": "manhole",
+      "invertDepthMeters": 4.9,
+      "capacityLps": 4406,
+      "currentWaterLevelMeters": 1.8,
+      "surchargePct": 46
+    },
+    {
+      "id": "dl-kml-node-9",
+      "name": "Asola Drain Jct 12",
+      "lat": 28.4463523838563,
+      "lng": 77.1926017888425,
+      "type": "manhole",
+      "invertDepthMeters": 4.8,
+      "capacityLps": 5295,
+      "currentWaterLevelMeters": 1.8,
+      "surchargePct": 56
+    },
+    {
+      "id": "dl-kml-node-10",
+      "name": "Asola Drain Jct 13",
+      "lat": 28.4463496795949,
+      "lng": 77.1925231629146,
+      "type": "manhole",
+      "invertDepthMeters": 3.3,
+      "capacityLps": 5494,
+      "currentWaterLevelMeters": 1.8,
+      "surchargePct": 72
+    },
+    {
+      "id": "dl-kml-node-11",
+      "name": "Asola Drain Jct 14",
+      "lat": 28.4463254113895,
+      "lng": 77.1924429856562,
+      "type": "manhole",
+      "invertDepthMeters": 3.5,
+      "capacityLps": 3482,
+      "currentWaterLevelMeters": 1.8,
+      "surchargePct": 72
+    },
+    {
+      "id": "dl-kml-node-12",
+      "name": "Asola Drain Jct 16",
+      "lat": 28.4463854780083,
+      "lng": 77.1923084111053,
+      "type": "manhole",
+      "invertDepthMeters": 4.7,
+      "capacityLps": 7508,
+      "currentWaterLevelMeters": 1.8,
+      "surchargePct": 46
+    },
+    {
+      "id": "dl-kml-node-13",
+      "name": "Asola Drain Jct 17",
+      "lat": 28.4464046794333,
+      "lng": 77.1919138047792,
+      "type": "manhole",
+      "invertDepthMeters": 3,
+      "capacityLps": 7045,
+      "currentWaterLevelMeters": 1.8,
+      "surchargePct": 55
+    },
+    {
+      "id": "dl-kml-node-14",
+      "name": "Asola Drain Jct 18",
+      "lat": 28.4466811921841,
+      "lng": 77.1914986255621,
+      "type": "manhole",
+      "invertDepthMeters": 3.4,
+      "capacityLps": 4298,
+      "currentWaterLevelMeters": 1.8,
+      "surchargePct": 68
+    },
+    {
+      "id": "dl-kml-node-15",
+      "name": "Asola Drain Jct 19",
+      "lat": 28.4470919035694,
+      "lng": 77.1909136192691,
+      "type": "manhole",
+      "invertDepthMeters": 3.5,
+      "capacityLps": 3853,
+      "currentWaterLevelMeters": 1.8,
+      "surchargePct": 41
+    },
+    {
+      "id": "dl-kml-node-16",
+      "name": "Asola Drain Jct 20",
+      "lat": 28.4471665751782,
+      "lng": 77.1908315696222,
+      "type": "manhole",
+      "invertDepthMeters": 3.2,
+      "capacityLps": 3330,
+      "currentWaterLevelMeters": 1.8,
+      "surchargePct": 62
+    },
+    {
+      "id": "dl-kml-node-17",
+      "name": "Asola Drain Jct 21",
+      "lat": 28.4472631506748,
+      "lng": 77.1907544833337,
+      "type": "manhole",
+      "invertDepthMeters": 4.2,
+      "capacityLps": 7359,
+      "currentWaterLevelMeters": 1.8,
+      "surchargePct": 42
+    },
+    {
+      "id": "dl-kml-node-18",
+      "name": "Asola Drain Jct 22",
+      "lat": 28.4473630545622,
+      "lng": 77.1906586192009,
+      "type": "manhole",
+      "invertDepthMeters": 3.5,
+      "capacityLps": 6325,
+      "currentWaterLevelMeters": 1.8,
+      "surchargePct": 65
+    },
+    {
+      "id": "dl-kml-node-19",
+      "name": "Asola Drain Jct 23",
+      "lat": 28.447362995207,
+      "lng": 77.1904998034242,
+      "type": "manhole",
+      "invertDepthMeters": 3.3,
+      "capacityLps": 6822,
+      "currentWaterLevelMeters": 1.8,
+      "surchargePct": 69
+    },
+    {
+      "id": "dl-kml-node-20",
+      "name": "Asola Drain Jct 24",
+      "lat": 28.4471902291467,
+      "lng": 77.1901039830134,
+      "type": "manhole",
+      "invertDepthMeters": 4.1,
+      "capacityLps": 3604,
+      "currentWaterLevelMeters": 1.8,
+      "surchargePct": 49
+    },
+    {
+      "id": "dl-kml-node-21",
+      "name": "Asola Drain Jct 25",
+      "lat": 28.4477243032349,
+      "lng": 77.1895839131681,
+      "type": "manhole",
+      "invertDepthMeters": 4.1,
+      "capacityLps": 4768,
+      "currentWaterLevelMeters": 1.8,
+      "surchargePct": 56
+    },
+    {
+      "id": "dl-kml-node-22",
+      "name": "Asola Drain Jct 26",
+      "lat": 28.4485506192166,
+      "lng": 77.1883217704344,
+      "type": "manhole",
+      "invertDepthMeters": 4.1,
+      "capacityLps": 4582,
+      "currentWaterLevelMeters": 1.8,
+      "surchargePct": 62
+    },
+    {
+      "id": "dl-kml-node-23",
+      "name": "Asola Drain Jct 27",
+      "lat": 28.4488913831317,
+      "lng": 77.187567402015,
+      "type": "manhole",
+      "invertDepthMeters": 3.1,
+      "capacityLps": 4743,
+      "currentWaterLevelMeters": 1.8,
+      "surchargePct": 45
+    },
+    {
+      "id": "dl-kml-node-24",
+      "name": "Asola Drain Jct 28",
+      "lat": 28.4495753499234,
+      "lng": 77.1868634495895,
+      "type": "manhole",
+      "invertDepthMeters": 3.3,
+      "capacityLps": 5064,
+      "currentWaterLevelMeters": 1.8,
+      "surchargePct": 56
+    },
+    {
+      "id": "dl-kml-node-25",
+      "name": "Asola Drain Jct 29",
+      "lat": 28.4509814102648,
+      "lng": 77.1865118290586,
+      "type": "manhole",
+      "invertDepthMeters": 4.7,
+      "capacityLps": 6629,
+      "currentWaterLevelMeters": 1.8,
+      "surchargePct": 55
+    },
+    {
+      "id": "dl-kml-node-26",
+      "name": "Asola Drain Jct 30",
+      "lat": 28.4520870862509,
+      "lng": 77.186627541229,
+      "type": "manhole",
+      "invertDepthMeters": 3.5,
+      "capacityLps": 3750,
+      "currentWaterLevelMeters": 1.8,
+      "surchargePct": 47
+    },
+    {
+      "id": "dl-kml-node-27",
+      "name": "Asola Drain Jct 31",
+      "lat": 28.4529365651712,
+      "lng": 77.1864985217903,
+      "type": "manhole",
+      "invertDepthMeters": 4.8,
+      "capacityLps": 3879,
+      "currentWaterLevelMeters": 1.8,
+      "surchargePct": 70
+    },
+    {
+      "id": "dl-kml-node-28",
+      "name": "Asola Drain Jct 32",
+      "lat": 28.4541846991654,
+      "lng": 77.1847852872122,
+      "type": "manhole",
+      "invertDepthMeters": 3.2,
+      "capacityLps": 6124,
+      "currentWaterLevelMeters": 1.8,
+      "surchargePct": 49
+    },
+    {
+      "id": "dl-kml-node-29",
+      "name": "Asola Drain Jct 33",
+      "lat": 28.4545342431617,
+      "lng": 77.1837019198088,
+      "type": "manhole",
+      "invertDepthMeters": 3,
+      "capacityLps": 5335,
+      "currentWaterLevelMeters": 1.8,
+      "surchargePct": 45
+    },
+    {
+      "id": "dl-kml-node-30",
+      "name": "Asola Drain Jct 34",
+      "lat": 28.4550792197311,
+      "lng": 77.1833002870796,
+      "type": "manhole",
+      "invertDepthMeters": 4.6,
+      "capacityLps": 5240,
+      "currentWaterLevelMeters": 1.8,
+      "surchargePct": 49
+    },
+    {
+      "id": "dl-kml-node-31",
+      "name": "Asola Drain Jct 35",
+      "lat": 28.4554597516671,
+      "lng": 77.1820628379306,
+      "type": "manhole",
+      "invertDepthMeters": 3.2,
+      "capacityLps": 6606,
+      "currentWaterLevelMeters": 1.8,
+      "surchargePct": 64
+    },
+    {
+      "id": "dl-kml-node-32",
+      "name": "Asola Drain Jct 36",
+      "lat": 28.4559259098538,
+      "lng": 77.1804377548995,
+      "type": "manhole",
+      "invertDepthMeters": 4.3,
+      "capacityLps": 7611,
+      "currentWaterLevelMeters": 1.8,
+      "surchargePct": 52
+    },
+    {
+      "id": "dl-kml-node-33",
+      "name": "Asola Drain Jct 37",
+      "lat": 28.4566095232118,
+      "lng": 77.1797651339547,
+      "type": "manhole",
+      "invertDepthMeters": 3.4,
+      "capacityLps": 5764,
+      "currentWaterLevelMeters": 1.8,
+      "surchargePct": 71
+    },
+    {
+      "id": "dl-kml-node-34",
+      "name": "Asola Drain Jct 38",
+      "lat": 28.4563714438879,
+      "lng": 77.1788185992999,
+      "type": "manhole",
+      "invertDepthMeters": 4.9,
+      "capacityLps": 5765,
+      "currentWaterLevelMeters": 1.8,
+      "surchargePct": 46
+    },
+    {
+      "id": "dl-kml-node-35",
+      "name": "Asola Drain Jct 39",
+      "lat": 28.4563549350331,
+      "lng": 77.1780456176122,
+      "type": "manhole",
+      "invertDepthMeters": 4.1,
+      "capacityLps": 6451,
+      "currentWaterLevelMeters": 1.8,
+      "surchargePct": 51
+    },
+    {
+      "id": "dl-kml-node-36",
+      "name": "Asola Drain Jct 40",
+      "lat": 28.4563775502846,
+      "lng": 77.1779174759118,
+      "type": "manhole",
+      "invertDepthMeters": 4,
+      "capacityLps": 6765,
+      "currentWaterLevelMeters": 1.8,
+      "surchargePct": 54
+    },
+    {
+      "id": "dl-kml-node-37",
+      "name": "Asola Drain Jct 41",
+      "lat": 28.4564093781912,
+      "lng": 77.1778059833604,
+      "type": "manhole",
+      "invertDepthMeters": 3.3,
+      "capacityLps": 5277,
+      "currentWaterLevelMeters": 1.8,
+      "surchargePct": 53
+    },
+    {
+      "id": "dl-kml-node-38",
+      "name": "Asola Drain Jct 42",
+      "lat": 28.4564077791965,
+      "lng": 77.1776240037457,
+      "type": "manhole",
+      "invertDepthMeters": 3.8,
+      "capacityLps": 3349,
+      "currentWaterLevelMeters": 1.8,
+      "surchargePct": 42
+    },
+    {
+      "id": "dl-kml-node-39",
+      "name": "Asola Drain Jct 43",
+      "lat": 28.4562903915892,
+      "lng": 77.1775776194126,
+      "type": "manhole",
+      "invertDepthMeters": 3.2,
+      "capacityLps": 5669,
+      "currentWaterLevelMeters": 1.8,
+      "surchargePct": 75
+    },
+    {
+      "id": "dl-kml-node-40",
+      "name": "Asola Drain Jct 44",
+      "lat": 28.4562071251596,
+      "lng": 77.1774287528357,
+      "type": "manhole",
+      "invertDepthMeters": 4.9,
+      "capacityLps": 4602,
+      "currentWaterLevelMeters": 1.8,
+      "surchargePct": 54
+    },
+    {
+      "id": "dl-kml-node-41",
+      "name": "Asola Drain Jct 45",
+      "lat": 28.4565335547806,
+      "lng": 77.1764014338801,
+      "type": "manhole",
+      "invertDepthMeters": 4.2,
+      "capacityLps": 4126,
+      "currentWaterLevelMeters": 1.8,
+      "surchargePct": 72
+    },
+    {
+      "id": "dl-kml-node-42",
+      "name": "Asola Drain Jct 46",
+      "lat": 28.4564309394372,
+      "lng": 77.1763456048668,
+      "type": "manhole",
+      "invertDepthMeters": 4.7,
+      "capacityLps": 7179,
+      "currentWaterLevelMeters": 1.8,
+      "surchargePct": 68
+    },
+    {
+      "id": "dl-kml-node-43",
+      "name": "Asola Drain Jct 47",
+      "lat": 28.4563337577976,
+      "lng": 77.1763071147825,
+      "type": "manhole",
+      "invertDepthMeters": 4.6,
+      "capacityLps": 4069,
+      "currentWaterLevelMeters": 1.8,
+      "surchargePct": 61
+    },
+    {
+      "id": "dl-kml-node-44",
+      "name": "Asola Drain Jct 48",
+      "lat": 28.456235615682,
+      "lng": 77.1762659788928,
+      "type": "manhole",
+      "invertDepthMeters": 4.5,
+      "capacityLps": 5002,
+      "currentWaterLevelMeters": 1.8,
+      "surchargePct": 71
+    },
+    {
+      "id": "dl-kml-node-45",
+      "name": "Asola Drain Jct 49",
+      "lat": 28.4561752387971,
+      "lng": 77.1761791907181,
+      "type": "manhole",
+      "invertDepthMeters": 3.2,
+      "capacityLps": 5427,
+      "currentWaterLevelMeters": 1.8,
+      "surchargePct": 45
+    },
+    {
+      "id": "dl-kml-node-46",
+      "name": "Asola Drain Jct 50",
+      "lat": 28.4561267338626,
+      "lng": 77.1760650217843,
+      "type": "manhole",
+      "invertDepthMeters": 3.8,
+      "capacityLps": 4237,
+      "currentWaterLevelMeters": 1.8,
+      "surchargePct": 58
+    },
+    {
+      "id": "dl-kml-node-47",
+      "name": "Asola Drain Jct 51",
+      "lat": 28.4560903778695,
+      "lng": 77.1759655531687,
+      "type": "manhole",
+      "invertDepthMeters": 4.8,
+      "capacityLps": 6893,
+      "currentWaterLevelMeters": 1.8,
+      "surchargePct": 70
+    },
+    {
+      "id": "dl-kml-node-48",
+      "name": "Asola Drain Jct 52",
+      "lat": 28.4560601498569,
+      "lng": 77.1758642157619,
+      "type": "manhole",
+      "invertDepthMeters": 3.4,
+      "capacityLps": 4165,
+      "currentWaterLevelMeters": 1.8,
+      "surchargePct": 44
+    },
+    {
+      "id": "dl-kml-node-49",
+      "name": "Asola Drain Jct 53",
+      "lat": 28.4561430718462,
+      "lng": 77.1757045312401,
+      "type": "outfall",
+      "invertDepthMeters": 3.5,
+      "capacityLps": 6038,
+      "currentWaterLevelMeters": 1.8,
+      "surchargePct": 48
+    },
+    {
+      "id": "dl-kml-node-50",
+      "name": "Asola Drain Jct 1",
+      "lat": 28.4569140426498,
+      "lng": 77.172403678488,
+      "type": "inlet",
+      "invertDepthMeters": 4.8,
+      "capacityLps": 3499,
+      "currentWaterLevelMeters": 1.8,
+      "surchargePct": 57
+    },
+    {
+      "id": "dl-kml-node-51",
+      "name": "Asola Drain Jct 2",
+      "lat": 28.4566698416407,
+      "lng": 77.1730901301064,
+      "type": "manhole",
+      "invertDepthMeters": 4.8,
+      "capacityLps": 6248,
+      "currentWaterLevelMeters": 1.8,
+      "surchargePct": 59
+    },
+    {
+      "id": "dl-kml-node-52",
+      "name": "Asola Drain Jct 3",
+      "lat": 28.4564904520736,
+      "lng": 77.1739045813324,
+      "type": "manhole",
+      "invertDepthMeters": 4.4,
+      "capacityLps": 3234,
+      "currentWaterLevelMeters": 1.8,
+      "surchargePct": 75
+    },
+    {
+      "id": "dl-kml-node-53",
+      "name": "Asola Drain Jct 4",
+      "lat": 28.4567965803988,
+      "lng": 77.1749858452216,
+      "type": "manhole",
+      "invertDepthMeters": 3.2,
+      "capacityLps": 3284,
+      "currentWaterLevelMeters": 1.8,
+      "surchargePct": 73
+    },
+    {
+      "id": "dl-kml-node-54",
+      "name": "Bankner Link Drain Jct 1",
+      "lat": 28.8593051871855,
+      "lng": 77.0683594121581,
+      "type": "inlet",
+      "invertDepthMeters": 4,
+      "capacityLps": 6856,
+      "currentWaterLevelMeters": 1.8,
+      "surchargePct": 58
+    },
+    {
+      "id": "dl-kml-node-55",
+      "name": "Bankner Link Drain Jct 2",
+      "lat": 28.8614499047902,
+      "lng": 77.0684072066283,
+      "type": "manhole",
+      "invertDepthMeters": 4.3,
+      "capacityLps": 4341,
+      "currentWaterLevelMeters": 1.8,
+      "surchargePct": 55
+    },
+    {
+      "id": "dl-kml-node-56",
+      "name": "Bankner Link Drain Jct 3",
+      "lat": 28.8622112636398,
+      "lng": 77.0684283155153,
+      "type": "manhole",
+      "invertDepthMeters": 4.2,
+      "capacityLps": 6705,
+      "currentWaterLevelMeters": 1.8,
+      "surchargePct": 62
+    },
+    {
+      "id": "dl-kml-node-57",
+      "name": "Bankner Link Drain Jct 4",
+      "lat": 28.8633127829594,
+      "lng": 77.0684955928983,
+      "type": "manhole",
+      "invertDepthMeters": 3.6,
+      "capacityLps": 7203,
+      "currentWaterLevelMeters": 1.8,
+      "surchargePct": 64
+    },
+    {
+      "id": "dl-kml-node-58",
+      "name": "Bankner Link Drain Jct 5",
+      "lat": 28.8638425582883,
+      "lng": 77.0707037342909,
+      "type": "manhole",
+      "invertDepthMeters": 4.8,
+      "capacityLps": 5978,
+      "currentWaterLevelMeters": 1.8,
+      "surchargePct": 70
+    },
+    {
+      "id": "dl-kml-node-59",
+      "name": "Bankner Link Drain Jct 6",
+      "lat": 28.8638123392689,
+      "lng": 77.0725551910702,
+      "type": "manhole",
+      "invertDepthMeters": 3.4,
+      "capacityLps": 4986,
+      "currentWaterLevelMeters": 1.8,
+      "surchargePct": 53
+    },
+    {
+      "id": "dl-kml-node-60",
+      "name": "Bankner Link Drain Jct 7",
+      "lat": 28.8648442105927,
+      "lng": 77.073609584116,
+      "type": "manhole",
+      "invertDepthMeters": 4.7,
+      "capacityLps": 4843,
+      "currentWaterLevelMeters": 1.8,
+      "surchargePct": 41
+    },
+    {
+      "id": "dl-kml-node-61",
+      "name": "Bankner Link Drain Jct 8",
+      "lat": 28.8648414820497,
+      "lng": 77.0763221120768,
+      "type": "manhole",
+      "invertDepthMeters": 3.2,
+      "capacityLps": 3384,
+      "currentWaterLevelMeters": 1.8,
+      "surchargePct": 43
+    },
+    {
+      "id": "dl-kml-node-62",
+      "name": "Bankner Link Drain Jct 9",
+      "lat": 28.8653605761306,
+      "lng": 77.0770052236132,
+      "type": "manhole",
+      "invertDepthMeters": 3.9,
+      "capacityLps": 4251,
+      "currentWaterLevelMeters": 1.8,
+      "surchargePct": 41
+    },
+    {
+      "id": "dl-kml-node-63",
+      "name": "Bankner Link Drain Jct 10",
+      "lat": 28.865729523,
+      "lng": 77.0780635233139,
+      "type": "manhole",
+      "invertDepthMeters": 3.6,
+      "capacityLps": 3596,
+      "currentWaterLevelMeters": 1.8,
+      "surchargePct": 57
+    },
+    {
+      "id": "dl-kml-node-64",
+      "name": "Bankner Link Drain Jct 11",
+      "lat": 28.8664546760434,
+      "lng": 77.0781382021173,
+      "type": "manhole",
+      "invertDepthMeters": 3.5,
+      "capacityLps": 7215,
+      "currentWaterLevelMeters": 1.8,
+      "surchargePct": 44
+    },
+    {
+      "id": "dl-kml-node-65",
+      "name": "Bankner Link Drain Jct 12",
+      "lat": 28.8679659390777,
+      "lng": 77.083019489259,
+      "type": "outfall",
+      "invertDepthMeters": 4.6,
+      "capacityLps": 3904,
+      "currentWaterLevelMeters": 1.8,
+      "surchargePct": 60
+    }
+  ],
+  "edges": [
+    {
+      "id": "dl-kml-edge-1",
+      "name": "Asola Drain Sec 1",
+      "fromNodeId": "dl-kml-node-1",
+      "toNodeId": "dl-kml-node-2",
+      "coordinates": [
+        [
+          28.4448335431344,
+          77.1946804206659
+        ],
+        [
+          28.4450160731341,
+          77.1946748088963
+        ],
+        [
+          28.4452265882373,
+          77.1946478813956
+        ],
+        [
+          28.4455978004989,
+          77.1942552301957
+        ],
+        [
+          28.4456535206943,
+          77.1942282343465
+        ],
+        [
+          28.4457011523871,
+          77.1941885598551
+        ],
+        [
+          28.44578315437,
+          77.1940745357122
+        ],
+        [
+          28.4458248820136,
+          77.1939816870062
+        ],
+        [
+          28.4458289307614,
+          77.1939840162503
+        ],
+        [
+          28.445841948448,
+          77.1939579476022
+        ],
+        [
+          28.4458716791356,
+          77.1938631635551
+        ]
+      ],
+      "type": "open_nallah",
+      "diameterMm": 3500,
+      "slopePct": 0.5,
+      "lengthMeters": 880,
+      "capacityLps": 7500,
+      "currentFlowLps": 4500,
+      "surchargePct": 74
+    },
+    {
+      "id": "dl-kml-edge-2",
+      "name": "Asola Drain Sec 2",
+      "fromNodeId": "dl-kml-node-2",
+      "toNodeId": "dl-kml-node-3",
+      "coordinates": [
+        [
+          28.4458716791356,
+          77.1938631635551
+        ],
+        [
+          28.4459051357143,
+          77.1937683759108
+        ],
+        [
+          28.4459265593641,
+          77.19371968032
+        ],
+        [
+          28.4459550822621,
+          77.1936418583861
+        ],
+        [
+          28.4459727620342,
+          77.1935786036706
+        ],
+        [
+          28.4460037409808,
+          77.1934907282155
+        ],
+        [
+          28.446028204339,
+          77.193440757386
+        ],
+        [
+          28.4460610143053,
+          77.193377553932
+        ],
+        [
+          28.446061675307,
+          77.1933728918465
+        ],
+        [
+          28.446084565751,
+          77.1933413778033
+        ],
+        [
+          28.4460974161637,
+          77.1933188443901
+        ]
+      ],
+      "type": "open_nallah",
+      "diameterMm": 3500,
+      "slopePct": 0.5,
+      "lengthMeters": 880,
+      "capacityLps": 7500,
+      "currentFlowLps": 4500,
+      "surchargePct": 57
+    },
+    {
+      "id": "dl-kml-edge-3",
+      "name": "Asola Drain Sec 3",
+      "fromNodeId": "dl-kml-node-3",
+      "toNodeId": "dl-kml-node-3",
+      "coordinates": [
+        [
+          28.4460974161637,
+          77.1933188443901
+        ],
+        [
+          28.4460974305529,
+          77.1933165079515
+        ],
+        [
+          28.4461020980343,
+          77.1933117469405
+        ],
+        [
+          28.4461044443655,
+          77.1933087710839
+        ],
+        [
+          28.4461079778018,
+          77.1933037052028
+        ],
+        [
+          28.4461103394215,
+          77.1933007086618
+        ],
+        [
+          28.4461127064371,
+          77.1932977049261
+        ],
+        [
+          28.4461127361147,
+          77.1932929915793
+        ],
+        [
+          28.4461151247141,
+          77.1932876136335
+        ],
+        [
+          28.4461175286019,
+          77.1932810395893
+        ],
+        [
+          28.4461211061051,
+          77.1932770672838
+        ]
+      ],
+      "type": "open_nallah",
+      "diameterMm": 3500,
+      "slopePct": 0.5,
+      "lengthMeters": 880,
+      "capacityLps": 7500,
+      "currentFlowLps": 4500,
+      "surchargePct": 46
+    },
+    {
+      "id": "dl-kml-edge-4",
+      "name": "Asola Drain Sec 4",
+      "fromNodeId": "dl-kml-node-3",
+      "toNodeId": "dl-kml-node-4",
+      "coordinates": [
+        [
+          28.4461211061051,
+          77.1932770672838
+        ],
+        [
+          28.446121136682,
+          77.1932723305546
+        ],
+        [
+          28.4461223939342,
+          77.193261912808
+        ],
+        [
+          28.4461224326051,
+          77.1932559853764
+        ],
+        [
+          28.4461224802691,
+          77.1932488708397
+        ],
+        [
+          28.4461213570159,
+          77.193239153665
+        ],
+        [
+          28.4461213965861,
+          77.1932332271327
+        ],
+        [
+          28.44612140468,
+          77.1932320409269
+        ],
+        [
+          28.446121452344,
+          77.1932249263902
+        ],
+        [
+          28.4461191698647,
+          77.1932114554453
+        ],
+        [
+          28.4461192247233,
+          77.1932031600987
+        ]
+      ],
+      "type": "open_nallah",
+      "diameterMm": 3500,
+      "slopePct": 0.5,
+      "lengthMeters": 880,
+      "capacityLps": 7500,
+      "currentFlowLps": 4500,
+      "surchargePct": 47
+    },
+    {
+      "id": "dl-kml-edge-5",
+      "name": "Asola Drain Sec 5",
+      "fromNodeId": "dl-kml-node-4",
+      "toNodeId": "dl-kml-node-5",
+      "coordinates": [
+        [
+          28.4461192247233,
+          77.1932031600987
+        ],
+        [
+          28.4461193110582,
+          77.1931901199291
+        ],
+        [
+          28.4461181896036,
+          77.1931804414252
+        ],
+        [
+          28.4461182138853,
+          77.1931768846065
+        ],
+        [
+          28.4461182678447,
+          77.1931685856627
+        ],
+        [
+          28.4461171023233,
+          77.1931660315881
+        ],
+        [
+          28.4461147901663,
+          77.1931585654164
+        ],
+        [
+          28.44611364443,
+          77.1931536542187
+        ],
+        [
+          28.4461101658524,
+          77.1931460441556
+        ],
+        [
+          28.4461101964293,
+          77.1931413182182
+        ],
+        [
+          28.4461102386974,
+          77.1931294813415
+        ]
+      ],
+      "type": "open_nallah",
+      "diameterMm": 3500,
+      "slopePct": 0.5,
+      "lengthMeters": 880,
+      "capacityLps": 7500,
+      "currentFlowLps": 4500,
+      "surchargePct": 66
+    },
+    {
+      "id": "dl-kml-edge-6",
+      "name": "Asola Drain Sec 6",
+      "fromNodeId": "dl-kml-node-5",
+      "toNodeId": "dl-kml-node-5",
+      "coordinates": [
+        [
+          28.4461102386974,
+          77.1931294813415
+        ],
+        [
+          28.4461114069168,
+          77.1931225151929
+        ],
+        [
+          28.4461137460534,
+          77.193116877343
+        ],
+        [
+          28.44611491787,
+          77.1931110803131
+        ],
+        [
+          28.4461184414138,
+          77.1931043677733
+        ],
+        [
+          28.4461219757495,
+          77.1931000177526
+        ],
+        [
+          28.4461255253736,
+          77.1930956524434
+        ],
+        [
+          28.446131468993,
+          77.1930879407568
+        ],
+        [
+          28.4461362488897,
+          77.193082459389
+        ],
+        [
+          28.4461410539673,
+          77.1930793612245
+        ],
+        [
+          28.4461458806288,
+          77.1930762477716
+        ]
+      ],
+      "type": "open_nallah",
+      "diameterMm": 3500,
+      "slopePct": 0.5,
+      "lengthMeters": 880,
+      "capacityLps": 7500,
+      "currentFlowLps": 4500,
+      "surchargePct": 69
+    },
+    {
+      "id": "dl-kml-edge-7",
+      "name": "Asola Drain Sec 7",
+      "fromNodeId": "dl-kml-node-5",
+      "toNodeId": "dl-kml-node-6",
+      "coordinates": [
+        [
+          28.4461458806288,
+          77.1930762477716
+        ],
+        [
+          28.4461543882153,
+          77.1930698517932
+        ],
+        [
+          28.4461580556506,
+          77.193066572865
+        ],
+        [
+          28.4461617383744,
+          77.1930632813463
+        ],
+        [
+          28.4461654327894,
+          77.1930611976172
+        ],
+        [
+          28.4461716237223,
+          77.1930532197313
+        ],
+        [
+          28.4461791042831,
+          77.1930440718274
+        ],
+        [
+          28.4461841207015,
+          77.1930395779152
+        ],
+        [
+          28.4461929628358,
+          77.1930341316208
+        ],
+        [
+          28.4461955034206,
+          77.1930330982998
+        ],
+        [
+          28.4461993264387,
+          77.1930284398116
+        ]
+      ],
+      "type": "open_nallah",
+      "diameterMm": 3500,
+      "slopePct": 0.5,
+      "lengthMeters": 880,
+      "capacityLps": 7500,
+      "currentFlowLps": 4500,
+      "surchargePct": 72
+    },
+    {
+      "id": "dl-kml-edge-8",
+      "name": "Asola Drain Sec 8",
+      "fromNodeId": "dl-kml-node-6",
+      "toNodeId": "dl-kml-node-7",
+      "coordinates": [
+        [
+          28.4461993264387,
+          77.1930284398116
+        ],
+        [
+          28.4462044453797,
+          77.1930275926503
+        ],
+        [
+          28.4462147633016,
+          77.1930208828085
+        ],
+        [
+          28.4462199622823,
+          77.1930175022569
+        ],
+        [
+          28.4462317586896,
+          77.1929779923415
+        ],
+        [
+          28.4462477072668,
+          77.1928949408498
+        ],
+        [
+          28.4462708567156,
+          77.1928411074321
+        ],
+        [
+          28.4462721220617,
+          77.192838912187
+        ],
+        [
+          28.4462746563512,
+          77.1928320359706
+        ],
+        [
+          28.4462771960366,
+          77.192827622098
+        ],
+        [
+          28.446282296092,
+          77.1928175191142
+        ]
+      ],
+      "type": "open_nallah",
+      "diameterMm": 3500,
+      "slopePct": 0.5,
+      "lengthMeters": 880,
+      "capacityLps": 7500,
+      "currentFlowLps": 4500,
+      "surchargePct": 65
+    },
+    {
+      "id": "dl-kml-edge-9",
+      "name": "Asola Drain Sec 9",
+      "fromNodeId": "dl-kml-node-7",
+      "toNodeId": "dl-kml-node-8",
+      "coordinates": [
+        [
+          28.446282296092,
+          77.1928175191142
+        ],
+        [
+          28.4462835767266,
+          77.19280410033
+        ],
+        [
+          28.4462887100568,
+          77.1927839276372
+        ],
+        [
+          28.4462951626925,
+          77.1927663881593
+        ],
+        [
+          28.4462951635918,
+          77.1927613834321
+        ],
+        [
+          28.4462977563373,
+          77.1927555819055
+        ],
+        [
+          28.4462990558576,
+          77.1927470347488
+        ],
+        [
+          28.4463003562773,
+          77.1927422395637
+        ],
+        [
+          28.4463029634119,
+          77.1927338875598
+        ],
+        [
+          28.4463042692275,
+          77.1927253053295
+        ],
+        [
+          28.4463055759425,
+          77.1927204840641
+        ]
+      ],
+      "type": "open_nallah",
+      "diameterMm": 3500,
+      "slopePct": 0.5,
+      "lengthMeters": 880,
+      "capacityLps": 7500,
+      "currentFlowLps": 4500,
+      "surchargePct": 63
+    },
+    {
+      "id": "dl-kml-edge-10",
+      "name": "Asola Drain Sec 10",
+      "fromNodeId": "dl-kml-node-8",
+      "toNodeId": "dl-kml-node-8",
+      "coordinates": [
+        [
+          28.4463055759425,
+          77.1927204840641
+        ],
+        [
+          28.4463055759425,
+          77.1927167114081
+        ],
+        [
+          28.4463081956676,
+          77.1927095635965
+        ],
+        [
+          28.4463095077784,
+          77.1927059833954
+        ],
+        [
+          28.4463121382954,
+          77.1926962851065
+        ],
+        [
+          28.4463134549029,
+          77.1926914269687
+        ],
+        [
+          28.4463160944131,
+          77.1926867477961
+        ],
+        [
+          28.4463160953125,
+          77.1926804282601
+        ],
+        [
+          28.4463187411179,
+          77.1926769937492
+        ],
+        [
+          28.4463200667186,
+          77.192673373978
+        ],
+        [
+          28.4463213950173,
+          77.1926659473766
+        ]
+      ],
+      "type": "open_nallah",
+      "diameterMm": 3500,
+      "slopePct": 0.5,
+      "lengthMeters": 880,
+      "capacityLps": 7500,
+      "currentFlowLps": 4500,
+      "surchargePct": 50
+    },
+    {
+      "id": "dl-kml-edge-11",
+      "name": "Asola Drain Sec 11",
+      "fromNodeId": "dl-kml-node-8",
+      "toNodeId": "dl-kml-node-9",
+      "coordinates": [
+        [
+          28.4463213950173,
+          77.1926659473766
+        ],
+        [
+          28.4463253871078,
+          77.1926601170717
+        ],
+        [
+          28.446328057195,
+          77.1926515564252
+        ],
+        [
+          28.4463334180537,
+          77.1926445641963
+        ],
+        [
+          28.4463361088252,
+          77.1926397780043
+        ],
+        [
+          28.4463428672304,
+          77.1926303198344
+        ],
+        [
+          28.446345583183,
+          77.1926229292058
+        ],
+        [
+          28.4463496688031,
+          77.1926182311474
+        ],
+        [
+          28.4463510267793,
+          77.19261580028
+        ],
+        [
+          28.4463523838563,
+          77.1926082198944
+        ],
+        [
+          28.4463523838563,
+          77.1926017888425
+        ]
+      ],
+      "type": "open_nallah",
+      "diameterMm": 3500,
+      "slopePct": 0.5,
+      "lengthMeters": 880,
+      "capacityLps": 7500,
+      "currentFlowLps": 4500,
+      "surchargePct": 72
+    },
+    {
+      "id": "dl-kml-edge-12",
+      "name": "Asola Drain Sec 12",
+      "fromNodeId": "dl-kml-node-9",
+      "toNodeId": "dl-kml-node-10",
+      "coordinates": [
+        [
+          28.4463523838563,
+          77.1926017888425
+        ],
+        [
+          28.4463523847556,
+          77.1925966429217
+        ],
+        [
+          28.446352385655,
+          77.1925863528788
+        ],
+        [
+          28.4463523865543,
+          77.1925773479672
+        ],
+        [
+          28.4463523883529,
+          77.1925683439549
+        ],
+        [
+          28.4463523892522,
+          77.1925631989334
+        ],
+        [
+          28.4463523892522,
+          77.1925580530127
+        ],
+        [
+          28.4463523901516,
+          77.1925516219608
+        ],
+        [
+          28.4463523910509,
+          77.1925387580582
+        ],
+        [
+          28.4463510366719,
+          77.1925309564394
+        ],
+        [
+          28.4463496795949,
+          77.1925231629146
+        ]
+      ],
+      "type": "open_nallah",
+      "diameterMm": 3500,
+      "slopePct": 0.5,
+      "lengthMeters": 880,
+      "capacityLps": 7500,
+      "currentFlowLps": 4500,
+      "surchargePct": 64
+    },
+    {
+      "id": "dl-kml-edge-13",
+      "name": "Asola Drain Sec 13",
+      "fromNodeId": "dl-kml-node-10",
+      "toNodeId": "dl-kml-node-11",
+      "coordinates": [
+        [
+          28.4463496795949,
+          77.1925231629146
+        ],
+        [
+          28.4463469546491,
+          77.1925165852732
+        ],
+        [
+          28.4463455957735,
+          77.1925075326974
+        ],
+        [
+          28.4463428816196,
+          77.1924984270618
+        ],
+        [
+          28.4463388238785,
+          77.192485450744
+        ],
+        [
+          28.4463361268117,
+          77.1924789558401
+        ],
+        [
+          28.4463334378387,
+          77.1924699293447
+        ],
+        [
+          28.4463307551611,
+          77.1924609253324
+        ],
+        [
+          28.4463280787787,
+          77.1924557578279
+        ],
+        [
+          28.4463267441848,
+          77.1924480974027
+        ],
+        [
+          28.4463254113895,
+          77.1924429856562
+        ]
+      ],
+      "type": "open_nallah",
+      "diameterMm": 3500,
+      "slopePct": 0.5,
+      "lengthMeters": 880,
+      "capacityLps": 7500,
+      "currentFlowLps": 4500,
+      "surchargePct": 52
+    },
+    {
+      "id": "dl-kml-edge-14",
+      "name": "Asola Drain Sec 14",
+      "fromNodeId": "dl-kml-node-11",
+      "toNodeId": "dl-kml-node-11",
+      "coordinates": [
+        [
+          28.4463254113895,
+          77.1924429856562
+        ],
+        [
+          28.4463240785942,
+          77.1924340751734
+        ],
+        [
+          28.4463240803929,
+          77.1924264606137
+        ],
+        [
+          28.4463227502956,
+          77.1924213695515
+        ],
+        [
+          28.4463227511949,
+          77.192413761287
+        ],
+        [
+          28.4463227520942,
+          77.1924074201673
+        ],
+        [
+          28.4463254158861,
+          77.1923985429594
+        ],
+        [
+          28.4463280859733,
+          77.1923896432684
+        ],
+        [
+          28.4463321041442,
+          77.1923845297233
+        ],
+        [
+          28.4463321050435,
+          77.1923819819439
+        ],
+        [
+          28.4463321050435,
+          77.1923768863852
+        ]
+      ],
+      "type": "open_nallah",
+      "diameterMm": 3500,
+      "slopePct": 0.5,
+      "lengthMeters": 880,
+      "capacityLps": 7500,
+      "currentFlowLps": 4500,
+      "surchargePct": 63
+    },
+    {
+      "id": "dl-kml-edge-15",
+      "name": "Asola Drain Sec 15",
+      "fromNodeId": "dl-kml-node-11",
+      "toNodeId": "dl-kml-node-12",
+      "coordinates": [
+        [
+          28.4463321050435,
+          77.1923768863852
+        ],
+        [
+          28.4463361394022,
+          77.1923717386658
+        ],
+        [
+          28.44634018815,
+          77.1923665711613
+        ],
+        [
+          28.4463469726356,
+          77.1923587677439
+        ],
+        [
+          28.44634969938,
+          77.192353576857
+        ],
+        [
+          28.4463592178045,
+          77.1923404719362
+        ],
+        [
+          28.4463633223103,
+          77.1923338969927
+        ],
+        [
+          28.4463688180674,
+          77.1923272501035
+        ],
+        [
+          28.4463771161119,
+          77.1923178665772
+        ],
+        [
+          28.4463798959163,
+          77.1923125515839
+        ],
+        [
+          28.4463854780083,
+          77.1923084111053
+        ]
+      ],
+      "type": "open_nallah",
+      "diameterMm": 3500,
+      "slopePct": 0.5,
+      "lengthMeters": 880,
+      "capacityLps": 7500,
+      "currentFlowLps": 4500,
+      "surchargePct": 64
+    },
+    {
+      "id": "dl-kml-edge-16",
+      "name": "Asola Drain Sec 16",
+      "fromNodeId": "dl-kml-node-12",
+      "toNodeId": "dl-kml-node-13",
+      "coordinates": [
+        [
+          28.4463854780083,
+          77.1923084111053
+        ],
+        [
+          28.4463939037565,
+          77.1922975706773
+        ],
+        [
+          28.4464109567012,
+          77.1922637399806
+        ],
+        [
+          28.4463944010816,
+          77.1922035501547
+        ],
+        [
+          28.4463656749368,
+          77.1921436148369
+        ],
+        [
+          28.4463618177446,
+          77.1921360812162
+        ],
+        [
+          28.4463605362106,
+          77.1921310728917
+        ],
+        [
+          28.4463414256172,
+          77.192070336278
+        ],
+        [
+          28.4463494430732,
+          77.1920304882174
+        ],
+        [
+          28.4463748597129,
+          77.1919721348071
+        ],
+        [
+          28.4464046794333,
+          77.1919138047792
+        ]
+      ],
+      "type": "open_nallah",
+      "diameterMm": 3500,
+      "slopePct": 0.5,
+      "lengthMeters": 880,
+      "capacityLps": 7500,
+      "currentFlowLps": 4500,
+      "surchargePct": 68
+    },
+    {
+      "id": "dl-kml-edge-17",
+      "name": "Asola Drain Sec 17",
+      "fromNodeId": "dl-kml-node-13",
+      "toNodeId": "dl-kml-node-14",
+      "coordinates": [
+        [
+          28.4464046794333,
+          77.1919138047792
+        ],
+        [
+          28.446411000768,
+          77.1918679690325
+        ],
+        [
+          28.4464059483767,
+          77.191812684109
+        ],
+        [
+          28.4463852711642,
+          77.1917438473017
+        ],
+        [
+          28.4464216946064,
+          77.1916787660632
+        ],
+        [
+          28.4464608178134,
+          77.1916286522415
+        ],
+        [
+          28.4465270672712,
+          77.1915732558021
+        ],
+        [
+          28.4465289477536,
+          77.1915731056153
+        ],
+        [
+          28.4465984527573,
+          77.1915461547322
+        ],
+        [
+          28.4466727772278,
+          77.1914994979045
+        ],
+        [
+          28.4466811921841,
+          77.1914986255621
+        ]
+      ],
+      "type": "open_nallah",
+      "diameterMm": 3500,
+      "slopePct": 0.5,
+      "lengthMeters": 880,
+      "capacityLps": 7500,
+      "currentFlowLps": 4500,
+      "surchargePct": 56
+    },
+    {
+      "id": "dl-kml-edge-18",
+      "name": "Asola Drain Sec 18",
+      "fromNodeId": "dl-kml-node-14",
+      "toNodeId": "dl-kml-node-15",
+      "coordinates": [
+        [
+          28.4466811921841,
+          77.1914986255621
+        ],
+        [
+          28.4467499651396,
+          77.1914028513615
+        ],
+        [
+          28.4468064650472,
+          77.1913142672406
+        ],
+        [
+          28.4468127899792,
+          77.19130804663
+        ],
+        [
+          28.4469127541212,
+          77.191234027929
+        ],
+        [
+          28.4469172453355,
+          77.1912296446334
+        ],
+        [
+          28.4470074599272,
+          77.191038662805
+        ],
+        [
+          28.4470663951989,
+          77.190935640968
+        ],
+        [
+          28.4470770009037,
+          77.1909243436845
+        ],
+        [
+          28.4470855147856,
+          77.1909169890288
+        ],
+        [
+          28.4470919035694,
+          77.1909136192691
+        ]
+      ],
+      "type": "open_nallah",
+      "diameterMm": 3500,
+      "slopePct": 0.5,
+      "lengthMeters": 880,
+      "capacityLps": 7500,
+      "currentFlowLps": 4500,
+      "surchargePct": 54
+    },
+    {
+      "id": "dl-kml-edge-19",
+      "name": "Asola Drain Sec 19",
+      "fromNodeId": "dl-kml-node-15",
+      "toNodeId": "dl-kml-node-16",
+      "coordinates": [
+        [
+          28.4470919035694,
+          77.1909136192691
+        ],
+        [
+          28.4470983678962,
+          77.1909058850995
+        ],
+        [
+          28.4471048583034,
+          77.1908981203529
+        ],
+        [
+          28.4471135151775,
+          77.1908906352955
+        ],
+        [
+          28.4471200370609,
+          77.190884995647
+        ],
+        [
+          28.4471309899042,
+          77.1908733512252
+        ],
+        [
+          28.4471332103303,
+          77.1908692530146
+        ],
+        [
+          28.4471420407734,
+          77.1908594243239
+        ],
+        [
+          28.4471508910017,
+          77.1908517558049
+        ],
+        [
+          28.4471598428534,
+          77.1908396095613
+        ],
+        [
+          28.4471665751782,
+          77.1908315696222
+        ]
+      ],
+      "type": "open_nallah",
+      "diameterMm": 3500,
+      "slopePct": 0.5,
+      "lengthMeters": 880,
+      "capacityLps": 7500,
+      "currentFlowLps": 4500,
+      "surchargePct": 47
+    },
+    {
+      "id": "dl-kml-edge-20",
+      "name": "Asola Drain Sec 20",
+      "fromNodeId": "dl-kml-node-16",
+      "toNodeId": "dl-kml-node-17",
+      "coordinates": [
+        [
+          28.4471665751782,
+          77.1908315696222
+        ],
+        [
+          28.4471733039057,
+          77.1908257267269
+        ],
+        [
+          28.4471846371621,
+          77.1908114643786
+        ],
+        [
+          28.4471914378354,
+          77.1908055486381
+        ],
+        [
+          28.4472028322458,
+          77.1907956399078
+        ],
+        [
+          28.4472120017334,
+          77.1907876647199
+        ],
+        [
+          28.4472211892074,
+          77.1907819081595
+        ],
+        [
+          28.4472350450621,
+          77.1907743520557
+        ],
+        [
+          28.4472397089463,
+          77.1907703042071
+        ],
+        [
+          28.4472513911397,
+          77.1907624198508
+        ],
+        [
+          28.4472631506748,
+          77.1907544833337
+        ]
+      ],
+      "type": "open_nallah",
+      "diameterMm": 3500,
+      "slopePct": 0.5,
+      "lengthMeters": 880,
+      "capacityLps": 7500,
+      "currentFlowLps": 4500,
+      "surchargePct": 70
+    },
+    {
+      "id": "dl-kml-edge-21",
+      "name": "Asola Drain Sec 21",
+      "fromNodeId": "dl-kml-node-17",
+      "toNodeId": "dl-kml-node-18",
+      "coordinates": [
+        [
+          28.4472631506748,
+          77.1907544833337
+        ],
+        [
+          28.4472702966877,
+          77.1907460261092
+        ],
+        [
+          28.4472846102974,
+          77.1907336145657
+        ],
+        [
+          28.4472894063819,
+          77.1907294552012
+        ],
+        [
+          28.447296591965,
+          77.1907255062781
+        ],
+        [
+          28.4473159867443,
+          77.190708700647
+        ],
+        [
+          28.4473257992471,
+          77.1906978979906
+        ],
+        [
+          28.4473355577907,
+          77.1906940488922
+        ],
+        [
+          28.44734049327,
+          77.1906897762132
+        ],
+        [
+          28.4473503669268,
+          77.1906835421128
+        ],
+        [
+          28.4473630545622,
+          77.1906586192009
+        ]
+      ],
+      "type": "open_nallah",
+      "diameterMm": 3500,
+      "slopePct": 0.5,
+      "lengthMeters": 880,
+      "capacityLps": 7500,
+      "currentFlowLps": 4500,
+      "surchargePct": 69
+    },
+    {
+      "id": "dl-kml-edge-22",
+      "name": "Asola Drain Sec 22",
+      "fromNodeId": "dl-kml-node-18",
+      "toNodeId": "dl-kml-node-19",
+      "coordinates": [
+        [
+          28.4473630545622,
+          77.1906586192009
+        ],
+        [
+          28.4473682157714,
+          77.1906448209027
+        ],
+        [
+          28.4473831939801,
+          77.1906197064353
+        ],
+        [
+          28.4473879675815,
+          77.1906104407203
+        ],
+        [
+          28.4473902428663,
+          77.190601006832
+        ],
+        [
+          28.4473900701964,
+          77.1905938203495
+        ],
+        [
+          28.447382166055,
+          77.1905766657815
+        ],
+        [
+          28.4473741288139,
+          77.1905524479381
+        ],
+        [
+          28.447368831807,
+          77.1905379553633
+        ],
+        [
+          28.4473659099097,
+          77.1905188582597
+        ],
+        [
+          28.447362995207,
+          77.1904998034242
+        ]
+      ],
+      "type": "open_nallah",
+      "diameterMm": 3500,
+      "slopePct": 0.5,
+      "lengthMeters": 880,
+      "capacityLps": 7500,
+      "currentFlowLps": 4500,
+      "surchargePct": 46
+    },
+    {
+      "id": "dl-kml-edge-23",
+      "name": "Asola Drain Sec 23",
+      "fromNodeId": "dl-kml-node-19",
+      "toNodeId": "dl-kml-node-20",
+      "coordinates": [
+        [
+          28.447362995207,
+          77.1904998034242
+        ],
+        [
+          28.4473600301421,
+          77.1904784238412
+        ],
+        [
+          28.4473570731712,
+          77.1904570946202
+        ],
+        [
+          28.4473569067967,
+          77.1904500106605
+        ],
+        [
+          28.4473186262545,
+          77.1903699835888
+        ],
+        [
+          28.4473110143927,
+          77.1903514125886
+        ],
+        [
+          28.4473083640906,
+          77.1903398284213
+        ],
+        [
+          28.4472518201163,
+          77.1902264113208
+        ],
+        [
+          28.4472494144298,
+          77.1902219641733
+        ],
+        [
+          28.447242123626,
+          77.1902041288185
+        ],
+        [
+          28.4471902291467,
+          77.1901039830134
+        ]
+      ],
+      "type": "open_nallah",
+      "diameterMm": 3500,
+      "slopePct": 0.5,
+      "lengthMeters": 880,
+      "capacityLps": 7500,
+      "currentFlowLps": 4500,
+      "surchargePct": 50
+    },
+    {
+      "id": "dl-kml-edge-24",
+      "name": "Asola Drain Sec 24",
+      "fromNodeId": "dl-kml-node-20",
+      "toNodeId": "dl-kml-node-21",
+      "coordinates": [
+        [
+          28.4471902291467,
+          77.1901039830134
+        ],
+        [
+          28.4471960801359,
+          77.1900835818928
+        ],
+        [
+          28.4471972573484,
+          77.1900613767321
+        ],
+        [
+          28.4472072407224,
+          77.1900406527549
+        ],
+        [
+          28.4472456210894,
+          77.1899639019135
+        ],
+        [
+          28.4472499549224,
+          77.1899612300277
+        ],
+        [
+          28.4473122005984,
+          77.1899023019507
+        ],
+        [
+          28.4473818467957,
+          77.1898413620902
+        ],
+        [
+          28.4475045718794,
+          77.1897600202097
+        ],
+        [
+          28.4476248948739,
+          77.1896701212801
+        ],
+        [
+          28.4477243032349,
+          77.1895839131681
+        ]
+      ],
+      "type": "open_nallah",
+      "diameterMm": 3500,
+      "slopePct": 0.5,
+      "lengthMeters": 880,
+      "capacityLps": 7500,
+      "currentFlowLps": 4500,
+      "surchargePct": 57
+    },
+    {
+      "id": "dl-kml-edge-25",
+      "name": "Asola Drain Sec 25",
+      "fromNodeId": "dl-kml-node-21",
+      "toNodeId": "dl-kml-node-22",
+      "coordinates": [
+        [
+          28.4477243032349,
+          77.1895839131681
+        ],
+        [
+          28.4478198822826,
+          77.1895021755859
+        ],
+        [
+          28.4479151870372,
+          77.1893219757296
+        ],
+        [
+          28.4480045859437,
+          77.1891158061505
+        ],
+        [
+          28.4480447910352,
+          77.189018965354
+        ],
+        [
+          28.448115659411,
+          77.1889430203051
+        ],
+        [
+          28.4482053721811,
+          77.1888676427285
+        ],
+        [
+          28.448283168934,
+          77.1887659581834
+        ],
+        [
+          28.4483913843558,
+          77.1886385710142
+        ],
+        [
+          28.4484611807398,
+          77.1884933430943
+        ],
+        [
+          28.4485506192166,
+          77.1883217704344
+        ]
+      ],
+      "type": "open_nallah",
+      "diameterMm": 3500,
+      "slopePct": 0.5,
+      "lengthMeters": 880,
+      "capacityLps": 7500,
+      "currentFlowLps": 4500,
+      "surchargePct": 73
+    },
+    {
+      "id": "dl-kml-edge-26",
+      "name": "Asola Drain Sec 26",
+      "fromNodeId": "dl-kml-node-22",
+      "toNodeId": "dl-kml-node-23",
+      "coordinates": [
+        [
+          28.4485506192166,
+          77.1883217704344
+        ],
+        [
+          28.4486250929746,
+          77.1881887301268
+        ],
+        [
+          28.4486652548985,
+          77.1880659717681
+        ],
+        [
+          28.448703480582,
+          77.1879979974106
+        ],
+        [
+          28.4487460445952,
+          77.1879193876706
+        ],
+        [
+          28.4487633007866,
+          77.187863764602
+        ],
+        [
+          28.4487980667782,
+          77.1878036170443
+        ],
+        [
+          28.4488756396,
+          77.1876899643214
+        ],
+        [
+          28.4488852308696,
+          77.1876385132078
+        ],
+        [
+          28.4488913786351,
+          77.1876324301935
+        ],
+        [
+          28.4488913831317,
+          77.187567402015
+        ]
+      ],
+      "type": "open_nallah",
+      "diameterMm": 3500,
+      "slopePct": 0.5,
+      "lengthMeters": 880,
+      "capacityLps": 7500,
+      "currentFlowLps": 4500,
+      "surchargePct": 45
+    },
+    {
+      "id": "dl-kml-edge-27",
+      "name": "Asola Drain Sec 27",
+      "fromNodeId": "dl-kml-node-23",
+      "toNodeId": "dl-kml-node-24",
+      "coordinates": [
+        [
+          28.4488913831317,
+          77.187567402015
+        ],
+        [
+          28.4488852380642,
+          77.1874891699902
+        ],
+        [
+          28.448864539268,
+          77.1874061104047
+        ],
+        [
+          28.4488794886983,
+          77.1873089602413
+        ],
+        [
+          28.448907427037,
+          77.1872045012877
+        ],
+        [
+          28.4489342619075,
+          77.1870968740225
+        ],
+        [
+          28.4490002946288,
+          77.187043317596
+        ],
+        [
+          28.4491480289593,
+          77.1869481864106
+        ],
+        [
+          28.4492369809028,
+          77.1869107854054
+        ],
+        [
+          28.4493976052162,
+          77.1868854721878
+        ],
+        [
+          28.4495753499234,
+          77.1868634495895
+        ]
+      ],
+      "type": "open_nallah",
+      "diameterMm": 3500,
+      "slopePct": 0.5,
+      "lengthMeters": 880,
+      "capacityLps": 7500,
+      "currentFlowLps": 4500,
+      "surchargePct": 73
+    },
+    {
+      "id": "dl-kml-edge-28",
+      "name": "Asola Drain Sec 28",
+      "fromNodeId": "dl-kml-node-24",
+      "toNodeId": "dl-kml-node-25",
+      "coordinates": [
+        [
+          28.4495753499234,
+          77.1868634495895
+        ],
+        [
+          28.4496890961757,
+          77.1868322709935
+        ],
+        [
+          28.4499066763529,
+          77.1867525937582
+        ],
+        [
+          28.4500180618849,
+          77.1867001587863
+        ],
+        [
+          28.4502054095529,
+          77.1866250141341
+        ],
+        [
+          28.450312668096,
+          77.1865985039188
+        ],
+        [
+          28.450490294992,
+          77.1865807773819
+        ],
+        [
+          28.4505827587882,
+          77.1865566036054
+        ],
+        [
+          28.4506794206196,
+          77.1865460230815
+        ],
+        [
+          28.4508569935563,
+          77.1865310421749
+        ],
+        [
+          28.4509814102648,
+          77.1865118290586
+        ]
+      ],
+      "type": "open_nallah",
+      "diameterMm": 3500,
+      "slopePct": 0.5,
+      "lengthMeters": 880,
+      "capacityLps": 7500,
+      "currentFlowLps": 4500,
+      "surchargePct": 67
+    },
+    {
+      "id": "dl-kml-edge-29",
+      "name": "Asola Drain Sec 29",
+      "fromNodeId": "dl-kml-node-25",
+      "toNodeId": "dl-kml-node-26",
+      "coordinates": [
+        [
+          28.4509814102648,
+          77.1865118290586
+        ],
+        [
+          28.4511278288871,
+          77.1864895159794
+        ],
+        [
+          28.451261610236,
+          77.186481128902
+        ],
+        [
+          28.4513568781183,
+          77.1865132589807
+        ],
+        [
+          28.4514434558517,
+          77.1865846939294
+        ],
+        [
+          28.4515179961595,
+          77.1866286878646
+        ],
+        [
+          28.4516003263948,
+          77.1866439079909
+        ],
+        [
+          28.4518126536319,
+          77.1866633072668
+        ],
+        [
+          28.4519280231606,
+          77.1866427496641
+        ],
+        [
+          28.4520148841804,
+          77.1866354957325
+        ],
+        [
+          28.4520870862509,
+          77.186627541229
+        ]
+      ],
+      "type": "open_nallah",
+      "diameterMm": 3500,
+      "slopePct": 0.5,
+      "lengthMeters": 880,
+      "capacityLps": 7500,
+      "currentFlowLps": 4500,
+      "surchargePct": 70
+    },
+    {
+      "id": "dl-kml-edge-30",
+      "name": "Asola Drain Sec 30",
+      "fromNodeId": "dl-kml-node-26",
+      "toNodeId": "dl-kml-node-27",
+      "coordinates": [
+        [
+          28.4520870862509,
+          77.186627541229
+        ],
+        [
+          28.4521835169566,
+          77.1866297832389
+        ],
+        [
+          28.4522982173897,
+          77.1866632056434
+        ],
+        [
+          28.4523561661051,
+          77.186716779157
+        ],
+        [
+          28.4524555951505,
+          77.1867855251328
+        ],
+        [
+          28.4525277063894,
+          77.1868002371422
+        ],
+        [
+          28.4526169317269,
+          77.1867886538743
+        ],
+        [
+          28.452702386207,
+          77.1867659540865
+        ],
+        [
+          28.4527986019748,
+          77.1866738248381
+        ],
+        [
+          28.4528452408161,
+          77.1866223404496
+        ],
+        [
+          28.4529365651712,
+          77.1864985217903
+        ]
+      ],
+      "type": "open_nallah",
+      "diameterMm": 3500,
+      "slopePct": 0.5,
+      "lengthMeters": 880,
+      "capacityLps": 7500,
+      "currentFlowLps": 4500,
+      "surchargePct": 68
+    },
+    {
+      "id": "dl-kml-edge-31",
+      "name": "Asola Drain Sec 31",
+      "fromNodeId": "dl-kml-node-27",
+      "toNodeId": "dl-kml-node-28",
+      "coordinates": [
+        [
+          28.4529365651712,
+          77.1864985217903
+        ],
+        [
+          28.4530138124384,
+          77.1863909997458
+        ],
+        [
+          28.4531500831107,
+          77.1861695983492
+        ],
+        [
+          28.4532761518738,
+          77.185971116175
+        ],
+        [
+          28.4534290276284,
+          77.1857560603949
+        ],
+        [
+          28.4535428170482,
+          77.1855441846174
+        ],
+        [
+          28.4536527681616,
+          77.185311085739
+        ],
+        [
+          28.4537780769975,
+          77.185153645925
+        ],
+        [
+          28.4539423687462,
+          77.1850069673986
+        ],
+        [
+          28.4540793552789,
+          77.1848973975978
+        ],
+        [
+          28.4541846991654,
+          77.1847852872122
+        ]
+      ],
+      "type": "open_nallah",
+      "diameterMm": 3500,
+      "slopePct": 0.5,
+      "lengthMeters": 880,
+      "capacityLps": 7500,
+      "currentFlowLps": 4500,
+      "surchargePct": 69
+    },
+    {
+      "id": "dl-kml-edge-32",
+      "name": "Asola Drain Sec 32",
+      "fromNodeId": "dl-kml-node-28",
+      "toNodeId": "dl-kml-node-29",
+      "coordinates": [
+        [
+          28.4541846991654,
+          77.1847852872122
+        ],
+        [
+          28.454263427616,
+          77.1846511389399
+        ],
+        [
+          28.4543285628138,
+          77.1845269479613
+        ],
+        [
+          28.4544028692978,
+          77.1843909362937
+        ],
+        [
+          28.4544729606595,
+          77.1842503326877
+        ],
+        [
+          28.4545156559736,
+          77.1841550009535
+        ],
+        [
+          28.4545341577261,
+          77.1840582482905
+        ],
+        [
+          28.4545437400025,
+          77.1839713566937
+        ],
+        [
+          28.4545369708055,
+          77.1838957371995
+        ],
+        [
+          28.4545250763721,
+          77.1837806383667
+        ],
+        [
+          28.4545342431617,
+          77.1837019198088
+        ]
+      ],
+      "type": "open_nallah",
+      "diameterMm": 3500,
+      "slopePct": 0.5,
+      "lengthMeters": 880,
+      "capacityLps": 7500,
+      "currentFlowLps": 4500,
+      "surchargePct": 46
+    },
+    {
+      "id": "dl-kml-edge-33",
+      "name": "Asola Drain Sec 33",
+      "fromNodeId": "dl-kml-node-29",
+      "toNodeId": "dl-kml-node-30",
+      "coordinates": [
+        [
+          28.4545342431617,
+          77.1837019198088
+        ],
+        [
+          28.4545343654694,
+          77.1837014053965
+        ],
+        [
+          28.4545684129028,
+          77.1835582468166
+        ],
+        [
+          28.4545692699567,
+          77.1835546441325
+        ],
+        [
+          28.4546125597227,
+          77.1834567790081
+        ],
+        [
+          28.4547034290209,
+          77.1834085681519
+        ],
+        [
+          28.4547534726955,
+          77.1833952932591
+        ],
+        [
+          28.4548351967878,
+          77.1833850913499
+        ],
+        [
+          28.4549603266586,
+          77.1833612566177
+        ],
+        [
+          28.4550708992035,
+          77.1833023582182
+        ],
+        [
+          28.4550792197311,
+          77.1833002870796
+        ]
+      ],
+      "type": "open_nallah",
+      "diameterMm": 3500,
+      "slopePct": 0.5,
+      "lengthMeters": 880,
+      "capacityLps": 7500,
+      "currentFlowLps": 4500,
+      "surchargePct": 48
+    },
+    {
+      "id": "dl-kml-edge-34",
+      "name": "Asola Drain Sec 34",
+      "fromNodeId": "dl-kml-node-30",
+      "toNodeId": "dl-kml-node-31",
+      "coordinates": [
+        [
+          28.4550792197311,
+          77.1833002870796
+        ],
+        [
+          28.4550909882594,
+          77.1832934351449
+        ],
+        [
+          28.4550960928113,
+          77.1832871569777
+        ],
+        [
+          28.4551694999734,
+          77.1831968749368
+        ],
+        [
+          28.4552120477986,
+          77.183083186241
+        ],
+        [
+          28.4552779420243,
+          77.1829843687346
+        ],
+        [
+          28.4553321918281,
+          77.1828477644138
+        ],
+        [
+          28.4553711351707,
+          77.1826257937464
+        ],
+        [
+          28.4553910137851,
+          77.1825180189924
+        ],
+        [
+          28.4554285236084,
+          77.1822436772049
+        ],
+        [
+          28.4554597516671,
+          77.1820628379306
+        ]
+      ],
+      "type": "open_nallah",
+      "diameterMm": 3500,
+      "slopePct": 0.5,
+      "lengthMeters": 880,
+      "capacityLps": 7500,
+      "currentFlowLps": 4500,
+      "surchargePct": 60
+    },
+    {
+      "id": "dl-kml-edge-35",
+      "name": "Asola Drain Sec 35",
+      "fromNodeId": "dl-kml-node-31",
+      "toNodeId": "dl-kml-node-32",
+      "coordinates": [
+        [
+          28.4554597516671,
+          77.1820628379306
+        ],
+        [
+          28.4555132298526,
+          77.1818542141017
+        ],
+        [
+          28.4555690723557,
+          77.1816608077011
+        ],
+        [
+          28.4556061630948,
+          77.1815521237325
+        ],
+        [
+          28.4556522929199,
+          77.181406777102
+        ],
+        [
+          28.4556778318673,
+          77.1812775229403
+        ],
+        [
+          28.4557074330525,
+          77.1810750037095
+        ],
+        [
+          28.4557060723782,
+          77.180860815775
+        ],
+        [
+          28.4557255750761,
+          77.1806716550738
+        ],
+        [
+          28.4558009553507,
+          77.1805238622874
+        ],
+        [
+          28.4559259098538,
+          77.1804377548995
+        ]
+      ],
+      "type": "open_nallah",
+      "diameterMm": 3500,
+      "slopePct": 0.5,
+      "lengthMeters": 880,
+      "capacityLps": 7500,
+      "currentFlowLps": 4500,
+      "surchargePct": 50
+    },
+    {
+      "id": "dl-kml-edge-36",
+      "name": "Asola Drain Sec 36",
+      "fromNodeId": "dl-kml-node-32",
+      "toNodeId": "dl-kml-node-33",
+      "coordinates": [
+        [
+          28.4559259098538,
+          77.1804377548995
+        ],
+        [
+          28.4561031554372,
+          77.1804068649858
+        ],
+        [
+          28.4563006213775,
+          77.1803544363092
+        ],
+        [
+          28.4564604156166,
+          77.1802626110317
+        ],
+        [
+          28.4565748390585,
+          77.1801749837895
+        ],
+        [
+          28.4566722338374,
+          77.180097015266
+        ],
+        [
+          28.4566838063135,
+          77.1800300445519
+        ],
+        [
+          28.4566381810081,
+          77.1799678672243
+        ],
+        [
+          28.4565620030349,
+          77.1799252429566
+        ],
+        [
+          28.4565662730159,
+          77.1798602768313
+        ],
+        [
+          28.4566095232118,
+          77.1797651339547
+        ]
+      ],
+      "type": "open_nallah",
+      "diameterMm": 3500,
+      "slopePct": 0.5,
+      "lengthMeters": 880,
+      "capacityLps": 7500,
+      "currentFlowLps": 4500,
+      "surchargePct": 50
+    },
+    {
+      "id": "dl-kml-edge-37",
+      "name": "Asola Drain Sec 37",
+      "fromNodeId": "dl-kml-node-33",
+      "toNodeId": "dl-kml-node-34",
+      "coordinates": [
+        [
+          28.4566095232118,
+          77.1797651339547
+        ],
+        [
+          28.4566747186642,
+          77.1796244988725
+        ],
+        [
+          28.4567272669507,
+          77.1795270618254
+        ],
+        [
+          28.4566722068577,
+          77.1794082056252
+        ],
+        [
+          28.4565911527604,
+          77.1792580332326
+        ],
+        [
+          28.4565196053964,
+          77.1791468356589
+        ],
+        [
+          28.4564308387131,
+          77.1790592569801
+        ],
+        [
+          28.4563778038934,
+          77.1789560435875
+        ],
+        [
+          28.4563714429886,
+          77.1789443452063
+        ],
+        [
+          28.4563714429886,
+          77.1789402218147
+        ],
+        [
+          28.4563714438879,
+          77.1788185992999
+        ]
+      ],
+      "type": "open_nallah",
+      "diameterMm": 3500,
+      "slopePct": 0.5,
+      "lengthMeters": 880,
+      "capacityLps": 7500,
+      "currentFlowLps": 4500,
+      "surchargePct": 59
+    },
+    {
+      "id": "dl-kml-edge-38",
+      "name": "Asola Drain Sec 38",
+      "fromNodeId": "dl-kml-node-34",
+      "toNodeId": "dl-kml-node-35",
+      "coordinates": [
+        [
+          28.4563714438879,
+          77.1788185992999
+        ],
+        [
+          28.4564082360521,
+          77.1786901392395
+        ],
+        [
+          28.4564322029847,
+          77.1785886696324
+        ],
+        [
+          28.4564285409453,
+          77.1785441909626
+        ],
+        [
+          28.4563634821898,
+          77.1785105428283
+        ],
+        [
+          28.456317366754,
+          77.17847778862
+        ],
+        [
+          28.4563198974462,
+          77.1783187803884
+        ],
+        [
+          28.4563392778363,
+          77.178215709988
+        ],
+        [
+          28.4563508566076,
+          77.1780695152969
+        ],
+        [
+          28.4563529115585,
+          77.1780596461367
+        ],
+        [
+          28.4563549350331,
+          77.1780456176122
+        ]
+      ],
+      "type": "open_nallah",
+      "diameterMm": 3500,
+      "slopePct": 0.5,
+      "lengthMeters": 880,
+      "capacityLps": 7500,
+      "currentFlowLps": 4500,
+      "surchargePct": 73
+    },
+    {
+      "id": "dl-kml-edge-39",
+      "name": "Asola Drain Sec 39",
+      "fromNodeId": "dl-kml-node-35",
+      "toNodeId": "dl-kml-node-36",
+      "coordinates": [
+        [
+          28.4563549350331,
+          77.1780456176122
+        ],
+        [
+          28.4563569935813,
+          77.178035725969
+        ],
+        [
+          28.4563569432192,
+          77.1780295008617
+        ],
+        [
+          28.4563610333359,
+          77.1780055267346
+        ],
+        [
+          28.4563631161657,
+          77.1779976765525
+        ],
+        [
+          28.4563650973722,
+          77.1779773491763
+        ],
+        [
+          28.456373513228,
+          77.1779520476499
+        ],
+        [
+          28.4563734250944,
+          77.1779416388965
+        ],
+        [
+          28.4563733549472,
+          77.177933312973
+        ],
+        [
+          28.4563754863405,
+          77.1779295636994
+        ],
+        [
+          28.4563775502846,
+          77.1779174759118
+        ]
+      ],
+      "type": "open_nallah",
+      "diameterMm": 3500,
+      "slopePct": 0.5,
+      "lengthMeters": 880,
+      "capacityLps": 7500,
+      "currentFlowLps": 4500,
+      "surchargePct": 74
+    },
+    {
+      "id": "dl-kml-edge-40",
+      "name": "Asola Drain Sec 40",
+      "fromNodeId": "dl-kml-node-36",
+      "toNodeId": "dl-kml-node-37",
+      "coordinates": [
+        [
+          28.4563775502846,
+          77.1779174759118
+        ],
+        [
+          28.456381770803,
+          77.1779036902041
+        ],
+        [
+          28.4563860200996,
+          77.177891961246
+        ],
+        [
+          28.4563925203994,
+          77.1778868638887
+        ],
+        [
+          28.4563946014306,
+          77.1778746987593
+        ],
+        [
+          28.4563945105991,
+          77.1778642396439
+        ],
+        [
+          28.4563965583554,
+          77.177847872882
+        ],
+        [
+          28.4564008220412,
+          77.1778339405849
+        ],
+        [
+          28.4564029120656,
+          77.1778217250935
+        ],
+        [
+          28.456402857207,
+          77.1778154388324
+        ],
+        [
+          28.4564093781912,
+          77.1778059833604
+        ]
+      ],
+      "type": "open_nallah",
+      "diameterMm": 3500,
+      "slopePct": 0.5,
+      "lengthMeters": 880,
+      "capacityLps": 7500,
+      "currentFlowLps": 4500,
+      "surchargePct": 73
+    },
+    {
+      "id": "dl-kml-edge-41",
+      "name": "Asola Drain Sec 41",
+      "fromNodeId": "dl-kml-node-37",
+      "toNodeId": "dl-kml-node-38",
+      "coordinates": [
+        [
+          28.4564093781912,
+          77.1778059833604
+        ],
+        [
+          28.4564376888491,
+          77.1777407582304
+        ],
+        [
+          28.4564375737359,
+          77.1777280049445
+        ],
+        [
+          28.4564373623953,
+          77.1777046315645
+        ],
+        [
+          28.4564349836884,
+          77.1776890732931
+        ],
+        [
+          28.4564349270311,
+          77.177682706093
+        ],
+        [
+          28.4564325141501,
+          77.1776629353971
+        ],
+        [
+          28.456430182208,
+          77.1776516686905
+        ],
+        [
+          28.4564211674038,
+          77.1776384468578
+        ],
+        [
+          28.4564166680956,
+          77.1776308080164
+        ],
+        [
+          28.4564077791965,
+          77.1776240037457
+        ]
+      ],
+      "type": "open_nallah",
+      "diameterMm": 3500,
+      "slopePct": 0.5,
+      "lengthMeters": 880,
+      "capacityLps": 7500,
+      "currentFlowLps": 4500,
+      "surchargePct": 54
+    },
+    {
+      "id": "dl-kml-edge-42",
+      "name": "Asola Drain Sec 42",
+      "fromNodeId": "dl-kml-node-38",
+      "toNodeId": "dl-kml-node-39",
+      "coordinates": [
+        [
+          28.4564077791965,
+          77.1776240037457
+        ],
+        [
+          28.4563945303842,
+          77.1776138638897
+        ],
+        [
+          28.4563813813965,
+          77.1776038013753
+        ],
+        [
+          28.4563727056367,
+          77.1776012985621
+        ],
+        [
+          28.4563619227654,
+          77.1775981896058
+        ],
+        [
+          28.4563533441324,
+          77.1775957155708
+        ],
+        [
+          28.4563384315742,
+          77.1775914159121
+        ],
+        [
+          28.4563194468859,
+          77.1775859417388
+        ],
+        [
+          28.4563152569444,
+          77.1775847339493
+        ],
+        [
+          28.4562986248825,
+          77.1775799621465
+        ],
+        [
+          28.4562903915892,
+          77.1775776194126
+        ]
+      ],
+      "type": "open_nallah",
+      "diameterMm": 3500,
+      "slopePct": 0.5,
+      "lengthMeters": 880,
+      "capacityLps": 7500,
+      "currentFlowLps": 4500,
+      "surchargePct": 58
+    },
+    {
+      "id": "dl-kml-edge-43",
+      "name": "Asola Drain Sec 43",
+      "fromNodeId": "dl-kml-node-39",
+      "toNodeId": "dl-kml-node-40",
+      "coordinates": [
+        [
+          28.4562903915892,
+          77.1775776194126
+        ],
+        [
+          28.456280156405,
+          77.1775747047099
+        ],
+        [
+          28.4562720103459,
+          77.1775723871569
+        ],
+        [
+          28.4562558639179,
+          77.1775638274097
+        ],
+        [
+          28.45624985195,
+          77.1775601437866
+        ],
+        [
+          28.4562358989684,
+          77.1775522549336
+        ],
+        [
+          28.4562319536426,
+          77.1775472061396
+        ],
+        [
+          28.4562182155991,
+          77.1775296243936
+        ],
+        [
+          28.4562084561562,
+          77.177519103225
+        ],
+        [
+          28.4562026213547,
+          77.1775135975755
+        ],
+        [
+          28.4562071251596,
+          77.1774287528357
+        ]
+      ],
+      "type": "open_nallah",
+      "diameterMm": 3500,
+      "slopePct": 0.5,
+      "lengthMeters": 880,
+      "capacityLps": 7500,
+      "currentFlowLps": 4500,
+      "surchargePct": 57
+    },
+    {
+      "id": "dl-kml-edge-44",
+      "name": "Asola Drain Sec 44",
+      "fromNodeId": "dl-kml-node-40",
+      "toNodeId": "dl-kml-node-41",
+      "coordinates": [
+        [
+          28.4562071251596,
+          77.1774287528357
+        ],
+        [
+          28.4562804558792,
+          77.1772666707213
+        ],
+        [
+          28.4564076371037,
+          77.1770520052468
+        ],
+        [
+          28.4564761132829,
+          77.1769392644365
+        ],
+        [
+          28.4565211396397,
+          77.1768425783233
+        ],
+        [
+          28.4565476732374,
+          77.176740803846
+        ],
+        [
+          28.4565642756217,
+          77.1765629737033
+        ],
+        [
+          28.4565738300191,
+          77.1764593996825
+        ],
+        [
+          28.4565500348571,
+          77.1764166935765
+        ],
+        [
+          28.456542955394,
+          77.1764092049219
+        ],
+        [
+          28.4565335547806,
+          77.1764014338801
+        ]
+      ],
+      "type": "open_nallah",
+      "diameterMm": 3500,
+      "slopePct": 0.5,
+      "lengthMeters": 880,
+      "capacityLps": 7500,
+      "currentFlowLps": 4500,
+      "surchargePct": 58
+    },
+    {
+      "id": "dl-kml-edge-45",
+      "name": "Asola Drain Sec 45",
+      "fromNodeId": "dl-kml-node-41",
+      "toNodeId": "dl-kml-node-42",
+      "coordinates": [
+        [
+          28.4565335547806,
+          77.1764014338801
+        ],
+        [
+          28.4565242018313,
+          77.1763936997104
+        ],
+        [
+          28.4565125753959,
+          77.1763857047375
+        ],
+        [
+          28.456501020007,
+          77.1763777592272
+        ],
+        [
+          28.4564895356644,
+          77.176372006264
+        ],
+        [
+          28.4564804003511,
+          77.1763687120474
+        ],
+        [
+          28.4564690419136,
+          77.1763630184395
+        ],
+        [
+          28.4564600064251,
+          77.1763597646924
+        ],
+        [
+          28.4564510132046,
+          77.1763522832323
+        ],
+        [
+          28.4564376061115,
+          77.1763506419695
+        ],
+        [
+          28.4564309394372,
+          77.1763456048668
+        ]
+      ],
+      "type": "open_nallah",
+      "diameterMm": 3500,
+      "slopePct": 0.5,
+      "lengthMeters": 880,
+      "capacityLps": 7500,
+      "currentFlowLps": 4500,
+      "surchargePct": 53
+    },
+    {
+      "id": "dl-kml-edge-46",
+      "name": "Asola Drain Sec 46",
+      "fromNodeId": "dl-kml-node-42",
+      "toNodeId": "dl-kml-node-43",
+      "coordinates": [
+        [
+          28.4564309394372,
+          77.1763456048668
+        ],
+        [
+          28.4564242961453,
+          77.176342692862
+        ],
+        [
+          28.4564154755946,
+          77.1763395272484
+        ],
+        [
+          28.4564045110602,
+          77.1763340198002
+        ],
+        [
+          28.4563914394143,
+          77.1763303784452
+        ],
+        [
+          28.4563849382152,
+          77.1763275248964
+        ],
+        [
+          28.4563763074215,
+          77.1763244294298
+        ],
+        [
+          28.456367716198,
+          77.1763213483525
+        ],
+        [
+          28.4563591663433,
+          77.1763162123243
+        ],
+        [
+          28.4563464166547,
+          77.1763126779887
+        ],
+        [
+          28.4563337577976,
+          77.1763071147825
+        ]
+      ],
+      "type": "open_nallah",
+      "diameterMm": 3500,
+      "slopePct": 0.5,
+      "lengthMeters": 880,
+      "capacityLps": 7500,
+      "currentFlowLps": 4500,
+      "surchargePct": 45
+    },
+    {
+      "id": "dl-kml-edge-47",
+      "name": "Asola Drain Sec 47",
+      "fromNodeId": "dl-kml-node-43",
+      "toNodeId": "dl-kml-node-44",
+      "coordinates": [
+        [
+          28.4563337577976,
+          77.1763071147825
+        ],
+        [
+          28.4563253680222,
+          77.1763041110469
+        ],
+        [
+          28.4563128566539,
+          77.1762986098939
+        ],
+        [
+          28.456306635144,
+          77.17629791202
+        ],
+        [
+          28.4562942541774,
+          77.1762944927976
+        ],
+        [
+          28.4562840037047,
+          77.1762933506586
+        ],
+        [
+          28.4562717810188,
+          77.1762919881857
+        ],
+        [
+          28.4562636790264,
+          77.1762910852664
+        ],
+        [
+          28.4562515966347,
+          77.1762837171208
+        ],
+        [
+          28.4562455873648,
+          77.1762790496394
+        ],
+        [
+          28.456235615682,
+          77.1762659788928
+        ]
+      ],
+      "type": "open_nallah",
+      "diameterMm": 3500,
+      "slopePct": 0.5,
+      "lengthMeters": 880,
+      "capacityLps": 7500,
+      "currentFlowLps": 4500,
+      "surchargePct": 71
+    },
+    {
+      "id": "dl-kml-edge-48",
+      "name": "Asola Drain Sec 48",
+      "fromNodeId": "dl-kml-node-44",
+      "toNodeId": "dl-kml-node-45",
+      "coordinates": [
+        [
+          28.456235615682,
+          77.1762659788928
+        ],
+        [
+          28.4562296603714,
+          77.1762613635721
+        ],
+        [
+          28.4562217517333,
+          77.1762505905933
+        ],
+        [
+          28.4562138790681,
+          77.1762438393827
+        ],
+        [
+          28.4562060423758,
+          77.1762331554368
+        ],
+        [
+          28.4561962946242,
+          77.1762164109596
+        ],
+        [
+          28.4561943529879,
+          77.1762142579826
+        ],
+        [
+          28.4561885694478,
+          77.1762038843028
+        ],
+        [
+          28.456184758121,
+          77.1761956878817
+        ],
+        [
+          28.4561790303388,
+          77.176187347569
+        ],
+        [
+          28.4561752387971,
+          77.1761791907181
+        ]
+      ],
+      "type": "open_nallah",
+      "diameterMm": 3500,
+      "slopePct": 0.5,
+      "lengthMeters": 880,
+      "capacityLps": 7500,
+      "currentFlowLps": 4500,
+      "surchargePct": 69
+    },
+    {
+      "id": "dl-kml-edge-49",
+      "name": "Asola Drain Sec 49",
+      "fromNodeId": "dl-kml-node-45",
+      "toNodeId": "dl-kml-node-46",
+      "coordinates": [
+        [
+          28.4561752387971,
+          77.1761791907181
+        ],
+        [
+          28.4561657716339,
+          77.176162781688
+        ],
+        [
+          28.4561601301867,
+          77.1761506372431
+        ],
+        [
+          28.4561526361362,
+          77.1761345034056
+        ],
+        [
+          28.4561470477489,
+          77.17612050276
+        ],
+        [
+          28.4561470720306,
+          77.1761166131921
+        ],
+        [
+          28.4561414647576,
+          77.1761084869181
+        ],
+        [
+          28.4561377766379,
+          77.1760966176657
+        ],
+        [
+          28.4561340957128,
+          77.1760847717958
+        ],
+        [
+          28.4561285423992,
+          77.1760747911197
+        ],
+        [
+          28.4561267338626,
+          77.1760650217843
+        ]
+      ],
+      "type": "open_nallah",
+      "diameterMm": 3500,
+      "slopePct": 0.5,
+      "lengthMeters": 880,
+      "capacityLps": 7500,
+      "currentFlowLps": 4500,
+      "surchargePct": 58
+    },
+    {
+      "id": "dl-kml-edge-50",
+      "name": "Asola Drain Sec 50",
+      "fromNodeId": "dl-kml-node-46",
+      "toNodeId": "dl-kml-node-47",
+      "coordinates": [
+        [
+          28.4561267338626,
+          77.1760650217843
+        ],
+        [
+          28.4561230520381,
+          77.1760571104483
+        ],
+        [
+          28.4561212488974,
+          77.176047363596
+        ],
+        [
+          28.456117589556,
+          77.1760375519924
+        ],
+        [
+          28.4561103059468,
+          77.1760160617928
+        ],
+        [
+          28.4561066582965,
+          77.1760082358924
+        ],
+        [
+          28.4561048479612,
+          77.1760024046882
+        ],
+        [
+          28.4560993728886,
+          77.1759945536068
+        ],
+        [
+          28.4560957809963,
+          77.1759810170113
+        ],
+        [
+          28.456094003936,
+          77.1759713807756
+        ],
+        [
+          28.4560903778695,
+          77.1759655531687
+        ]
+      ],
+      "type": "open_nallah",
+      "diameterMm": 3500,
+      "slopePct": 0.5,
+      "lengthMeters": 880,
+      "capacityLps": 7500,
+      "currentFlowLps": 4500,
+      "surchargePct": 61
+    },
+    {
+      "id": "dl-kml-edge-51",
+      "name": "Asola Drain Sec 51",
+      "fromNodeId": "dl-kml-node-47",
+      "toNodeId": "dl-kml-node-48",
+      "coordinates": [
+        [
+          28.4560903778695,
+          77.1759655531687
+        ],
+        [
+          28.4560885738295,
+          77.175961686084
+        ],
+        [
+          28.4560831823939,
+          77.1759481962532
+        ],
+        [
+          28.4560814062328,
+          77.1759405214389
+        ],
+        [
+          28.4560760147971,
+          77.1759309085855
+        ],
+        [
+          28.4560706404486,
+          77.1759213272085
+        ],
+        [
+          28.4560670944218,
+          77.1759098752415
+        ],
+        [
+          28.4560617668379,
+          77.1758965445908
+        ],
+        [
+          28.4560600239518,
+          77.1758870396561
+        ],
+        [
+          28.4560601075888,
+          77.1758718249258
+        ],
+        [
+          28.4560601498569,
+          77.1758642157619
+        ]
+      ],
+      "type": "open_nallah",
+      "diameterMm": 3500,
+      "slopePct": 0.5,
+      "lengthMeters": 880,
+      "capacityLps": 7500,
+      "currentFlowLps": 4500,
+      "surchargePct": 58
+    },
+    {
+      "id": "dl-kml-edge-52",
+      "name": "Asola Drain Sec 52",
+      "fromNodeId": "dl-kml-node-48",
+      "toNodeId": "dl-kml-node-49",
+      "coordinates": [
+        [
+          28.4560601498569,
+          77.1758642157619
+        ],
+        [
+          28.4560601714406,
+          77.1758604107304
+        ],
+        [
+          28.4560602128095,
+          77.1758527997679
+        ],
+        [
+          28.4560656752915,
+          77.1758412848484
+        ],
+        [
+          28.4560729867798,
+          77.1758258695692
+        ],
+        [
+          28.4560748753561,
+          77.175812442691
+        ],
+        [
+          28.4560785481873,
+          77.1758046878371
+        ],
+        [
+          28.4560840628301,
+          77.1757949400854
+        ],
+        [
+          28.4561138276919,
+          77.1757378547192
+        ],
+        [
+          28.4561430718462,
+          77.1757045312401
+        ]
+      ],
+      "type": "open_nallah",
+      "diameterMm": 3500,
+      "slopePct": 0.5,
+      "lengthMeters": 800,
+      "capacityLps": 7500,
+      "currentFlowLps": 4500,
+      "surchargePct": 63
+    },
+    {
+      "id": "dl-kml-edge-53",
+      "name": "Asola Drain Sec 1",
+      "fromNodeId": "dl-kml-node-50",
+      "toNodeId": "dl-kml-node-51",
+      "coordinates": [
+        [
+          28.4569140426498,
+          77.172403678488
+        ],
+        [
+          28.4568792280948,
+          77.1724416739451
+        ],
+        [
+          28.4568552099009,
+          77.1724851678572
+        ],
+        [
+          28.4568499281825,
+          77.1725237658601
+        ],
+        [
+          28.4568523068893,
+          77.1725695593387
+        ],
+        [
+          28.4568234854164,
+          77.172621752393
+        ],
+        [
+          28.4568037929616,
+          77.172686446923
+        ],
+        [
+          28.4567827515236,
+          77.1728355671087
+        ],
+        [
+          28.4567665331498,
+          77.1728774611269
+        ],
+        [
+          28.4567422064885,
+          77.1729403012549
+        ],
+        [
+          28.4566698416407,
+          77.1730901301064
+        ]
+      ],
+      "type": "open_nallah",
+      "diameterMm": 3500,
+      "slopePct": 0.5,
+      "lengthMeters": 880,
+      "capacityLps": 7500,
+      "currentFlowLps": 4500,
+      "surchargePct": 63
+    },
+    {
+      "id": "dl-kml-edge-54",
+      "name": "Asola Drain Sec 2",
+      "fromNodeId": "dl-kml-node-51",
+      "toNodeId": "dl-kml-node-52",
+      "coordinates": [
+        [
+          28.4566698416407,
+          77.1730901301064
+        ],
+        [
+          28.4566077317623,
+          77.1731821073693
+        ],
+        [
+          28.456560425624,
+          77.1732233655669
+        ],
+        [
+          28.4564953749625,
+          77.173304726333
+        ],
+        [
+          28.4564390324363,
+          77.1734249728852
+        ],
+        [
+          28.4564287783663,
+          77.1734828226751
+        ],
+        [
+          28.4564309880006,
+          77.1735391687986
+        ],
+        [
+          28.4564327182962,
+          77.1736254155815
+        ],
+        [
+          28.4564424750411,
+          77.1736959907784
+        ],
+        [
+          28.4564565566257,
+          77.1737877674925
+        ],
+        [
+          28.4564904520736,
+          77.1739045813324
+        ]
+      ],
+      "type": "open_nallah",
+      "diameterMm": 3500,
+      "slopePct": 0.5,
+      "lengthMeters": 880,
+      "capacityLps": 7500,
+      "currentFlowLps": 4500,
+      "surchargePct": 59
+    },
+    {
+      "id": "dl-kml-edge-55",
+      "name": "Asola Drain Sec 3",
+      "fromNodeId": "dl-kml-node-52",
+      "toNodeId": "dl-kml-node-53",
+      "coordinates": [
+        [
+          28.4564904520736,
+          77.1739045813324
+        ],
+        [
+          28.4565442729008,
+          77.1740393978009
+        ],
+        [
+          28.4566181315224,
+          77.1741851815019
+        ],
+        [
+          28.4567186478482,
+          77.1744142019548
+        ],
+        [
+          28.4567888633163,
+          77.1745933388125
+        ],
+        [
+          28.4568456231279,
+          77.1747387726772
+        ],
+        [
+          28.4568541055334,
+          77.1747917283566
+        ],
+        [
+          28.4568530928968,
+          77.1748550469239
+        ],
+        [
+          28.4568462850289,
+          77.1748918543765
+        ],
+        [
+          28.4568221813994,
+          77.1749406246111
+        ],
+        [
+          28.4567965803988,
+          77.1749858452216
+        ]
+      ],
+      "type": "open_nallah",
+      "diameterMm": 3500,
+      "slopePct": 0.5,
+      "lengthMeters": 880,
+      "capacityLps": 7500,
+      "currentFlowLps": 4500,
+      "surchargePct": 64
+    },
+    {
+      "id": "dl-kml-edge-56",
+      "name": "Asola Drain Sec 4",
+      "fromNodeId": "dl-kml-node-53",
+      "toNodeId": "dl-kml-node-49",
+      "coordinates": [
+        [
+          28.4567965803988,
+          77.1749858452216
+        ],
+        [
+          28.4567395256095,
+          77.1750532925764
+        ],
+        [
+          28.4566857479498,
+          77.1751102520375
+        ],
+        [
+          28.4566269421805,
+          77.1751899805341
+        ],
+        [
+          28.4564976835222,
+          77.1752999352448
+        ],
+        [
+          28.456380388545,
+          77.1754261919662
+        ],
+        [
+          28.4561822346233,
+          77.1756309154354
+        ],
+        [
+          28.4561326397105,
+          77.1756940370511
+        ]
+      ],
+      "type": "open_nallah",
+      "diameterMm": 3500,
+      "slopePct": 0.5,
+      "lengthMeters": 640,
+      "capacityLps": 7500,
+      "currentFlowLps": 4500,
+      "surchargePct": 68
+    },
+    {
+      "id": "dl-kml-edge-57",
+      "name": "Bankner Link Drain Sec 1",
+      "fromNodeId": "dl-kml-node-54",
+      "toNodeId": "dl-kml-node-55",
+      "coordinates": [
+        [
+          28.8593051871855,
+          77.0683594121581
+        ],
+        [
+          28.8597346557307,
+          77.0683828341015
+        ],
+        [
+          28.8599635457819,
+          77.0683806235679
+        ],
+        [
+          28.860120285024,
+          77.0683808070296
+        ],
+        [
+          28.8603309611058,
+          77.0683915890016
+        ],
+        [
+          28.8604833179517,
+          77.0683970155108
+        ],
+        [
+          28.8606504623498,
+          77.0684040023438
+        ],
+        [
+          28.8608447285023,
+          77.0684066751289
+        ],
+        [
+          28.8610403346446,
+          77.0684040625984
+        ],
+        [
+          28.8612572484242,
+          77.0684055824527
+        ],
+        [
+          28.8614499047902,
+          77.0684072066283
+        ]
+      ],
+      "type": "open_nallah",
+      "diameterMm": 3500,
+      "slopePct": 0.5,
+      "lengthMeters": 880,
+      "capacityLps": 7500,
+      "currentFlowLps": 4500,
+      "surchargePct": 66
+    },
+    {
+      "id": "dl-kml-edge-58",
+      "name": "Bankner Link Drain Sec 2",
+      "fromNodeId": "dl-kml-node-55",
+      "toNodeId": "dl-kml-node-56",
+      "coordinates": [
+        [
+          28.8614499047902,
+          77.0684072066283
+        ],
+        [
+          28.8615372568398,
+          77.0684092516866
+        ],
+        [
+          28.8616611168679,
+          77.0684116267961
+        ],
+        [
+          28.8617470246064,
+          77.0684123543476
+        ],
+        [
+          28.8618616432012,
+          77.0684129883697
+        ],
+        [
+          28.861981833096,
+          77.0684165119135
+        ],
+        [
+          28.8620594427899,
+          77.0684263289129
+        ],
+        [
+          28.8620975488637,
+          77.0684146611087
+        ],
+        [
+          28.8621457057606,
+          77.0684160100918
+        ],
+        [
+          28.8621767197807,
+          77.0684266859438
+        ],
+        [
+          28.8622112636398,
+          77.0684283155153
+        ]
+      ],
+      "type": "open_nallah",
+      "diameterMm": 3500,
+      "slopePct": 0.5,
+      "lengthMeters": 880,
+      "capacityLps": 7500,
+      "currentFlowLps": 4500,
+      "surchargePct": 74
+    },
+    {
+      "id": "dl-kml-edge-59",
+      "name": "Bankner Link Drain Sec 3",
+      "fromNodeId": "dl-kml-node-56",
+      "toNodeId": "dl-kml-node-57",
+      "coordinates": [
+        [
+          28.8622112636398,
+          77.0684283155153
+        ],
+        [
+          28.8622534319512,
+          77.0684243980685
+        ],
+        [
+          28.8623173305812,
+          77.068426826238
+        ],
+        [
+          28.8623740418295,
+          77.0684295215062
+        ],
+        [
+          28.86247747016,
+          77.0684301411391
+        ],
+        [
+          28.8626532975126,
+          77.0684408511653
+        ],
+        [
+          28.8627745692918,
+          77.0684485421675
+        ],
+        [
+          28.8629494856311,
+          77.0684574220733
+        ],
+        [
+          28.8631744321552,
+          77.0684500611224
+        ],
+        [
+          28.8632876639954,
+          77.0684522239919
+        ],
+        [
+          28.8633127829594,
+          77.0684955928983
+        ]
+      ],
+      "type": "open_nallah",
+      "diameterMm": 3500,
+      "slopePct": 0.5,
+      "lengthMeters": 880,
+      "capacityLps": 7500,
+      "currentFlowLps": 4500,
+      "surchargePct": 57
+    },
+    {
+      "id": "dl-kml-edge-60",
+      "name": "Bankner Link Drain Sec 4",
+      "fromNodeId": "dl-kml-node-57",
+      "toNodeId": "dl-kml-node-58",
+      "coordinates": [
+        [
+          28.8633127829594,
+          77.0684955928983
+        ],
+        [
+          28.8633067898774,
+          77.0687802445137
+        ],
+        [
+          28.8633097711299,
+          77.0692574526703
+        ],
+        [
+          28.8633111929581,
+          77.0696281676068
+        ],
+        [
+          28.8633103853668,
+          77.069811567251
+        ],
+        [
+          28.8633050487899,
+          77.070106580855
+        ],
+        [
+          28.8633258105386,
+          77.0704723108494
+        ],
+        [
+          28.8635139738917,
+          77.0704768812041
+        ],
+        [
+          28.863740362029,
+          77.0704797338536
+        ],
+        [
+          28.8638415411551,
+          77.0705060273323
+        ],
+        [
+          28.8638425582883,
+          77.0707037342909
+        ]
+      ],
+      "type": "open_nallah",
+      "diameterMm": 3500,
+      "slopePct": 0.5,
+      "lengthMeters": 880,
+      "capacityLps": 7500,
+      "currentFlowLps": 4500,
+      "surchargePct": 75
+    },
+    {
+      "id": "dl-kml-edge-61",
+      "name": "Bankner Link Drain Sec 5",
+      "fromNodeId": "dl-kml-node-58",
+      "toNodeId": "dl-kml-node-59",
+      "coordinates": [
+        [
+          28.8638425582883,
+          77.0707037342909
+        ],
+        [
+          28.8638354977109,
+          77.0709331711299
+        ],
+        [
+          28.8638262724654,
+          77.071222653004
+        ],
+        [
+          28.8638234360037,
+          77.0713780801353
+        ],
+        [
+          28.8638185293026,
+          77.071599040864
+        ],
+        [
+          28.8638085630157,
+          77.0718841646235
+        ],
+        [
+          28.863808745578,
+          77.0720611125313
+        ],
+        [
+          28.8638132529801,
+          77.0722754929207
+        ],
+        [
+          28.8638144508771,
+          77.0723739677854
+        ],
+        [
+          28.8638080270197,
+          77.0724715900928
+        ],
+        [
+          28.8638123392689,
+          77.0725551910702
+        ]
+      ],
+      "type": "open_nallah",
+      "diameterMm": 3500,
+      "slopePct": 0.5,
+      "lengthMeters": 880,
+      "capacityLps": 7500,
+      "currentFlowLps": 4500,
+      "surchargePct": 58
+    },
+    {
+      "id": "dl-kml-edge-62",
+      "name": "Bankner Link Drain Sec 6",
+      "fromNodeId": "dl-kml-node-59",
+      "toNodeId": "dl-kml-node-60",
+      "coordinates": [
+        [
+          28.8638123392689,
+          77.0725551910702
+        ],
+        [
+          28.8638489677566,
+          77.0726070207983
+        ],
+        [
+          28.8639482843867,
+          77.0727151354961
+        ],
+        [
+          28.8640741031383,
+          77.0728566015519
+        ],
+        [
+          28.8642321338068,
+          77.0730497030823
+        ],
+        [
+          28.864342765707,
+          77.0732187405534
+        ],
+        [
+          28.8644559498831,
+          77.0733706900063
+        ],
+        [
+          28.8645490288155,
+          77.0734444847761
+        ],
+        [
+          28.8646765877552,
+          77.0735087881011
+        ],
+        [
+          28.8647830054322,
+          77.0735633050035
+        ],
+        [
+          28.8648442105927,
+          77.073609584116
+        ]
+      ],
+      "type": "open_nallah",
+      "diameterMm": 3500,
+      "slopePct": 0.5,
+      "lengthMeters": 880,
+      "capacityLps": 7500,
+      "currentFlowLps": 4500,
+      "surchargePct": 58
+    },
+    {
+      "id": "dl-kml-edge-63",
+      "name": "Bankner Link Drain Sec 7",
+      "fromNodeId": "dl-kml-node-60",
+      "toNodeId": "dl-kml-node-61",
+      "coordinates": [
+        [
+          28.8648442105927,
+          77.073609584116
+        ],
+        [
+          28.8648546139502,
+          77.0737147751178
+        ],
+        [
+          28.8648501083467,
+          77.0739457866697
+        ],
+        [
+          28.8648445649256,
+          77.0741603882923
+        ],
+        [
+          28.8648559548393,
+          77.0746689827883
+        ],
+        [
+          28.8648471990399,
+          77.0751612797702
+        ],
+        [
+          28.8648425036795,
+          77.0755380912109
+        ],
+        [
+          28.8648409235706,
+          77.075728002846
+        ],
+        [
+          28.8648337298936,
+          77.0759060119539
+        ],
+        [
+          28.864831175819,
+          77.0761305753667
+        ],
+        [
+          28.8648414820497,
+          77.0763221120768
+        ]
+      ],
+      "type": "open_nallah",
+      "diameterMm": 3500,
+      "slopePct": 0.5,
+      "lengthMeters": 880,
+      "capacityLps": 7500,
+      "currentFlowLps": 4500,
+      "surchargePct": 73
+    },
+    {
+      "id": "dl-kml-edge-64",
+      "name": "Bankner Link Drain Sec 8",
+      "fromNodeId": "dl-kml-node-61",
+      "toNodeId": "dl-kml-node-62",
+      "coordinates": [
+        [
+          28.8648414820497,
+          77.0763221120768
+        ],
+        [
+          28.8648518206559,
+          77.07636158512
+        ],
+        [
+          28.8648848113858,
+          77.0763745641358
+        ],
+        [
+          28.8649800513891,
+          77.0763790589474
+        ],
+        [
+          28.8650924189809,
+          77.0763825950817
+        ],
+        [
+          28.8652093074645,
+          77.0763807658606
+        ],
+        [
+          28.8653575022478,
+          77.0763958951554
+        ],
+        [
+          28.8653599690882,
+          77.0765339671698
+        ],
+        [
+          28.8653685872914,
+          77.0767086191084
+        ],
+        [
+          28.8653628792943,
+          77.0768326652963
+        ],
+        [
+          28.8653605761306,
+          77.0770052236132
+        ]
+      ],
+      "type": "open_nallah",
+      "diameterMm": 3500,
+      "slopePct": 0.5,
+      "lengthMeters": 880,
+      "capacityLps": 7500,
+      "currentFlowLps": 4500,
+      "surchargePct": 64
+    },
+    {
+      "id": "dl-kml-edge-65",
+      "name": "Bankner Link Drain Sec 9",
+      "fromNodeId": "dl-kml-node-62",
+      "toNodeId": "dl-kml-node-63",
+      "coordinates": [
+        [
+          28.8653605761306,
+          77.0770052236132
+        ],
+        [
+          28.8653404430079,
+          77.0771539211175
+        ],
+        [
+          28.8653403018143,
+          77.077242562795
+        ],
+        [
+          28.8653641239561,
+          77.0773004395646
+        ],
+        [
+          28.8654148394242,
+          77.0774086657783
+        ],
+        [
+          28.8654609476655,
+          77.0776022331575
+        ],
+        [
+          28.8654803217603,
+          77.077749459371
+        ],
+        [
+          28.8655405349686,
+          77.0778945128225
+        ],
+        [
+          28.8655733988941,
+          77.0779549760423
+        ],
+        [
+          28.8656431242317,
+          77.0780177909892
+        ],
+        [
+          28.865729523,
+          77.0780635233139
+        ]
+      ],
+      "type": "open_nallah",
+      "diameterMm": 3500,
+      "slopePct": 0.5,
+      "lengthMeters": 880,
+      "capacityLps": 7500,
+      "currentFlowLps": 4500,
+      "surchargePct": 61
+    },
+    {
+      "id": "dl-kml-edge-66",
+      "name": "Bankner Link Drain Sec 10",
+      "fromNodeId": "dl-kml-node-63",
+      "toNodeId": "dl-kml-node-64",
+      "coordinates": [
+        [
+          28.865729523,
+          77.0780635233139
+        ],
+        [
+          28.8657758911453,
+          77.0780584088694
+        ],
+        [
+          28.8658824383248,
+          77.0780211544537
+        ],
+        [
+          28.8659554992478,
+          77.0780101620403
+        ],
+        [
+          28.8660698543412,
+          77.0780021877517
+        ],
+        [
+          28.8661123652943,
+          77.0779848686078
+        ],
+        [
+          28.8662441843225,
+          77.0779190472272
+        ],
+        [
+          28.8662784997538,
+          77.0779195355591
+        ],
+        [
+          28.8663244811908,
+          77.0779507420341
+        ],
+        [
+          28.8664428922266,
+          77.0781061044142
+        ],
+        [
+          28.8664546760434,
+          77.0781382021173
+        ]
+      ],
+      "type": "open_nallah",
+      "diameterMm": 3500,
+      "slopePct": 0.5,
+      "lengthMeters": 880,
+      "capacityLps": 7500,
+      "currentFlowLps": 4500,
+      "surchargePct": 60
+    },
+    {
+      "id": "dl-kml-edge-67",
+      "name": "Bankner Link Drain Sec 11",
+      "fromNodeId": "dl-kml-node-64",
+      "toNodeId": "dl-kml-node-65",
+      "coordinates": [
+        [
+          28.8664546760434,
+          77.0781382021173
+        ],
+        [
+          28.8664484248558,
+          77.0783382679977
+        ],
+        [
+          28.8664470300073,
+          77.078578465225
+        ],
+        [
+          28.8664528576141,
+          77.0795187244106
+        ],
+        [
+          28.8664590098763,
+          77.0801724299147
+        ],
+        [
+          28.8670617049346,
+          77.0801802495199
+        ],
+        [
+          28.8676881169139,
+          77.0801888209583
+        ],
+        [
+          28.8680339727905,
+          77.0801769858802
+        ],
+        [
+          28.86803433162,
+          77.0802498075835
+        ],
+        [
+          28.8679659390777,
+          77.083019489259
+        ]
+      ],
+      "type": "open_nallah",
+      "diameterMm": 3500,
+      "slopePct": 0.5,
+      "lengthMeters": 800,
+      "capacityLps": 7500,
+      "currentFlowLps": 4500,
+      "surchargePct": 63
+    }
+  ],
+  "waterways": [
+    {
+      "id": "dl-kml-ww-1",
+      "name": "Asola Drain (Section 1)",
+      "category": "main_canal",
+      "widthMeters": 30,
+      "coordinates": [
+        [
+          28.4448335431344,
+          77.1946804206659
+        ],
+        [
+          28.4450160731341,
+          77.1946748088963
+        ],
+        [
+          28.4452265882373,
+          77.1946478813956
+        ],
+        [
+          28.4455978004989,
+          77.1942552301957
+        ],
+        [
+          28.4456535206943,
+          77.1942282343465
+        ],
+        [
+          28.4457011523871,
+          77.1941885598551
+        ],
+        [
+          28.44578315437,
+          77.1940745357122
+        ],
+        [
+          28.4458248820136,
+          77.1939816870062
+        ],
+        [
+          28.4458289307614,
+          77.1939840162503
+        ],
+        [
+          28.445841948448,
+          77.1939579476022
+        ],
+        [
+          28.4458716791356,
+          77.1938631635551
+        ],
+        [
+          28.4459051357143,
+          77.1937683759108
+        ],
+        [
+          28.4459265593641,
+          77.19371968032
+        ],
+        [
+          28.4459550822621,
+          77.1936418583861
+        ],
+        [
+          28.4459727620342,
+          77.1935786036706
+        ],
+        [
+          28.4460037409808,
+          77.1934907282155
+        ],
+        [
+          28.446028204339,
+          77.193440757386
+        ],
+        [
+          28.4460610143053,
+          77.193377553932
+        ],
+        [
+          28.446061675307,
+          77.1933728918465
+        ],
+        [
+          28.446084565751,
+          77.1933413778033
+        ],
+        [
+          28.4460974161637,
+          77.1933188443901
+        ],
+        [
+          28.4460974305529,
+          77.1933165079515
+        ],
+        [
+          28.4461020980343,
+          77.1933117469405
+        ],
+        [
+          28.4461044443655,
+          77.1933087710839
+        ],
+        [
+          28.4461079778018,
+          77.1933037052028
+        ],
+        [
+          28.4461103394215,
+          77.1933007086618
+        ],
+        [
+          28.4461127064371,
+          77.1932977049261
+        ],
+        [
+          28.4461127361147,
+          77.1932929915793
+        ],
+        [
+          28.4461151247141,
+          77.1932876136335
+        ],
+        [
+          28.4461175286019,
+          77.1932810395893
+        ],
+        [
+          28.4461211061051,
+          77.1932770672838
+        ],
+        [
+          28.446121136682,
+          77.1932723305546
+        ],
+        [
+          28.4461223939342,
+          77.193261912808
+        ],
+        [
+          28.4461224326051,
+          77.1932559853764
+        ],
+        [
+          28.4461224802691,
+          77.1932488708397
+        ],
+        [
+          28.4461213570159,
+          77.193239153665
+        ],
+        [
+          28.4461213965861,
+          77.1932332271327
+        ],
+        [
+          28.44612140468,
+          77.1932320409269
+        ],
+        [
+          28.446121452344,
+          77.1932249263902
+        ],
+        [
+          28.4461191698647,
+          77.1932114554453
+        ],
+        [
+          28.4461192247233,
+          77.1932031600987
+        ],
+        [
+          28.4461193110582,
+          77.1931901199291
+        ],
+        [
+          28.4461181896036,
+          77.1931804414252
+        ],
+        [
+          28.4461182138853,
+          77.1931768846065
+        ],
+        [
+          28.4461182678447,
+          77.1931685856627
+        ],
+        [
+          28.4461171023233,
+          77.1931660315881
+        ],
+        [
+          28.4461147901663,
+          77.1931585654164
+        ],
+        [
+          28.44611364443,
+          77.1931536542187
+        ],
+        [
+          28.4461101658524,
+          77.1931460441556
+        ],
+        [
+          28.4461101964293,
+          77.1931413182182
+        ],
+        [
+          28.4461102386974,
+          77.1931294813415
+        ],
+        [
+          28.4461114069168,
+          77.1931225151929
+        ],
+        [
+          28.4461137460534,
+          77.193116877343
+        ],
+        [
+          28.44611491787,
+          77.1931110803131
+        ],
+        [
+          28.4461184414138,
+          77.1931043677733
+        ],
+        [
+          28.4461219757495,
+          77.1931000177526
+        ],
+        [
+          28.4461255253736,
+          77.1930956524434
+        ],
+        [
+          28.446131468993,
+          77.1930879407568
+        ],
+        [
+          28.4461362488897,
+          77.193082459389
+        ],
+        [
+          28.4461410539673,
+          77.1930793612245
+        ],
+        [
+          28.4461458806288,
+          77.1930762477716
+        ],
+        [
+          28.4461543882153,
+          77.1930698517932
+        ],
+        [
+          28.4461580556506,
+          77.193066572865
+        ],
+        [
+          28.4461617383744,
+          77.1930632813463
+        ],
+        [
+          28.4461654327894,
+          77.1930611976172
+        ],
+        [
+          28.4461716237223,
+          77.1930532197313
+        ],
+        [
+          28.4461791042831,
+          77.1930440718274
+        ],
+        [
+          28.4461841207015,
+          77.1930395779152
+        ],
+        [
+          28.4461929628358,
+          77.1930341316208
+        ],
+        [
+          28.4461955034206,
+          77.1930330982998
+        ],
+        [
+          28.4461993264387,
+          77.1930284398116
+        ],
+        [
+          28.4462044453797,
+          77.1930275926503
+        ],
+        [
+          28.4462147633016,
+          77.1930208828085
+        ],
+        [
+          28.4462199622823,
+          77.1930175022569
+        ],
+        [
+          28.4462317586896,
+          77.1929779923415
+        ],
+        [
+          28.4462477072668,
+          77.1928949408498
+        ],
+        [
+          28.4462708567156,
+          77.1928411074321
+        ],
+        [
+          28.4462721220617,
+          77.192838912187
+        ],
+        [
+          28.4462746563512,
+          77.1928320359706
+        ],
+        [
+          28.4462771960366,
+          77.192827622098
+        ],
+        [
+          28.446282296092,
+          77.1928175191142
+        ],
+        [
+          28.4462835767266,
+          77.19280410033
+        ],
+        [
+          28.4462887100568,
+          77.1927839276372
+        ],
+        [
+          28.4462951626925,
+          77.1927663881593
+        ],
+        [
+          28.4462951635918,
+          77.1927613834321
+        ],
+        [
+          28.4462977563373,
+          77.1927555819055
+        ],
+        [
+          28.4462990558576,
+          77.1927470347488
+        ],
+        [
+          28.4463003562773,
+          77.1927422395637
+        ],
+        [
+          28.4463029634119,
+          77.1927338875598
+        ],
+        [
+          28.4463042692275,
+          77.1927253053295
+        ],
+        [
+          28.4463055759425,
+          77.1927204840641
+        ],
+        [
+          28.4463055759425,
+          77.1927167114081
+        ],
+        [
+          28.4463081956676,
+          77.1927095635965
+        ],
+        [
+          28.4463095077784,
+          77.1927059833954
+        ],
+        [
+          28.4463121382954,
+          77.1926962851065
+        ],
+        [
+          28.4463134549029,
+          77.1926914269687
+        ],
+        [
+          28.4463160944131,
+          77.1926867477961
+        ],
+        [
+          28.4463160953125,
+          77.1926804282601
+        ],
+        [
+          28.4463187411179,
+          77.1926769937492
+        ],
+        [
+          28.4463200667186,
+          77.192673373978
+        ],
+        [
+          28.4463213950173,
+          77.1926659473766
+        ],
+        [
+          28.4463253871078,
+          77.1926601170717
+        ],
+        [
+          28.446328057195,
+          77.1926515564252
+        ],
+        [
+          28.4463334180537,
+          77.1926445641963
+        ],
+        [
+          28.4463361088252,
+          77.1926397780043
+        ],
+        [
+          28.4463428672304,
+          77.1926303198344
+        ],
+        [
+          28.446345583183,
+          77.1926229292058
+        ],
+        [
+          28.4463496688031,
+          77.1926182311474
+        ],
+        [
+          28.4463510267793,
+          77.19261580028
+        ],
+        [
+          28.4463523838563,
+          77.1926082198944
+        ],
+        [
+          28.4463523838563,
+          77.1926017888425
+        ],
+        [
+          28.4463523847556,
+          77.1925966429217
+        ],
+        [
+          28.446352385655,
+          77.1925863528788
+        ],
+        [
+          28.4463523865543,
+          77.1925773479672
+        ],
+        [
+          28.4463523883529,
+          77.1925683439549
+        ],
+        [
+          28.4463523892522,
+          77.1925631989334
+        ],
+        [
+          28.4463523892522,
+          77.1925580530127
+        ],
+        [
+          28.4463523901516,
+          77.1925516219608
+        ],
+        [
+          28.4463523910509,
+          77.1925387580582
+        ],
+        [
+          28.4463510366719,
+          77.1925309564394
+        ],
+        [
+          28.4463496795949,
+          77.1925231629146
+        ],
+        [
+          28.4463469546491,
+          77.1925165852732
+        ],
+        [
+          28.4463455957735,
+          77.1925075326974
+        ],
+        [
+          28.4463428816196,
+          77.1924984270618
+        ],
+        [
+          28.4463388238785,
+          77.192485450744
+        ],
+        [
+          28.4463361268117,
+          77.1924789558401
+        ],
+        [
+          28.4463334378387,
+          77.1924699293447
+        ],
+        [
+          28.4463307551611,
+          77.1924609253324
+        ],
+        [
+          28.4463280787787,
+          77.1924557578279
+        ],
+        [
+          28.4463267441848,
+          77.1924480974027
+        ],
+        [
+          28.4463254113895,
+          77.1924429856562
+        ],
+        [
+          28.4463240785942,
+          77.1924340751734
+        ],
+        [
+          28.4463240803929,
+          77.1924264606137
+        ],
+        [
+          28.4463227502956,
+          77.1924213695515
+        ],
+        [
+          28.4463227511949,
+          77.192413761287
+        ],
+        [
+          28.4463227520942,
+          77.1924074201673
+        ],
+        [
+          28.4463254158861,
+          77.1923985429594
+        ],
+        [
+          28.4463280859733,
+          77.1923896432684
+        ],
+        [
+          28.4463321041442,
+          77.1923845297233
+        ],
+        [
+          28.4463321050435,
+          77.1923819819439
+        ],
+        [
+          28.4463321050435,
+          77.1923768863852
+        ],
+        [
+          28.4463361394022,
+          77.1923717386658
+        ],
+        [
+          28.44634018815,
+          77.1923665711613
+        ],
+        [
+          28.4463469726356,
+          77.1923587677439
+        ],
+        [
+          28.44634969938,
+          77.192353576857
+        ],
+        [
+          28.4463592178045,
+          77.1923404719362
+        ],
+        [
+          28.4463633223103,
+          77.1923338969927
+        ],
+        [
+          28.4463688180674,
+          77.1923272501035
+        ],
+        [
+          28.4463771161119,
+          77.1923178665772
+        ],
+        [
+          28.4463798959163,
+          77.1923125515839
+        ],
+        [
+          28.4463854780083,
+          77.1923084111053
+        ],
+        [
+          28.4463939037565,
+          77.1922975706773
+        ],
+        [
+          28.4464109567012,
+          77.1922637399806
+        ],
+        [
+          28.4463944010816,
+          77.1922035501547
+        ],
+        [
+          28.4463656749368,
+          77.1921436148369
+        ],
+        [
+          28.4463618177446,
+          77.1921360812162
+        ],
+        [
+          28.4463605362106,
+          77.1921310728917
+        ],
+        [
+          28.4463414256172,
+          77.192070336278
+        ],
+        [
+          28.4463494430732,
+          77.1920304882174
+        ],
+        [
+          28.4463748597129,
+          77.1919721348071
+        ],
+        [
+          28.4464046794333,
+          77.1919138047792
+        ],
+        [
+          28.446411000768,
+          77.1918679690325
+        ],
+        [
+          28.4464059483767,
+          77.191812684109
+        ],
+        [
+          28.4463852711642,
+          77.1917438473017
+        ],
+        [
+          28.4464216946064,
+          77.1916787660632
+        ],
+        [
+          28.4464608178134,
+          77.1916286522415
+        ],
+        [
+          28.4465270672712,
+          77.1915732558021
+        ],
+        [
+          28.4465289477536,
+          77.1915731056153
+        ],
+        [
+          28.4465984527573,
+          77.1915461547322
+        ],
+        [
+          28.4466727772278,
+          77.1914994979045
+        ],
+        [
+          28.4466811921841,
+          77.1914986255621
+        ],
+        [
+          28.4467499651396,
+          77.1914028513615
+        ],
+        [
+          28.4468064650472,
+          77.1913142672406
+        ],
+        [
+          28.4468127899792,
+          77.19130804663
+        ],
+        [
+          28.4469127541212,
+          77.191234027929
+        ],
+        [
+          28.4469172453355,
+          77.1912296446334
+        ],
+        [
+          28.4470074599272,
+          77.191038662805
+        ],
+        [
+          28.4470663951989,
+          77.190935640968
+        ],
+        [
+          28.4470770009037,
+          77.1909243436845
+        ],
+        [
+          28.4470855147856,
+          77.1909169890288
+        ],
+        [
+          28.4470919035694,
+          77.1909136192691
+        ],
+        [
+          28.4470983678962,
+          77.1909058850995
+        ],
+        [
+          28.4471048583034,
+          77.1908981203529
+        ],
+        [
+          28.4471135151775,
+          77.1908906352955
+        ],
+        [
+          28.4471200370609,
+          77.190884995647
+        ],
+        [
+          28.4471309899042,
+          77.1908733512252
+        ],
+        [
+          28.4471332103303,
+          77.1908692530146
+        ],
+        [
+          28.4471420407734,
+          77.1908594243239
+        ],
+        [
+          28.4471508910017,
+          77.1908517558049
+        ],
+        [
+          28.4471598428534,
+          77.1908396095613
+        ],
+        [
+          28.4471665751782,
+          77.1908315696222
+        ],
+        [
+          28.4471733039057,
+          77.1908257267269
+        ],
+        [
+          28.4471846371621,
+          77.1908114643786
+        ],
+        [
+          28.4471914378354,
+          77.1908055486381
+        ],
+        [
+          28.4472028322458,
+          77.1907956399078
+        ],
+        [
+          28.4472120017334,
+          77.1907876647199
+        ],
+        [
+          28.4472211892074,
+          77.1907819081595
+        ],
+        [
+          28.4472350450621,
+          77.1907743520557
+        ],
+        [
+          28.4472397089463,
+          77.1907703042071
+        ],
+        [
+          28.4472513911397,
+          77.1907624198508
+        ],
+        [
+          28.4472631506748,
+          77.1907544833337
+        ],
+        [
+          28.4472702966877,
+          77.1907460261092
+        ],
+        [
+          28.4472846102974,
+          77.1907336145657
+        ],
+        [
+          28.4472894063819,
+          77.1907294552012
+        ],
+        [
+          28.447296591965,
+          77.1907255062781
+        ],
+        [
+          28.4473159867443,
+          77.190708700647
+        ],
+        [
+          28.4473257992471,
+          77.1906978979906
+        ],
+        [
+          28.4473355577907,
+          77.1906940488922
+        ],
+        [
+          28.44734049327,
+          77.1906897762132
+        ],
+        [
+          28.4473503669268,
+          77.1906835421128
+        ],
+        [
+          28.4473630545622,
+          77.1906586192009
+        ],
+        [
+          28.4473682157714,
+          77.1906448209027
+        ],
+        [
+          28.4473831939801,
+          77.1906197064353
+        ],
+        [
+          28.4473879675815,
+          77.1906104407203
+        ],
+        [
+          28.4473902428663,
+          77.190601006832
+        ],
+        [
+          28.4473900701964,
+          77.1905938203495
+        ],
+        [
+          28.447382166055,
+          77.1905766657815
+        ],
+        [
+          28.4473741288139,
+          77.1905524479381
+        ],
+        [
+          28.447368831807,
+          77.1905379553633
+        ],
+        [
+          28.4473659099097,
+          77.1905188582597
+        ],
+        [
+          28.447362995207,
+          77.1904998034242
+        ],
+        [
+          28.4473600301421,
+          77.1904784238412
+        ],
+        [
+          28.4473570731712,
+          77.1904570946202
+        ],
+        [
+          28.4473569067967,
+          77.1904500106605
+        ],
+        [
+          28.4473186262545,
+          77.1903699835888
+        ],
+        [
+          28.4473110143927,
+          77.1903514125886
+        ],
+        [
+          28.4473083640906,
+          77.1903398284213
+        ],
+        [
+          28.4472518201163,
+          77.1902264113208
+        ],
+        [
+          28.4472494144298,
+          77.1902219641733
+        ],
+        [
+          28.447242123626,
+          77.1902041288185
+        ],
+        [
+          28.4471902291467,
+          77.1901039830134
+        ],
+        [
+          28.4471960801359,
+          77.1900835818928
+        ],
+        [
+          28.4471972573484,
+          77.1900613767321
+        ],
+        [
+          28.4472072407224,
+          77.1900406527549
+        ],
+        [
+          28.4472456210894,
+          77.1899639019135
+        ],
+        [
+          28.4472499549224,
+          77.1899612300277
+        ],
+        [
+          28.4473122005984,
+          77.1899023019507
+        ],
+        [
+          28.4473818467957,
+          77.1898413620902
+        ],
+        [
+          28.4475045718794,
+          77.1897600202097
+        ],
+        [
+          28.4476248948739,
+          77.1896701212801
+        ],
+        [
+          28.4477243032349,
+          77.1895839131681
+        ],
+        [
+          28.4478198822826,
+          77.1895021755859
+        ],
+        [
+          28.4479151870372,
+          77.1893219757296
+        ],
+        [
+          28.4480045859437,
+          77.1891158061505
+        ],
+        [
+          28.4480447910352,
+          77.189018965354
+        ],
+        [
+          28.448115659411,
+          77.1889430203051
+        ],
+        [
+          28.4482053721811,
+          77.1888676427285
+        ],
+        [
+          28.448283168934,
+          77.1887659581834
+        ],
+        [
+          28.4483913843558,
+          77.1886385710142
+        ],
+        [
+          28.4484611807398,
+          77.1884933430943
+        ],
+        [
+          28.4485506192166,
+          77.1883217704344
+        ],
+        [
+          28.4486250929746,
+          77.1881887301268
+        ],
+        [
+          28.4486652548985,
+          77.1880659717681
+        ],
+        [
+          28.448703480582,
+          77.1879979974106
+        ],
+        [
+          28.4487460445952,
+          77.1879193876706
+        ],
+        [
+          28.4487633007866,
+          77.187863764602
+        ],
+        [
+          28.4487980667782,
+          77.1878036170443
+        ],
+        [
+          28.4488756396,
+          77.1876899643214
+        ],
+        [
+          28.4488852308696,
+          77.1876385132078
+        ],
+        [
+          28.4488913786351,
+          77.1876324301935
+        ],
+        [
+          28.4488913831317,
+          77.187567402015
+        ],
+        [
+          28.4488852380642,
+          77.1874891699902
+        ],
+        [
+          28.448864539268,
+          77.1874061104047
+        ],
+        [
+          28.4488794886983,
+          77.1873089602413
+        ],
+        [
+          28.448907427037,
+          77.1872045012877
+        ],
+        [
+          28.4489342619075,
+          77.1870968740225
+        ],
+        [
+          28.4490002946288,
+          77.187043317596
+        ],
+        [
+          28.4491480289593,
+          77.1869481864106
+        ],
+        [
+          28.4492369809028,
+          77.1869107854054
+        ],
+        [
+          28.4493976052162,
+          77.1868854721878
+        ],
+        [
+          28.4495753499234,
+          77.1868634495895
+        ],
+        [
+          28.4496890961757,
+          77.1868322709935
+        ],
+        [
+          28.4499066763529,
+          77.1867525937582
+        ],
+        [
+          28.4500180618849,
+          77.1867001587863
+        ],
+        [
+          28.4502054095529,
+          77.1866250141341
+        ],
+        [
+          28.450312668096,
+          77.1865985039188
+        ],
+        [
+          28.450490294992,
+          77.1865807773819
+        ],
+        [
+          28.4505827587882,
+          77.1865566036054
+        ],
+        [
+          28.4506794206196,
+          77.1865460230815
+        ],
+        [
+          28.4508569935563,
+          77.1865310421749
+        ],
+        [
+          28.4509814102648,
+          77.1865118290586
+        ],
+        [
+          28.4511278288871,
+          77.1864895159794
+        ],
+        [
+          28.451261610236,
+          77.186481128902
+        ],
+        [
+          28.4513568781183,
+          77.1865132589807
+        ],
+        [
+          28.4514434558517,
+          77.1865846939294
+        ],
+        [
+          28.4515179961595,
+          77.1866286878646
+        ],
+        [
+          28.4516003263948,
+          77.1866439079909
+        ],
+        [
+          28.4518126536319,
+          77.1866633072668
+        ],
+        [
+          28.4519280231606,
+          77.1866427496641
+        ],
+        [
+          28.4520148841804,
+          77.1866354957325
+        ],
+        [
+          28.4520870862509,
+          77.186627541229
+        ],
+        [
+          28.4521835169566,
+          77.1866297832389
+        ],
+        [
+          28.4522982173897,
+          77.1866632056434
+        ],
+        [
+          28.4523561661051,
+          77.186716779157
+        ],
+        [
+          28.4524555951505,
+          77.1867855251328
+        ],
+        [
+          28.4525277063894,
+          77.1868002371422
+        ],
+        [
+          28.4526169317269,
+          77.1867886538743
+        ],
+        [
+          28.452702386207,
+          77.1867659540865
+        ],
+        [
+          28.4527986019748,
+          77.1866738248381
+        ],
+        [
+          28.4528452408161,
+          77.1866223404496
+        ],
+        [
+          28.4529365651712,
+          77.1864985217903
+        ],
+        [
+          28.4530138124384,
+          77.1863909997458
+        ],
+        [
+          28.4531500831107,
+          77.1861695983492
+        ],
+        [
+          28.4532761518738,
+          77.185971116175
+        ],
+        [
+          28.4534290276284,
+          77.1857560603949
+        ],
+        [
+          28.4535428170482,
+          77.1855441846174
+        ],
+        [
+          28.4536527681616,
+          77.185311085739
+        ],
+        [
+          28.4537780769975,
+          77.185153645925
+        ],
+        [
+          28.4539423687462,
+          77.1850069673986
+        ],
+        [
+          28.4540793552789,
+          77.1848973975978
+        ],
+        [
+          28.4541846991654,
+          77.1847852872122
+        ],
+        [
+          28.454263427616,
+          77.1846511389399
+        ],
+        [
+          28.4543285628138,
+          77.1845269479613
+        ],
+        [
+          28.4544028692978,
+          77.1843909362937
+        ],
+        [
+          28.4544729606595,
+          77.1842503326877
+        ],
+        [
+          28.4545156559736,
+          77.1841550009535
+        ],
+        [
+          28.4545341577261,
+          77.1840582482905
+        ],
+        [
+          28.4545437400025,
+          77.1839713566937
+        ],
+        [
+          28.4545369708055,
+          77.1838957371995
+        ],
+        [
+          28.4545250763721,
+          77.1837806383667
+        ],
+        [
+          28.4545342431617,
+          77.1837019198088
+        ],
+        [
+          28.4545343654694,
+          77.1837014053965
+        ],
+        [
+          28.4545684129028,
+          77.1835582468166
+        ],
+        [
+          28.4545692699567,
+          77.1835546441325
+        ],
+        [
+          28.4546125597227,
+          77.1834567790081
+        ],
+        [
+          28.4547034290209,
+          77.1834085681519
+        ],
+        [
+          28.4547534726955,
+          77.1833952932591
+        ],
+        [
+          28.4548351967878,
+          77.1833850913499
+        ],
+        [
+          28.4549603266586,
+          77.1833612566177
+        ],
+        [
+          28.4550708992035,
+          77.1833023582182
+        ],
+        [
+          28.4550792197311,
+          77.1833002870796
+        ],
+        [
+          28.4550909882594,
+          77.1832934351449
+        ],
+        [
+          28.4550960928113,
+          77.1832871569777
+        ],
+        [
+          28.4551694999734,
+          77.1831968749368
+        ],
+        [
+          28.4552120477986,
+          77.183083186241
+        ],
+        [
+          28.4552779420243,
+          77.1829843687346
+        ],
+        [
+          28.4553321918281,
+          77.1828477644138
+        ],
+        [
+          28.4553711351707,
+          77.1826257937464
+        ],
+        [
+          28.4553910137851,
+          77.1825180189924
+        ],
+        [
+          28.4554285236084,
+          77.1822436772049
+        ],
+        [
+          28.4554597516671,
+          77.1820628379306
+        ],
+        [
+          28.4555132298526,
+          77.1818542141017
+        ],
+        [
+          28.4555690723557,
+          77.1816608077011
+        ],
+        [
+          28.4556061630948,
+          77.1815521237325
+        ],
+        [
+          28.4556522929199,
+          77.181406777102
+        ],
+        [
+          28.4556778318673,
+          77.1812775229403
+        ],
+        [
+          28.4557074330525,
+          77.1810750037095
+        ],
+        [
+          28.4557060723782,
+          77.180860815775
+        ],
+        [
+          28.4557255750761,
+          77.1806716550738
+        ],
+        [
+          28.4558009553507,
+          77.1805238622874
+        ],
+        [
+          28.4559259098538,
+          77.1804377548995
+        ],
+        [
+          28.4561031554372,
+          77.1804068649858
+        ],
+        [
+          28.4563006213775,
+          77.1803544363092
+        ],
+        [
+          28.4564604156166,
+          77.1802626110317
+        ],
+        [
+          28.4565748390585,
+          77.1801749837895
+        ],
+        [
+          28.4566722338374,
+          77.180097015266
+        ],
+        [
+          28.4566838063135,
+          77.1800300445519
+        ],
+        [
+          28.4566381810081,
+          77.1799678672243
+        ],
+        [
+          28.4565620030349,
+          77.1799252429566
+        ],
+        [
+          28.4565662730159,
+          77.1798602768313
+        ],
+        [
+          28.4566095232118,
+          77.1797651339547
+        ],
+        [
+          28.4566747186642,
+          77.1796244988725
+        ],
+        [
+          28.4567272669507,
+          77.1795270618254
+        ],
+        [
+          28.4566722068577,
+          77.1794082056252
+        ],
+        [
+          28.4565911527604,
+          77.1792580332326
+        ],
+        [
+          28.4565196053964,
+          77.1791468356589
+        ],
+        [
+          28.4564308387131,
+          77.1790592569801
+        ],
+        [
+          28.4563778038934,
+          77.1789560435875
+        ],
+        [
+          28.4563714429886,
+          77.1789443452063
+        ],
+        [
+          28.4563714429886,
+          77.1789402218147
+        ],
+        [
+          28.4563714438879,
+          77.1788185992999
+        ],
+        [
+          28.4564082360521,
+          77.1786901392395
+        ],
+        [
+          28.4564322029847,
+          77.1785886696324
+        ],
+        [
+          28.4564285409453,
+          77.1785441909626
+        ],
+        [
+          28.4563634821898,
+          77.1785105428283
+        ],
+        [
+          28.456317366754,
+          77.17847778862
+        ],
+        [
+          28.4563198974462,
+          77.1783187803884
+        ],
+        [
+          28.4563392778363,
+          77.178215709988
+        ],
+        [
+          28.4563508566076,
+          77.1780695152969
+        ],
+        [
+          28.4563529115585,
+          77.1780596461367
+        ],
+        [
+          28.4563549350331,
+          77.1780456176122
+        ],
+        [
+          28.4563569935813,
+          77.178035725969
+        ],
+        [
+          28.4563569432192,
+          77.1780295008617
+        ],
+        [
+          28.4563610333359,
+          77.1780055267346
+        ],
+        [
+          28.4563631161657,
+          77.1779976765525
+        ],
+        [
+          28.4563650973722,
+          77.1779773491763
+        ],
+        [
+          28.456373513228,
+          77.1779520476499
+        ],
+        [
+          28.4563734250944,
+          77.1779416388965
+        ],
+        [
+          28.4563733549472,
+          77.177933312973
+        ],
+        [
+          28.4563754863405,
+          77.1779295636994
+        ],
+        [
+          28.4563775502846,
+          77.1779174759118
+        ],
+        [
+          28.456381770803,
+          77.1779036902041
+        ],
+        [
+          28.4563860200996,
+          77.177891961246
+        ],
+        [
+          28.4563925203994,
+          77.1778868638887
+        ],
+        [
+          28.4563946014306,
+          77.1778746987593
+        ],
+        [
+          28.4563945105991,
+          77.1778642396439
+        ],
+        [
+          28.4563965583554,
+          77.177847872882
+        ],
+        [
+          28.4564008220412,
+          77.1778339405849
+        ],
+        [
+          28.4564029120656,
+          77.1778217250935
+        ],
+        [
+          28.456402857207,
+          77.1778154388324
+        ],
+        [
+          28.4564093781912,
+          77.1778059833604
+        ],
+        [
+          28.4564376888491,
+          77.1777407582304
+        ],
+        [
+          28.4564375737359,
+          77.1777280049445
+        ],
+        [
+          28.4564373623953,
+          77.1777046315645
+        ],
+        [
+          28.4564349836884,
+          77.1776890732931
+        ],
+        [
+          28.4564349270311,
+          77.177682706093
+        ],
+        [
+          28.4564325141501,
+          77.1776629353971
+        ],
+        [
+          28.456430182208,
+          77.1776516686905
+        ],
+        [
+          28.4564211674038,
+          77.1776384468578
+        ],
+        [
+          28.4564166680956,
+          77.1776308080164
+        ],
+        [
+          28.4564077791965,
+          77.1776240037457
+        ],
+        [
+          28.4563945303842,
+          77.1776138638897
+        ],
+        [
+          28.4563813813965,
+          77.1776038013753
+        ],
+        [
+          28.4563727056367,
+          77.1776012985621
+        ],
+        [
+          28.4563619227654,
+          77.1775981896058
+        ],
+        [
+          28.4563533441324,
+          77.1775957155708
+        ],
+        [
+          28.4563384315742,
+          77.1775914159121
+        ],
+        [
+          28.4563194468859,
+          77.1775859417388
+        ],
+        [
+          28.4563152569444,
+          77.1775847339493
+        ],
+        [
+          28.4562986248825,
+          77.1775799621465
+        ],
+        [
+          28.4562903915892,
+          77.1775776194126
+        ],
+        [
+          28.456280156405,
+          77.1775747047099
+        ],
+        [
+          28.4562720103459,
+          77.1775723871569
+        ],
+        [
+          28.4562558639179,
+          77.1775638274097
+        ],
+        [
+          28.45624985195,
+          77.1775601437866
+        ],
+        [
+          28.4562358989684,
+          77.1775522549336
+        ],
+        [
+          28.4562319536426,
+          77.1775472061396
+        ],
+        [
+          28.4562182155991,
+          77.1775296243936
+        ],
+        [
+          28.4562084561562,
+          77.177519103225
+        ],
+        [
+          28.4562026213547,
+          77.1775135975755
+        ],
+        [
+          28.4562071251596,
+          77.1774287528357
+        ],
+        [
+          28.4562804558792,
+          77.1772666707213
+        ],
+        [
+          28.4564076371037,
+          77.1770520052468
+        ],
+        [
+          28.4564761132829,
+          77.1769392644365
+        ],
+        [
+          28.4565211396397,
+          77.1768425783233
+        ],
+        [
+          28.4565476732374,
+          77.176740803846
+        ],
+        [
+          28.4565642756217,
+          77.1765629737033
+        ],
+        [
+          28.4565738300191,
+          77.1764593996825
+        ],
+        [
+          28.4565500348571,
+          77.1764166935765
+        ],
+        [
+          28.456542955394,
+          77.1764092049219
+        ],
+        [
+          28.4565335547806,
+          77.1764014338801
+        ],
+        [
+          28.4565242018313,
+          77.1763936997104
+        ],
+        [
+          28.4565125753959,
+          77.1763857047375
+        ],
+        [
+          28.456501020007,
+          77.1763777592272
+        ],
+        [
+          28.4564895356644,
+          77.176372006264
+        ],
+        [
+          28.4564804003511,
+          77.1763687120474
+        ],
+        [
+          28.4564690419136,
+          77.1763630184395
+        ],
+        [
+          28.4564600064251,
+          77.1763597646924
+        ],
+        [
+          28.4564510132046,
+          77.1763522832323
+        ],
+        [
+          28.4564376061115,
+          77.1763506419695
+        ],
+        [
+          28.4564309394372,
+          77.1763456048668
+        ],
+        [
+          28.4564242961453,
+          77.176342692862
+        ],
+        [
+          28.4564154755946,
+          77.1763395272484
+        ],
+        [
+          28.4564045110602,
+          77.1763340198002
+        ],
+        [
+          28.4563914394143,
+          77.1763303784452
+        ],
+        [
+          28.4563849382152,
+          77.1763275248964
+        ],
+        [
+          28.4563763074215,
+          77.1763244294298
+        ],
+        [
+          28.456367716198,
+          77.1763213483525
+        ],
+        [
+          28.4563591663433,
+          77.1763162123243
+        ],
+        [
+          28.4563464166547,
+          77.1763126779887
+        ],
+        [
+          28.4563337577976,
+          77.1763071147825
+        ],
+        [
+          28.4563253680222,
+          77.1763041110469
+        ],
+        [
+          28.4563128566539,
+          77.1762986098939
+        ],
+        [
+          28.456306635144,
+          77.17629791202
+        ],
+        [
+          28.4562942541774,
+          77.1762944927976
+        ],
+        [
+          28.4562840037047,
+          77.1762933506586
+        ],
+        [
+          28.4562717810188,
+          77.1762919881857
+        ],
+        [
+          28.4562636790264,
+          77.1762910852664
+        ],
+        [
+          28.4562515966347,
+          77.1762837171208
+        ],
+        [
+          28.4562455873648,
+          77.1762790496394
+        ],
+        [
+          28.456235615682,
+          77.1762659788928
+        ],
+        [
+          28.4562296603714,
+          77.1762613635721
+        ],
+        [
+          28.4562217517333,
+          77.1762505905933
+        ],
+        [
+          28.4562138790681,
+          77.1762438393827
+        ],
+        [
+          28.4562060423758,
+          77.1762331554368
+        ],
+        [
+          28.4561962946242,
+          77.1762164109596
+        ],
+        [
+          28.4561943529879,
+          77.1762142579826
+        ],
+        [
+          28.4561885694478,
+          77.1762038843028
+        ],
+        [
+          28.456184758121,
+          77.1761956878817
+        ],
+        [
+          28.4561790303388,
+          77.176187347569
+        ],
+        [
+          28.4561752387971,
+          77.1761791907181
+        ],
+        [
+          28.4561657716339,
+          77.176162781688
+        ],
+        [
+          28.4561601301867,
+          77.1761506372431
+        ],
+        [
+          28.4561526361362,
+          77.1761345034056
+        ],
+        [
+          28.4561470477489,
+          77.17612050276
+        ],
+        [
+          28.4561470720306,
+          77.1761166131921
+        ],
+        [
+          28.4561414647576,
+          77.1761084869181
+        ],
+        [
+          28.4561377766379,
+          77.1760966176657
+        ],
+        [
+          28.4561340957128,
+          77.1760847717958
+        ],
+        [
+          28.4561285423992,
+          77.1760747911197
+        ],
+        [
+          28.4561267338626,
+          77.1760650217843
+        ],
+        [
+          28.4561230520381,
+          77.1760571104483
+        ],
+        [
+          28.4561212488974,
+          77.176047363596
+        ],
+        [
+          28.456117589556,
+          77.1760375519924
+        ],
+        [
+          28.4561103059468,
+          77.1760160617928
+        ],
+        [
+          28.4561066582965,
+          77.1760082358924
+        ],
+        [
+          28.4561048479612,
+          77.1760024046882
+        ],
+        [
+          28.4560993728886,
+          77.1759945536068
+        ],
+        [
+          28.4560957809963,
+          77.1759810170113
+        ],
+        [
+          28.456094003936,
+          77.1759713807756
+        ],
+        [
+          28.4560903778695,
+          77.1759655531687
+        ],
+        [
+          28.4560885738295,
+          77.175961686084
+        ],
+        [
+          28.4560831823939,
+          77.1759481962532
+        ],
+        [
+          28.4560814062328,
+          77.1759405214389
+        ],
+        [
+          28.4560760147971,
+          77.1759309085855
+        ],
+        [
+          28.4560706404486,
+          77.1759213272085
+        ],
+        [
+          28.4560670944218,
+          77.1759098752415
+        ],
+        [
+          28.4560617668379,
+          77.1758965445908
+        ],
+        [
+          28.4560600239518,
+          77.1758870396561
+        ],
+        [
+          28.4560601075888,
+          77.1758718249258
+        ],
+        [
+          28.4560601498569,
+          77.1758642157619
+        ],
+        [
+          28.4560601714406,
+          77.1758604107304
+        ],
+        [
+          28.4560602128095,
+          77.1758527997679
+        ],
+        [
+          28.4560656752915,
+          77.1758412848484
+        ],
+        [
+          28.4560729867798,
+          77.1758258695692
+        ],
+        [
+          28.4560748753561,
+          77.175812442691
+        ],
+        [
+          28.4560785481873,
+          77.1758046878371
+        ],
+        [
+          28.4560840628301,
+          77.1757949400854
+        ],
+        [
+          28.4561138276919,
+          77.1757378547192
+        ],
+        [
+          28.4561430718462,
+          77.1757045312401
+        ]
+      ],
+      "description": "Delhi I&FC Stormwater Drainage Spine (CD 5)",
+      "capacityLps": 18000,
+      "currentFlowLps": 11200,
+      "surchargePct": 65
+    },
+    {
+      "id": "dl-kml-ww-2",
+      "name": "Asola Drain (Section 2)",
+      "category": "main_canal",
+      "widthMeters": 30,
+      "coordinates": [
+        [
+          28.4569140426498,
+          77.172403678488
+        ],
+        [
+          28.4568792280948,
+          77.1724416739451
+        ],
+        [
+          28.4568552099009,
+          77.1724851678572
+        ],
+        [
+          28.4568499281825,
+          77.1725237658601
+        ],
+        [
+          28.4568523068893,
+          77.1725695593387
+        ],
+        [
+          28.4568234854164,
+          77.172621752393
+        ],
+        [
+          28.4568037929616,
+          77.172686446923
+        ],
+        [
+          28.4567827515236,
+          77.1728355671087
+        ],
+        [
+          28.4567665331498,
+          77.1728774611269
+        ],
+        [
+          28.4567422064885,
+          77.1729403012549
+        ],
+        [
+          28.4566698416407,
+          77.1730901301064
+        ],
+        [
+          28.4566077317623,
+          77.1731821073693
+        ],
+        [
+          28.456560425624,
+          77.1732233655669
+        ],
+        [
+          28.4564953749625,
+          77.173304726333
+        ],
+        [
+          28.4564390324363,
+          77.1734249728852
+        ],
+        [
+          28.4564287783663,
+          77.1734828226751
+        ],
+        [
+          28.4564309880006,
+          77.1735391687986
+        ],
+        [
+          28.4564327182962,
+          77.1736254155815
+        ],
+        [
+          28.4564424750411,
+          77.1736959907784
+        ],
+        [
+          28.4564565566257,
+          77.1737877674925
+        ],
+        [
+          28.4564904520736,
+          77.1739045813324
+        ],
+        [
+          28.4565442729008,
+          77.1740393978009
+        ],
+        [
+          28.4566181315224,
+          77.1741851815019
+        ],
+        [
+          28.4567186478482,
+          77.1744142019548
+        ],
+        [
+          28.4567888633163,
+          77.1745933388125
+        ],
+        [
+          28.4568456231279,
+          77.1747387726772
+        ],
+        [
+          28.4568541055334,
+          77.1747917283566
+        ],
+        [
+          28.4568530928968,
+          77.1748550469239
+        ],
+        [
+          28.4568462850289,
+          77.1748918543765
+        ],
+        [
+          28.4568221813994,
+          77.1749406246111
+        ],
+        [
+          28.4567965803988,
+          77.1749858452216
+        ],
+        [
+          28.4567395256095,
+          77.1750532925764
+        ],
+        [
+          28.4566857479498,
+          77.1751102520375
+        ],
+        [
+          28.4566269421805,
+          77.1751899805341
+        ],
+        [
+          28.4564976835222,
+          77.1752999352448
+        ],
+        [
+          28.456380388545,
+          77.1754261919662
+        ],
+        [
+          28.4561822346233,
+          77.1756309154354
+        ],
+        [
+          28.4561326397105,
+          77.1756940370511
+        ]
+      ],
+      "description": "Delhi I&FC Stormwater Drainage Spine (CD 5)",
+      "capacityLps": 18000,
+      "currentFlowLps": 11200,
+      "surchargePct": 65
+    },
+    {
+      "id": "dl-kml-ww-3",
+      "name": "Bankner Link Drain (Section 1)",
+      "category": "main_canal",
+      "widthMeters": 30,
+      "coordinates": [
+        [
+          28.8593051871855,
+          77.0683594121581
+        ],
+        [
+          28.8597346557307,
+          77.0683828341015
+        ],
+        [
+          28.8599635457819,
+          77.0683806235679
+        ],
+        [
+          28.860120285024,
+          77.0683808070296
+        ],
+        [
+          28.8603309611058,
+          77.0683915890016
+        ],
+        [
+          28.8604833179517,
+          77.0683970155108
+        ],
+        [
+          28.8606504623498,
+          77.0684040023438
+        ],
+        [
+          28.8608447285023,
+          77.0684066751289
+        ],
+        [
+          28.8610403346446,
+          77.0684040625984
+        ],
+        [
+          28.8612572484242,
+          77.0684055824527
+        ],
+        [
+          28.8614499047902,
+          77.0684072066283
+        ],
+        [
+          28.8615372568398,
+          77.0684092516866
+        ],
+        [
+          28.8616611168679,
+          77.0684116267961
+        ],
+        [
+          28.8617470246064,
+          77.0684123543476
+        ],
+        [
+          28.8618616432012,
+          77.0684129883697
+        ],
+        [
+          28.861981833096,
+          77.0684165119135
+        ],
+        [
+          28.8620594427899,
+          77.0684263289129
+        ],
+        [
+          28.8620975488637,
+          77.0684146611087
+        ],
+        [
+          28.8621457057606,
+          77.0684160100918
+        ],
+        [
+          28.8621767197807,
+          77.0684266859438
+        ],
+        [
+          28.8622112636398,
+          77.0684283155153
+        ],
+        [
+          28.8622534319512,
+          77.0684243980685
+        ],
+        [
+          28.8623173305812,
+          77.068426826238
+        ],
+        [
+          28.8623740418295,
+          77.0684295215062
+        ],
+        [
+          28.86247747016,
+          77.0684301411391
+        ],
+        [
+          28.8626532975126,
+          77.0684408511653
+        ],
+        [
+          28.8627745692918,
+          77.0684485421675
+        ],
+        [
+          28.8629494856311,
+          77.0684574220733
+        ],
+        [
+          28.8631744321552,
+          77.0684500611224
+        ],
+        [
+          28.8632876639954,
+          77.0684522239919
+        ],
+        [
+          28.8633127829594,
+          77.0684955928983
+        ],
+        [
+          28.8633067898774,
+          77.0687802445137
+        ],
+        [
+          28.8633097711299,
+          77.0692574526703
+        ],
+        [
+          28.8633111929581,
+          77.0696281676068
+        ],
+        [
+          28.8633103853668,
+          77.069811567251
+        ],
+        [
+          28.8633050487899,
+          77.070106580855
+        ],
+        [
+          28.8633258105386,
+          77.0704723108494
+        ],
+        [
+          28.8635139738917,
+          77.0704768812041
+        ],
+        [
+          28.863740362029,
+          77.0704797338536
+        ],
+        [
+          28.8638415411551,
+          77.0705060273323
+        ],
+        [
+          28.8638425582883,
+          77.0707037342909
+        ],
+        [
+          28.8638354977109,
+          77.0709331711299
+        ],
+        [
+          28.8638262724654,
+          77.071222653004
+        ],
+        [
+          28.8638234360037,
+          77.0713780801353
+        ],
+        [
+          28.8638185293026,
+          77.071599040864
+        ],
+        [
+          28.8638085630157,
+          77.0718841646235
+        ],
+        [
+          28.863808745578,
+          77.0720611125313
+        ],
+        [
+          28.8638132529801,
+          77.0722754929207
+        ],
+        [
+          28.8638144508771,
+          77.0723739677854
+        ],
+        [
+          28.8638080270197,
+          77.0724715900928
+        ],
+        [
+          28.8638123392689,
+          77.0725551910702
+        ],
+        [
+          28.8638489677566,
+          77.0726070207983
+        ],
+        [
+          28.8639482843867,
+          77.0727151354961
+        ],
+        [
+          28.8640741031383,
+          77.0728566015519
+        ],
+        [
+          28.8642321338068,
+          77.0730497030823
+        ],
+        [
+          28.864342765707,
+          77.0732187405534
+        ],
+        [
+          28.8644559498831,
+          77.0733706900063
+        ],
+        [
+          28.8645490288155,
+          77.0734444847761
+        ],
+        [
+          28.8646765877552,
+          77.0735087881011
+        ],
+        [
+          28.8647830054322,
+          77.0735633050035
+        ],
+        [
+          28.8648442105927,
+          77.073609584116
+        ],
+        [
+          28.8648546139502,
+          77.0737147751178
+        ],
+        [
+          28.8648501083467,
+          77.0739457866697
+        ],
+        [
+          28.8648445649256,
+          77.0741603882923
+        ],
+        [
+          28.8648559548393,
+          77.0746689827883
+        ],
+        [
+          28.8648471990399,
+          77.0751612797702
+        ],
+        [
+          28.8648425036795,
+          77.0755380912109
+        ],
+        [
+          28.8648409235706,
+          77.075728002846
+        ],
+        [
+          28.8648337298936,
+          77.0759060119539
+        ],
+        [
+          28.864831175819,
+          77.0761305753667
+        ],
+        [
+          28.8648414820497,
+          77.0763221120768
+        ],
+        [
+          28.8648518206559,
+          77.07636158512
+        ],
+        [
+          28.8648848113858,
+          77.0763745641358
+        ],
+        [
+          28.8649800513891,
+          77.0763790589474
+        ],
+        [
+          28.8650924189809,
+          77.0763825950817
+        ],
+        [
+          28.8652093074645,
+          77.0763807658606
+        ],
+        [
+          28.8653575022478,
+          77.0763958951554
+        ],
+        [
+          28.8653599690882,
+          77.0765339671698
+        ],
+        [
+          28.8653685872914,
+          77.0767086191084
+        ],
+        [
+          28.8653628792943,
+          77.0768326652963
+        ],
+        [
+          28.8653605761306,
+          77.0770052236132
+        ],
+        [
+          28.8653404430079,
+          77.0771539211175
+        ],
+        [
+          28.8653403018143,
+          77.077242562795
+        ],
+        [
+          28.8653641239561,
+          77.0773004395646
+        ],
+        [
+          28.8654148394242,
+          77.0774086657783
+        ],
+        [
+          28.8654609476655,
+          77.0776022331575
+        ],
+        [
+          28.8654803217603,
+          77.077749459371
+        ],
+        [
+          28.8655405349686,
+          77.0778945128225
+        ],
+        [
+          28.8655733988941,
+          77.0779549760423
+        ],
+        [
+          28.8656431242317,
+          77.0780177909892
+        ],
+        [
+          28.865729523,
+          77.0780635233139
+        ],
+        [
+          28.8657758911453,
+          77.0780584088694
+        ],
+        [
+          28.8658824383248,
+          77.0780211544537
+        ],
+        [
+          28.8659554992478,
+          77.0780101620403
+        ],
+        [
+          28.8660698543412,
+          77.0780021877517
+        ],
+        [
+          28.8661123652943,
+          77.0779848686078
+        ],
+        [
+          28.8662441843225,
+          77.0779190472272
+        ],
+        [
+          28.8662784997538,
+          77.0779195355591
+        ],
+        [
+          28.8663244811908,
+          77.0779507420341
+        ],
+        [
+          28.8664428922266,
+          77.0781061044142
+        ],
+        [
+          28.8664546760434,
+          77.0781382021173
+        ],
+        [
+          28.8664484248558,
+          77.0783382679977
+        ],
+        [
+          28.8664470300073,
+          77.078578465225
+        ],
+        [
+          28.8664528576141,
+          77.0795187244106
+        ],
+        [
+          28.8664590098763,
+          77.0801724299147
+        ],
+        [
+          28.8670617049346,
+          77.0801802495199
+        ],
+        [
+          28.8676881169139,
+          77.0801888209583
+        ],
+        [
+          28.8680339727905,
+          77.0801769858802
+        ],
+        [
+          28.86803433162,
+          77.0802498075835
+        ],
+        [
+          28.8679659390777,
+          77.083019489259
+        ]
+      ],
+      "description": "Delhi I&FC Stormwater Drainage Spine (CD 6/7)",
+      "capacityLps": 18000,
+      "currentFlowLps": 11200,
+      "surchargePct": 65
+    }
+  ]
+}

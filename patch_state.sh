@@ -1,0 +1,1 @@
+sed -i '/const \[mobileGisTab, setMobileGisTab\]/a \  const [leftPanelWidth, setLeftPanelWidth] = useState(33.33);\n  const [isResizing, setIsResizing] = useState(false);\n  const sidebarRef = useRef<HTMLDivElement>(null);' ./src/app/page.tsx

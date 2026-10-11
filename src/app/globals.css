@@ -1,0 +1,521 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=Nunito:wght@600;700;800;900&family=Quicksand:wght@600;700&family=Lexend:wght@600;700;800&display=swap');
+@import 'ol/ol.css';
+@import 'leaflet/dist/leaflet.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   SURGE "SAND" THEME — a single, mid-tone theme (between light and dark).
+   Warm stone neutrals that sit naturally beside the cream map tiles, with the
+   blue accents providing the contrast.
+
+   This is the ONE place to tune the look of the whole site.
+   • The neutral scale below is wired into Tailwind (slate / gray / bg-white)
+     in tailwind.config.js, so every existing utility class picks it up.
+   • Values are space-separated RGB triplets so Tailwind opacity modifiers
+     (bg-slate-50/50, bg-white/90 …) keep working.
+
+   To make it lighter, raise the numbers; darker, lower them.
+   Alternative tints (same structure) are listed at the bottom of this block.
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+:root {
+  color-scheme: light;
+
+  /* ── Neutral surface scale (warm sand / stone) ── */
+  --card-rgb:   244 239 230;   /* cards, panels, modals (Tailwind "white" surface) */
+  --slate-50:   220 210 195;   /* page background                                  */
+  --slate-100:  206 195 178;   /* inset fills, inputs, hover                        */
+  --slate-200:  186 174 156;   /* borders, dividers, tracks                         */
+  --slate-300:  162 150 131;   /* strong borders, scrollbars                        */
+
+  /* ── Neutral text / icon scale ── */
+  --slate-400:  124 112  94;   /* placeholders, muted icons   */
+  --slate-500:   82  71  56;   /* tertiary text               */
+  --slate-600:   66  57  45;   /* secondary text              */
+  --slate-700:   50  43  34;   /* strong secondary text       */
+  --slate-800:   37  32  26;
+  --slate-900:   26  22  18;   /* primary text, dark chips    */
+  --slate-950:   17  15  12;
+
+  /* Alternative tints — swap the 12 values above for any of these:
+     Sea-glass  card 228 239 241 · 50 196 214 219 · 100 183 203 209 · 200 162 186 194 · 300 138 165 175
+                400 98 128 140 · 500 56 85 97 · 600 39 66 78 · 700 28 51 62 · 800 19 37 47 · 900 11 26 36 · 950 7 17 25
+     Periwinkle card 234 236 249 · 50 203 208 233 · 100 190 196 225 · 200 170 178 211 · 300 146 156 192
+                400 106 116 160 · 500 70 80 122 · 600 53 62 100 · 700 40 48 83 · 800 28 34 62 · 900 19 23 46 · 950 12 15 32 */
+
+  /* ── Semantic surface tokens (used by .card, .ui-*, bg-surface-*) ── */
+  --surface-base:     rgb(var(--slate-50));
+  --surface-card:     rgb(var(--card-rgb));
+  --surface-elevated: rgb(var(--slate-100));
+  --surface-overlay:  rgb(var(--card-rgb));
+  --border:           rgb(var(--slate-200));
+
+  /* Legacy aliases */
+  --bg:      var(--surface-base);
+  --fg:      rgb(var(--slate-900));
+  --surface: var(--surface-card);
+  --muted:   rgb(var(--slate-500));
+
+  /* ── Text scale (all ≥ 4.5:1 on cards) ── */
+  --text-primary:   rgb(var(--slate-900));
+  --text-secondary: rgb(var(--slate-700));
+  --text-tertiary:  rgb(var(--slate-500));
+
+  /* Single-purpose semantic action colour (primary CTAs ONLY) */
+  --color-action-primary: #2563eb;
+  --color-action-hover:   #1d4ed8;
+  --color-action-active:  #1e40af;
+
+  /* Single-purpose inundation & operational hazard system */
+  --color-status-safe:     #16a34a;
+  --color-status-warning:  #d97706;
+  --color-status-critical: #ea580c;
+  --color-status-severe:   #dc2626;
+
+  /* Exclusively for SCADA provenance & human-verification badges */
+  --color-verified: #0d9488;
+  --color-trust:    #0d9488;
+
+  /* Selected tabs / toggles (distinct from action primary) */
+  --color-selection-active: #0284c7;
+
+  /* Live vs fallback data source indicators */
+  --color-live-data:     #059669;
+  --color-fallback-data: #d97706;
+
+  /* Neutral icon hue */
+  --color-icon-neutral: rgb(var(--slate-500));
+
+  /* Header persona accents */
+  --header-accent-citizen:   #ffffff;
+  --header-accent-authority: #0f172a;
+
+  /* Reserved simulation-mode system tokens */
+  --color-simulation-mode:          #7e22ce;
+  --color-simulation-banner-bg:     #581c87;
+  --color-simulation-banner-border: #a855f7;
+
+  /* Reserved historical-reference system tokens */
+  --color-historical-reference:        #4f46e5;
+  --color-historical-reference-bg:     #e4e8fb;
+  --color-historical-reference-border: #b7c0f0;
+}
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   "DUSK" — mid-tone scale scoped to the Simulation Replay route (/simulation).
+   That area is dark-semantic (dark surfaces, light text), so the scale keeps its
+   direction but sits at a mid-tone blue instead of near-black. Applied by
+   src/app/simulation/layout.tsx together with the `dark` class.
+   ═══════════════════════════════════════════════════════════════════════════ */
+.sim-theme {
+  color-scheme: dark;
+
+  --card-rgb:   62  77 110;
+  --slate-950:  52  66  96;    /* page            */
+  --slate-900:  62  77 110;    /* cards, panels   */
+  --slate-800:  76  92 128;    /* borders, hover  */
+  --slate-700:  94 110 146;
+  --slate-600: 118 133 168;
+  --slate-500: 190 200 221;    /* tertiary text   */
+  --slate-400: 206 214 231;
+  --slate-300: 221 228 239;
+  --slate-200: 229 234 243;
+  --slate-100: 240 243 249;
+  --slate-50:  248 250 253;
+
+  --surface-base:     rgb(var(--slate-950));
+  --surface-card:     rgb(var(--slate-900));
+  --surface-elevated: rgb(var(--slate-800));
+  --surface-overlay:  rgb(var(--slate-800));
+  --border:           rgb(var(--slate-800));
+  --text-primary:     rgb(var(--slate-50));
+  --text-secondary:   rgb(var(--slate-300));
+  --text-tertiary:    rgb(var(--slate-500));
+  --muted:            rgb(var(--slate-500));
+  --color-icon-neutral: rgb(var(--slate-500));
+  /* Lighter accents so labels/icons stay legible on the mid-tone dusk surfaces */
+  --color-selection-active: #7dd3fc;
+  --color-status-warning:   #fbbf24;
+  --color-status-safe:      #4ade80;
+  --color-status-critical:  #fb923c;
+  --color-status-severe:    #f87171;
+}
+
+/* ─── Base Typography & System Setup ─── */
+html {
+  font-size: 15px;
+  scroll-behavior: smooth;
+  background-color: var(--surface-base);
+}
+
+body {
+  font-family: 'Nunito', 'Quicksand', 'Lexend', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--text-primary);
+  background-color: var(--surface-base);
+  overflow-x: hidden;
+  letter-spacing: -0.011em;
+  -webkit-font-smoothing: antialiased;
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+button, input, select, textarea, p, span, div, a, label {
+  font-family: inherit;
+}
+
+/* ─── Surface Cards & Elevation Panels ─── */
+.card {
+  background: var(--surface-card);
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  padding: 18px;
+  margin: 4px;
+  color: var(--text-primary);
+  transition: background-color 0.2s ease, border-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.panel {
+  background: var(--surface-elevated);
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  margin: 4px;
+  color: var(--text-primary);
+  transition: background-color 0.2s ease, border-color 0.2s ease;
+}
+
+/* Light mode crisp elevation shadow */
+html:not(.dark) .card {
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05), 0 1px 2px rgba(0, 0, 0, 0.03);
+}
+
+html:not(.dark) .panel {
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.04);
+}
+
+/* Glass panel background token */
+.glass-panel {
+  background: rgb(var(--card-rgb) / 0.92);
+  backdrop-filter: blur(12px);
+  border: 1px solid var(--border);
+}
+
+/* ─── Badges ─── */
+.badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 3px 10px;
+  border-radius: 9999px;
+  font-size: 12px;
+  font-weight: 600;
+  margin: 2px;
+}
+
+/* ─── Scrollbar Custom Styling ─── */
+::-webkit-scrollbar { width: 6px; height: 6px; }
+::-webkit-scrollbar-track { background: var(--surface-base); }
+::-webkit-scrollbar-thumb { background: var(--border); border-radius: 9999px; }
+::-webkit-scrollbar-thumb:hover { background: var(--text-tertiary); }
+
+/* ─── Tabular Numeral Figures ─── */
+.tabular-nums, .font-mono {
+  font-variant-numeric: tabular-nums;
+}
+
+/* ─── OpenLayers Popup Card ─── */
+.ol-popup-card {
+  background: var(--surface-elevated);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 12px 14px;
+  box-shadow: 0 8px 32px rgba(0,0,0,0.25);
+  font-family: 'Nunito', sans-serif;
+  font-size: 13px;
+  color: var(--text-primary);
+  min-width: 200px;
+  max-width: 280px;
+}
+
+.ol-popup-card h4 {
+  font-size: 14px;
+  font-weight: 700;
+  color: var(--text-primary);
+}
+
+.ol-popup-card .detail-label {
+  font-size: 12px;
+  color: var(--text-tertiary);
+}
+
+.ol-popup-card .detail-value {
+  font-size: 13px;
+  font-weight: 700;
+  font-family: ui-monospace, monospace;
+  font-variant-numeric: tabular-nums;
+  color: var(--text-primary);
+}
+
+/* ─── OpenLayers Map Controls ─── */
+.ol-viewport { border-radius: 16px; }
+
+.ol-control {
+  background-color: var(--surface-elevated) !important;
+  border: 1px solid var(--border) !important;
+  border-radius: 10px !important;
+  padding: 4px !important;
+  margin: 6px !important;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.15) !important;
+}
+
+.ol-control button {
+  background-color: var(--surface-card) !important;
+  color: var(--text-secondary) !important;
+  border-radius: 8px !important;
+  font-size: 14px !important;
+  transition: background 0.15s ease !important;
+}
+
+.ol-control button:hover {
+  background-color: var(--surface-overlay) !important;
+  color: var(--text-primary) !important;
+}
+
+/* ─── Status Dot Pulse ─── */
+@keyframes pulse-dot {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.4; }
+}
+
+.pulse-dot {
+  animation: pulse-dot 2s ease-in-out infinite;
+}
+
+/* ─── Constant Hero Rain Animation ─── */
+@keyframes rain-fall {
+  0% {
+    transform: translateY(-130px) rotate(-8deg);
+    opacity: 0;
+  }
+  10% {
+    opacity: 1;
+  }
+  90% {
+    opacity: 1;
+  }
+  100% {
+    transform: translateY(calc(100vh + 130px)) rotate(-8deg);
+    opacity: 0;
+  }
+}
+
+.animate-rain-drop {
+  animation: rain-fall linear infinite;
+  will-change: transform, opacity;
+}
+
+/* ─── Sleek Web3 Sidebar Glider ─── */
+.custom-scrollbar::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+.custom-scrollbar::-webkit-scrollbar-track {
+  background: transparent;
+}
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background: rgba(14, 165, 233, 0.4);
+  border-radius: 10px;
+}
+.custom-scrollbar::-webkit-scrollbar-thumb:hover {
+  background: rgba(14, 165, 233, 0.8);
+}
+
+@layer components {
+  .btn-glass {
+    @apply bg-black/5 dark:bg-white/10 backdrop-blur-md border border-black/10 dark:border-white/10 shadow-sm text-black dark:text-white transition-all duration-300;
+  }
+  .btn-glass:hover {
+    @apply bg-black/10 dark:bg-white/20 border-black/20 dark:border-white/20 shadow-md -translate-y-0.5;
+  }
+  .btn-glass:active {
+    @apply translate-y-0 scale-95;
+  }
+  .btn-glass-primary {
+    @apply bg-blue-600/80 text-white backdrop-blur-xl border border-blue-500/50 shadow-md transition-all duration-300;
+  }
+  .btn-glass-primary:hover {
+    @apply bg-blue-600 hover:bg-blue-500 border-blue-400/60 shadow-lg -translate-y-0.5;
+  }
+  .btn-glass-primary:active {
+    @apply translate-y-0 scale-95;
+  }
+}
+
+@layer components {
+  .nav-glass {
+    @apply bg-white/5 backdrop-blur-md border border-white/10 shadow-sm text-white/70 transition-all duration-300;
+  }
+  .nav-glass:hover {
+    @apply bg-white/10 border-white/20 text-white shadow-md -translate-y-0.5;
+  }
+  .nav-glass:active {
+    @apply translate-y-0 scale-95;
+  }
+}
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   SURGE PANEL UI KIT — shared, compact building blocks for side panels.
+   Token-driven, so light/dark follow the theme automatically.
+   ═══════════════════════════════════════════════════════════════════════════ */
+@layer components {
+  /* pb-24 on small screens keeps the last card clear of the floating chatbot launcher */
+  .ui-stack { @apply flex flex-col gap-3 pb-24 lg:pb-6 min-w-0; }
+
+  /* Surfaces */
+  .ui-card {
+    @apply rounded-2xl p-3.5 min-w-0;
+    background: var(--surface-card);
+    border: 1px solid var(--border);
+    color: var(--text-primary);
+  }
+  html:not(.dark) .ui-card { box-shadow: 0 1px 2px rgba(15, 23, 42, 0.05); }
+  .ui-card-muted {
+    @apply rounded-xl p-3 min-w-0;
+    background: var(--surface-elevated);
+    border: 1px solid var(--border);
+  }
+  .ui-card-interactive { @apply cursor-pointer transition-all duration-150; }
+  .ui-card-interactive:hover {
+    border-color: var(--color-action-primary);
+    box-shadow: 0 4px 16px rgba(37, 99, 235, 0.12);
+  }
+
+  /* Panel header (title block at the top of every side panel) */
+  .ui-head { @apply flex flex-col gap-2.5; }
+  .ui-eyebrow {
+    @apply text-2xs font-bold uppercase;
+    letter-spacing: 0.09em;
+    color: var(--color-selection-active);
+  }
+  .ui-title { @apply text-xl font-extrabold leading-tight; color: var(--text-primary); letter-spacing: -0.015em; }
+  .ui-subtitle { @apply text-xs; line-height: 1.55; color: var(--text-secondary); }
+  .ui-section-title { @apply flex items-center gap-2 text-sm font-extrabold leading-snug; color: var(--text-primary); }
+  .ui-section-title > svg { @apply w-4 h-4 shrink-0; color: var(--color-selection-active); }
+  .ui-section-sub { @apply text-xs mt-0.5; color: var(--text-tertiary); }
+  .ui-divider { border-top: 1px solid var(--border); }
+
+  /* KPI tiles */
+  .ui-kpi-grid { @apply grid grid-cols-2 gap-2.5; }
+  .ui-kpi {
+    @apply rounded-xl p-3 flex flex-col gap-1 min-w-0;
+    background: var(--surface-card);
+    border: 1px solid var(--border);
+  }
+  html:not(.dark) .ui-kpi { box-shadow: 0 1px 2px rgba(15, 23, 42, 0.05); }
+  .ui-kpi-label { @apply flex items-center justify-between gap-2 text-2xs font-bold uppercase; letter-spacing: 0.04em; color: var(--text-tertiary); }
+  .ui-kpi-label > svg { @apply w-3.5 h-3.5 shrink-0; }
+  .ui-kpi-value { @apply font-mono text-2xl font-extrabold leading-none truncate; color: var(--text-primary); }
+  .ui-kpi-unit { @apply font-mono text-2xs font-bold ml-1; color: var(--text-tertiary); }
+  .ui-kpi-foot { @apply text-2xs leading-snug; color: var(--text-tertiary); }
+
+  /* Chips / status pills */
+  .ui-chip {
+    @apply inline-flex items-center gap-1 rounded-md px-1.5 py-0.5 text-2xs font-bold leading-4 whitespace-nowrap;
+    border: 1px solid var(--border);
+    background: var(--surface-elevated);
+    color: var(--text-secondary);
+  }
+  .ui-chip-info    { --c: var(--color-selection-active); }
+  .ui-chip-ok      { --c: var(--color-status-safe); }
+  .ui-chip-warn    { --c: var(--color-status-warning); }
+  .ui-chip-danger  { --c: var(--color-status-severe); }
+  .ui-chip-purple  { --c: var(--color-simulation-mode); }
+  .ui-chip-info, .ui-chip-ok, .ui-chip-warn, .ui-chip-danger, .ui-chip-purple {
+    background: color-mix(in srgb, var(--c) 13%, transparent);
+    border-color: color-mix(in srgb, var(--c) 32%, transparent);
+    color: color-mix(in srgb, var(--c) 72%, var(--text-primary));
+  }
+  .ui-mono { @apply font-mono; font-variant-numeric: tabular-nums; }
+
+  /* Form controls */
+  .ui-label { @apply block text-2xs font-bold uppercase mb-1; letter-spacing: 0.04em; color: var(--text-tertiary); }
+  .ui-input {
+    @apply w-full rounded-lg px-3 py-2 text-xs font-medium outline-none transition-colors;
+    background: var(--surface-elevated);
+    border: 1px solid var(--border);
+    color: var(--text-primary);
+    min-height: 36px;
+  }
+  .ui-input:focus { border-color: var(--color-action-primary); box-shadow: 0 0 0 3px color-mix(in srgb, var(--color-action-primary) 22%, transparent); }
+  .ui-input::placeholder { color: var(--text-tertiary); }
+  select.ui-input option { background: var(--surface-card); color: var(--text-primary); }
+
+  /* Buttons */
+  .ui-btn {
+    @apply inline-flex items-center justify-center gap-1.5 rounded-lg px-3 py-2 text-xs font-bold transition-all active:scale-[0.98] disabled:opacity-50 disabled:cursor-not-allowed;
+    min-height: 36px;
+    background: var(--surface-elevated);
+    border: 1px solid var(--border);
+    color: var(--text-primary);
+  }
+  .ui-btn:hover { border-color: var(--text-tertiary); }
+  .ui-btn > svg { @apply w-3.5 h-3.5 shrink-0; }
+  .ui-btn-primary { background: var(--color-action-primary); border-color: transparent; color: #fff; box-shadow: 0 2px 10px rgba(37, 99, 235, 0.28); }
+  .ui-btn-primary:hover { background: var(--color-action-hover); border-color: transparent; }
+  .ui-btn-success { background: var(--color-status-safe); border-color: transparent; color: #fff; }
+  .ui-btn-success:hover { filter: brightness(1.08); border-color: transparent; }
+
+  /* Segmented control (sub-tabs / filters) */
+  .ui-segment {
+    @apply flex w-full gap-0.5 rounded-xl p-1 overflow-x-auto;
+    background: var(--surface-elevated);
+    border: 1px solid var(--border);
+  }
+  .ui-segment > button {
+    @apply flex-1 inline-flex items-center justify-center gap-1.5 whitespace-nowrap rounded-lg px-2.5 py-1.5 text-xs font-bold transition-all;
+    color: var(--text-tertiary);
+  }
+  .ui-segment > button:hover { color: var(--text-primary); }
+  .ui-segment > button[aria-pressed='true'], .ui-segment > button[aria-selected='true'] {
+    background: var(--color-action-primary); color: #fff; box-shadow: 0 1px 6px rgba(37, 99, 235, 0.3);
+  }
+  .ui-segment > button > svg { @apply w-3.5 h-3.5 shrink-0; }
+
+  /* Inline notice banner */
+  .ui-notice {
+    @apply flex items-start gap-2 rounded-xl px-3 py-2.5 text-xs font-semibold animate-fadeIn;
+    background: color-mix(in srgb, var(--color-status-safe) 12%, transparent);
+    border: 1px solid color-mix(in srgb, var(--color-status-safe) 32%, transparent);
+    color: color-mix(in srgb, var(--color-status-safe) 70%, var(--text-primary));
+  }
+  .ui-notice > svg { @apply w-4 h-4 shrink-0 mt-px; }
+
+  /* Progress bar */
+  .ui-meter { @apply h-1.5 w-full rounded-full overflow-hidden; background: var(--surface-elevated); border: 1px solid var(--border); }
+  .ui-meter > span { @apply block h-full rounded-full transition-all duration-500; }
+
+  /* Key/value pair grid used inside cards */
+  .ui-kv { @apply grid grid-cols-2 gap-2 rounded-lg p-2.5; background: var(--surface-elevated); border: 1px solid var(--border); }
+  .ui-kv dt { @apply text-2xs font-bold uppercase; letter-spacing: 0.04em; color: var(--text-tertiary); }
+  .ui-kv dd { @apply text-xs font-extrabold font-mono mt-0.5 truncate; color: var(--text-primary); }
+}
+
+/* ─── Startup Splash Text Shine Animation ─── */
+@keyframes text-shine {
+  0% {
+    background-position: 200% 0;
+  }
+  100% {
+    background-position: -200% 0;
+  }
+}
+
+.animate-text-shine {
+  background-size: 200% auto;
+  animation: text-shine 2.5s linear infinite;
+}

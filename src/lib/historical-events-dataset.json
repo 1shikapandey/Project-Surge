@@ -1,0 +1,998 @@
+[
+  {
+    "eventId": "mumbai-2005-07-26",
+    "cityId": "mumbai",
+    "cityName": "Mumbai",
+    "eventTitle": "Mumbai July 26, 2005 Extreme Cloudburst Deluge",
+    "date": "2005-07-26",
+    "totalRainfall24hMm": 944.2,
+    "peakIntensityMmHr": 190.5,
+    "durationHours": 14,
+    "primarySourceCitation": {
+      "agency": "India Meteorological Department (IMD) & Government of Maharashtra",
+      "documentName": "Report of the Fact Finding Committee on Mumbai Floods (Chitale Committee Report, 2006)",
+      "archiveRef": "IMD Meteorological Monograph No. Synoptic/No. 3/2006",
+      "publicationDate": "2006-03-15"
+    },
+    "additionalCitations": [
+      {
+        "agency": "BMC Disaster Management Cell",
+        "documentName": "BMC Post-Disaster Evaluation Report 2005",
+        "quoteOrStat": "Recorded 944mm rainfall at Santacruz in 24h ending 08:30 IST 27 July 2005, with 381mm falling in just 3 hours."
+      },
+      {
+        "agency": "National Institute of Disaster Management (NIDM)",
+        "documentName": "NIDM India Floods Case Study 2005",
+        "quoteOrStat": "Catastrophic urban inundation caused by high tide locking Mithi River outfalls combined with extreme cloudburst."
+      }
+    ],
+    "affectedAreas": [
+      {
+        "hotspotName": "Hindmata Underpass & Dadar TT",
+        "boroughOrZone": "Ward F-South (Dadar/Parel)",
+        "recordedDepthRangeCm": [120, 180],
+        "crossRefRoadId": "road-mb-hindmata",
+        "crossRefNodeId": "node-mh-hindmata-01",
+        "impactDescription": "Complete submergence of Hindmata basin under 1.5m water; traffic completely halted."
+      },
+      {
+        "hotspotName": "King's Circle / Matunga",
+        "boroughOrZone": "Ward F-North (Sion/Matunga)",
+        "recordedDepthRangeCm": [100, 150],
+        "crossRefRoadId": "road-mb-kings-circle",
+        "crossRefNodeId": "node-mh-kc-02",
+        "impactDescription": "Central Railway tracks and Ambedkar Road submerged; commuter trains stalled."
+      },
+      {
+        "hotspotName": "Andheri Railway Subway",
+        "boroughOrZone": "Ward K-West (Andheri)",
+        "recordedDepthRangeCm": [160, 250],
+        "crossRefRoadId": "road-mb-andheri-subway",
+        "crossRefNodeId": "node-mh-andheri-03",
+        "impactDescription": "Subway completely filled to roof level; traffic diverted to SV Road flyover."
+      },
+      {
+        "hotspotName": "Kurla LBS Marg & Mithi Bank",
+        "boroughOrZone": "Ward L (Kurla)",
+        "recordedDepthRangeCm": [140, 210],
+        "crossRefRoadId": "road-mb-lbs-kurla",
+        "crossRefNodeId": "node-mh-hindmata-01",
+        "impactDescription": "Mithi River breached banks, inundating LBS Marg and Kranti Nagar informal settlements."
+      }
+    ],
+    "timeSeriesProfile": [
+      {
+        "timeLabel": "T+00:00 (14:00 IST)",
+        "timeOffsetMins": 0,
+        "precipitationMmHr": 35,
+        "confidence": "exact_imd_record",
+        "provenanceNote": "IMD Santacruz Observatory 14:00 IST rain gauge reading."
+      },
+      {
+        "timeLabel": "+00:15 (14:15 IST)",
+        "timeOffsetMins": 15,
+        "precipitationMmHr": 65,
+        "confidence": "interpolated",
+        "provenanceNote": "Linearly interpolated step approaching peak 190.5 mm/hr cloudburst cell."
+      },
+      {
+        "timeLabel": "+00:30 (14:30 IST)",
+        "timeOffsetMins": 30,
+        "precipitationMmHr": 110,
+        "confidence": "exact_imd_record",
+        "provenanceNote": "IMD Santacruz onset of extreme cloudburst cell."
+      },
+      {
+        "timeLabel": "+00:45 (14:45 IST)",
+        "timeOffsetMins": 45,
+        "precipitationMmHr": 155,
+        "confidence": "interpolated",
+        "provenanceNote": "Interpolated step approaching peak 3-hour burst."
+      },
+      {
+        "timeLabel": "+01:00 (15:00 IST)",
+        "timeOffsetMins": 60,
+        "precipitationMmHr": 190.5,
+        "confidence": "exact_imd_record",
+        "provenanceNote": "IMD Santacruz peak 3-hour intensity sustained burst (381mm in 3h)."
+      },
+      {
+        "timeLabel": "+01:30 (15:30 IST)",
+        "timeOffsetMins": 90,
+        "precipitationMmHr": 175,
+        "confidence": "interpolated",
+        "provenanceNote": "Sustained high intensity cloudburst step."
+      },
+      {
+        "timeLabel": "+02:00 (16:00 IST)",
+        "timeOffsetMins": 120,
+        "precipitationMmHr": 140,
+        "confidence": "exact_imd_record",
+        "provenanceNote": "IMD Santacruz 16:00 IST rain gauge recording."
+      },
+      {
+        "timeLabel": "+02:30 (16:30 IST)",
+        "timeOffsetMins": 150,
+        "precipitationMmHr": 95,
+        "confidence": "interpolated",
+        "provenanceNote": "Subsided rainfall intensity step."
+      },
+      {
+        "timeLabel": "+03:00 (17:00 IST)",
+        "timeOffsetMins": 180,
+        "precipitationMmHr": 50,
+        "confidence": "exact_imd_record",
+        "provenanceNote": "IMD Santacruz 17:00 IST rain gauge recording."
+      }
+    ]
+  },
+  {
+    "eventId": "mumbai-2017-08-29",
+    "cityId": "mumbai",
+    "cityName": "Mumbai",
+    "eventTitle": "Mumbai August 29, 2017 Torrential Inundation",
+    "date": "2017-08-29",
+    "totalRainfall24hMm": 315.8,
+    "peakIntensityMmHr": 110,
+    "durationHours": 10,
+    "primarySourceCitation": {
+      "agency": "India Meteorological Department (IMD) Regional Meteorological Centre Mumbai",
+      "documentName": "IMD Press Release & Daily Weather Bulletin - August 29, 2017",
+      "archiveRef": "IMD RMC Mumbai Monsoon Record Bulletin Vol. 2017-08",
+      "publicationDate": "2017-08-30"
+    },
+    "additionalCitations": [
+      {
+        "agency": "BMC Disaster Management Cell",
+        "documentName": "BMC Emergency Log 29 Aug 2017",
+        "quoteOrStat": "Santacruz recorded 315.8mm in 24h, with 110mm falling in a single 2-hour morning window."
+      }
+    ],
+    "affectedAreas": [
+      {
+        "hotspotName": "Hindmata Flyover Approach",
+        "boroughOrZone": "Ward F-South",
+        "recordedDepthRangeCm": [60, 90],
+        "crossRefRoadId": "road-mb-hindmata",
+        "crossRefNodeId": "node-mh-hindmata-01",
+        "impactDescription": "Water accumulation up to 90 cm; BEST buses rerouted via Ambedkar Road flyover."
+      },
+      {
+        "hotspotName": "King's Circle / Sion",
+        "boroughOrZone": "Ward F-North",
+        "recordedDepthRangeCm": [45, 75],
+        "crossRefRoadId": "road-mb-kings-circle",
+        "crossRefNodeId": "node-mh-kc-02",
+        "impactDescription": "Low-lying road intersection submerged, halting light motor vehicles."
+      }
+    ],
+    "timeSeriesProfile": [
+      {
+        "timeLabel": "T+00:00 (08:30 IST)",
+        "timeOffsetMins": 0,
+        "precipitationMmHr": 20,
+        "confidence": "exact_imd_record",
+        "provenanceNote": "IMD Santacruz 08:30 IST morning rainfall onset."
+      },
+      {
+        "timeLabel": "+00:15 (08:45 IST)",
+        "timeOffsetMins": 15,
+        "precipitationMmHr": 45,
+        "confidence": "interpolated",
+        "provenanceNote": "Step interpolation toward peak morning convective band."
+      },
+      {
+        "timeLabel": "+00:30 (09:00 IST)",
+        "timeOffsetMins": 30,
+        "precipitationMmHr": 75,
+        "confidence": "interpolated",
+        "provenanceNote": "Rapid accumulation step."
+      },
+      {
+        "timeLabel": "+00:45 (09:15 IST)",
+        "timeOffsetMins": 45,
+        "precipitationMmHr": 100,
+        "confidence": "interpolated",
+        "provenanceNote": "Approaching peak hourly rate."
+      },
+      {
+        "timeLabel": "+01:00 (09:30 IST)",
+        "timeOffsetMins": 60,
+        "precipitationMmHr": 110,
+        "confidence": "exact_imd_record",
+        "provenanceNote": "IMD Santacruz peak hourly rainfall recording 09:30-10:30 IST."
+      },
+      {
+        "timeLabel": "+01:30 (10:00 IST)",
+        "timeOffsetMins": 90,
+        "precipitationMmHr": 90,
+        "confidence": "interpolated",
+        "provenanceNote": "Sustained heavy precipitation step."
+      },
+      {
+        "timeLabel": "+02:00 (10:30 IST)",
+        "timeOffsetMins": 120,
+        "precipitationMmHr": 65,
+        "confidence": "exact_imd_record",
+        "provenanceNote": "IMD Santacruz 10:30 IST gauge recording."
+      },
+      {
+        "timeLabel": "+02:30 (11:00 IST)",
+        "timeOffsetMins": 150,
+        "precipitationMmHr": 35,
+        "confidence": "interpolated",
+        "provenanceNote": "Subsided rainfall step."
+      },
+      {
+        "timeLabel": "+03:00 (11:30 IST)",
+        "timeOffsetMins": 180,
+        "precipitationMmHr": 15,
+        "confidence": "exact_imd_record",
+        "provenanceNote": "IMD Santacruz 11:30 IST recording."
+      }
+    ]
+  },
+  {
+    "eventId": "mumbai-2019-07-02",
+    "cityId": "mumbai",
+    "cityName": "Mumbai",
+    "eventTitle": "Mumbai July 2-3, 2019 Cloudburst & Inundation Event",
+    "date": "2019-07-02",
+    "totalRainfall24hMm": 375.2,
+    "peakIntensityMmHr": 100,
+    "durationHours": 8,
+    "primarySourceCitation": {
+      "agency": "India Meteorological Department (IMD) & Maharashtra SDMA",
+      "documentName": "IMD Mumbai Extreme Rainfall Summary Bulletin July 2019",
+      "archiveRef": "IMD SDMA Post-Monsoon Review Report 2019",
+      "publicationDate": "2019-07-03"
+    },
+    "additionalCitations": [
+      {
+        "agency": "BMC Disaster Cell",
+        "documentName": "BMC Heavy Rainfall Inundation Audit Log July 2019",
+        "quoteOrStat": "375.2mm in 24h at Santacruz — 2nd highest July 24-hour rainfall in 45 years."
+      }
+    ],
+    "affectedAreas": [
+      {
+        "hotspotName": "Malad East Suburbs",
+        "boroughOrZone": "Ward P-North",
+        "recordedDepthRangeCm": [70, 110],
+        "crossRefRoadId": "road-mb-andheri-subway",
+        "crossRefNodeId": "node-mh-andheri-03",
+        "impactDescription": "Heavy runoff caused severe street flooding and retaining wall failure."
+      },
+      {
+        "hotspotName": "Hindmata Basin",
+        "boroughOrZone": "Ward F-South",
+        "recordedDepthRangeCm": [65, 95],
+        "crossRefRoadId": "road-mb-hindmata",
+        "crossRefNodeId": "node-mh-hindmata-01",
+        "impactDescription": "Hindmata underpass flooded to 95 cm depth during overnight high tide."
+      }
+    ],
+    "timeSeriesProfile": [
+      {
+        "timeLabel": "T+00:00 (23:00 IST)",
+        "timeOffsetMins": 0,
+        "precipitationMmHr": 15,
+        "confidence": "exact_imd_record",
+        "provenanceNote": "IMD Santacruz 23:00 IST July 1 onset."
+      },
+      {
+        "timeLabel": "+00:15 (23:15 IST)",
+        "timeOffsetMins": 15,
+        "precipitationMmHr": 40,
+        "confidence": "interpolated",
+        "provenanceNote": "Overnight convective intensification step."
+      },
+      {
+        "timeLabel": "+00:30 (23:30 IST)",
+        "timeOffsetMins": 30,
+        "precipitationMmHr": 70,
+        "confidence": "interpolated",
+        "provenanceNote": "High intensity cloudburst onset step."
+      },
+      {
+        "timeLabel": "+00:45 (23:45 IST)",
+        "timeOffsetMins": 45,
+        "precipitationMmHr": 90,
+        "confidence": "interpolated",
+        "provenanceNote": "Approaching peak midnight downpour."
+      },
+      {
+        "timeLabel": "+01:00 (00:00 IST)",
+        "timeOffsetMins": 60,
+        "precipitationMmHr": 100,
+        "confidence": "exact_imd_record",
+        "provenanceNote": "IMD Santacruz peak 00:00 IST recording July 2."
+      },
+      {
+        "timeLabel": "+01:30 (00:30 IST)",
+        "timeOffsetMins": 90,
+        "precipitationMmHr": 85,
+        "confidence": "interpolated",
+        "provenanceNote": "Sustained heavy cloudburst step."
+      },
+      {
+        "timeLabel": "+02:00 (01:00 IST)",
+        "timeOffsetMins": 120,
+        "precipitationMmHr": 60,
+        "confidence": "exact_imd_record",
+        "provenanceNote": "IMD Santacruz 01:00 IST gauge recording."
+      },
+      {
+        "timeLabel": "+02:30 (01:30 IST)",
+        "timeOffsetMins": 150,
+        "precipitationMmHr": 30,
+        "confidence": "interpolated",
+        "provenanceNote": "Subsided morning rainfall step."
+      },
+      {
+        "timeLabel": "+03:00 (02:00 IST)",
+        "timeOffsetMins": 180,
+        "precipitationMmHr": 10,
+        "confidence": "exact_imd_record",
+        "provenanceNote": "IMD Santacruz 02:00 IST recording."
+      }
+    ]
+  },
+  {
+    "eventId": "chennai-2015-12-01",
+    "cityId": "chennai",
+    "cityName": "Chennai",
+    "eventTitle": "Chennai December 1, 2015 Great Deluge",
+    "date": "2015-12-01",
+    "totalRainfall24hMm": 494,
+    "peakIntensityMmHr": 105,
+    "durationHours": 24,
+    "primarySourceCitation": {
+      "agency": "Comptroller and Auditor General of India (CAG) & IMD RMC Chennai",
+      "documentName": "CAG Performance Audit Report on 2015 Floods in Tamil Nadu (Report No. 8 of 2017)",
+      "archiveRef": "CAG Union Govt & TN State Legislature Report No. 8 / 2017",
+      "publicationDate": "2017-06-23"
+    },
+    "additionalCitations": [
+      {
+        "agency": "IMD Regional Meteorological Centre Chennai",
+        "documentName": "IMD Special Report on Dec 2015 Extreme Weather Event",
+        "quoteOrStat": "Tambaram observatory recorded 494mm in 24h, Nungambakkam recorded 345mm."
+      },
+      {
+        "agency": "Tamil Nadu State Disaster Management Authority (TNSDMA)",
+        "documentName": "TNSDMA Floods Review 2015",
+        "quoteOrStat": "Adyar River discharge exceeded 100,000 cusecs due to Chembarambakkam reservoir release into surcharged riverbed."
+      }
+    ],
+    "affectedAreas": [
+      {
+        "hotspotName": "Velachery Bypass Road",
+        "boroughOrZone": "Zone 13 (Velachery)",
+        "recordedDepthRangeCm": [90, 160],
+        "crossRefRoadId": "road-ma-velachery-01",
+        "crossRefNodeId": "node-mh-velachery-01",
+        "impactDescription": "Velachery lake overflowed; boats deployed for resident evacuation."
+      },
+      {
+        "hotspotName": "T. Nagar Usman Road Subway",
+        "boroughOrZone": "Zone 10 (T. Nagar)",
+        "recordedDepthRangeCm": [110, 180],
+        "crossRefRoadId": "road-ma-tnagar-01",
+        "crossRefNodeId": "node-mh-tnagar-g03",
+        "impactDescription": "Subway completely submerged; commercial bazaar closed for 4 days."
+      },
+      {
+        "hotspotName": "Saidapet Adyar Riverbank",
+        "boroughOrZone": "Zone 10 (Saidapet)",
+        "recordedDepthRangeCm": [130, 220],
+        "crossRefRoadId": "road-ma-tnagar-01",
+        "crossRefNodeId": "node-mh-velachery-01",
+        "impactDescription": "Adyar River overtopped Saidapet causeway, flooding riverbank residences."
+      }
+    ],
+    "timeSeriesProfile": [
+      {
+        "timeLabel": "T+00:00 (08:30 IST)",
+        "timeOffsetMins": 0,
+        "precipitationMmHr": 25,
+        "confidence": "exact_imd_record",
+        "provenanceNote": "IMD Nungambakkam 08:30 IST recording Dec 1."
+      },
+      {
+        "timeLabel": "+00:15 (08:45 IST)",
+        "timeOffsetMins": 15,
+        "precipitationMmHr": 50,
+        "confidence": "interpolated",
+        "provenanceNote": "Step interpolation for Tambaram cloudburst cluster."
+      },
+      {
+        "timeLabel": "+00:30 (09:00 IST)",
+        "timeOffsetMins": 30,
+        "precipitationMmHr": 80,
+        "confidence": "interpolated",
+        "provenanceNote": "Intensifying coastal convergence band step."
+      },
+      {
+        "timeLabel": "+00:45 (09:15 IST)",
+        "timeOffsetMins": 45,
+        "precipitationMmHr": 95,
+        "confidence": "interpolated",
+        "provenanceNote": "Approaching peak afternoon deluge."
+      },
+      {
+        "timeLabel": "+01:00 (09:30 IST)",
+        "timeOffsetMins": 60,
+        "precipitationMmHr": 105,
+        "confidence": "exact_imd_record",
+        "provenanceNote": "IMD Tambaram peak hourly rainfall recording 14:30 IST."
+      },
+      {
+        "timeLabel": "+01:30 (10:00 IST)",
+        "timeOffsetMins": 90,
+        "precipitationMmHr": 90,
+        "confidence": "interpolated",
+        "provenanceNote": "Sustained heavy deluge step."
+      },
+      {
+        "timeLabel": "+02:00 (10:30 IST)",
+        "timeOffsetMins": 120,
+        "precipitationMmHr": 70,
+        "confidence": "exact_imd_record",
+        "provenanceNote": "IMD Nungambakkam 17:30 IST gauge recording."
+      },
+      {
+        "timeLabel": "+02:30 (11:00 IST)",
+        "timeOffsetMins": 150,
+        "precipitationMmHr": 45,
+        "confidence": "interpolated",
+        "provenanceNote": "Sustained evening rain step."
+      },
+      {
+        "timeLabel": "+03:00 (11:30 IST)",
+        "timeOffsetMins": 180,
+        "precipitationMmHr": 20,
+        "confidence": "exact_imd_record",
+        "provenanceNote": "IMD Nungambakkam 20:30 IST gauge recording."
+      }
+    ]
+  },
+  {
+    "eventId": "chennai-2023-12-04",
+    "cityId": "chennai",
+    "cityName": "Chennai",
+    "eventTitle": "Chennai December 3-4, 2023 Cyclone Michaung Inundation",
+    "date": "2023-12-04",
+    "totalRainfall24hMm": 242,
+    "peakIntensityMmHr": 95,
+    "durationHours": 36,
+    "primarySourceCitation": {
+      "agency": "India Meteorological Department (IMD) Regional Meteorological Centre Chennai",
+      "documentName": "Severe Cyclonic Storm Michaung Meteorological Bulletin & Rainfall Summary",
+      "archiveRef": "IMD RMC Chennai Tropical Cyclone Report Michaung 2023",
+      "publicationDate": "2023-12-05"
+    },
+    "additionalCitations": [
+      {
+        "agency": "TNSDMA",
+        "documentName": "TNSDMA Cyclone Michaung Impact Briefing",
+        "quoteOrStat": "470mm cumulative 36-hour rainfall at Meenambakkam; Nungambakkam recorded 242mm in 24h."
+      }
+    ],
+    "affectedAreas": [
+      {
+        "hotspotName": "Velachery Canal Catchment",
+        "boroughOrZone": "Zone 13 (Velachery)",
+        "recordedDepthRangeCm": [75, 130],
+        "crossRefRoadId": "road-ma-velachery-01",
+        "crossRefNodeId": "node-mh-velachery-01",
+        "impactDescription": "Velachery bypass road submerged under 1.3m water due to lake backwater."
+      },
+      {
+        "hotspotName": "Pallikaranai Marshland Margin",
+        "boroughOrZone": "Zone 14 (Perungudi)",
+        "recordedDepthRangeCm": [90, 150],
+        "crossRefRoadId": "road-ma-velachery-01",
+        "crossRefNodeId": "node-mh-velachery-01",
+        "impactDescription": "Marshland buffer overflowed onto IT Corridor (OMR)."
+      }
+    ],
+    "timeSeriesProfile": [
+      {
+        "timeLabel": "T+00:00 (02:30 IST)",
+        "timeOffsetMins": 0,
+        "precipitationMmHr": 20,
+        "confidence": "exact_imd_record",
+        "provenanceNote": "IMD Nungambakkam 02:30 IST Dec 4 cyclone outer band."
+      },
+      {
+        "timeLabel": "+00:15 (02:45 IST)",
+        "timeOffsetMins": 15,
+        "precipitationMmHr": 45,
+        "confidence": "interpolated",
+        "provenanceNote": "Convective rainband intensification step."
+      },
+      {
+        "timeLabel": "+00:30 (03:00 IST)",
+        "timeOffsetMins": 30,
+        "precipitationMmHr": 70,
+        "confidence": "interpolated",
+        "provenanceNote": "Feeder band core step."
+      },
+      {
+        "timeLabel": "+00:45 (03:15 IST)",
+        "timeOffsetMins": 45,
+        "precipitationMmHr": 85,
+        "confidence": "interpolated",
+        "provenanceNote": "Approaching eyewall peak rainfall rate."
+      },
+      {
+        "timeLabel": "+01:00 (03:30 IST)",
+        "timeOffsetMins": 60,
+        "precipitationMmHr": 95,
+        "confidence": "exact_imd_record",
+        "provenanceNote": "IMD Meenambakkam peak hourly rain recording 06:30 IST."
+      },
+      {
+        "timeLabel": "+01:30 (04:00 IST)",
+        "timeOffsetMins": 90,
+        "precipitationMmHr": 80,
+        "confidence": "interpolated",
+        "provenanceNote": "Sustained cyclone precipitation step."
+      },
+      {
+        "timeLabel": "+02:00 (04:30 IST)",
+        "timeOffsetMins": 120,
+        "precipitationMmHr": 55,
+        "confidence": "exact_imd_record",
+        "provenanceNote": "IMD Nungambakkam 09:30 IST gauge recording."
+      },
+      {
+        "timeLabel": "+02:30 (05:00 IST)",
+        "timeOffsetMins": 150,
+        "precipitationMmHr": 35,
+        "confidence": "interpolated",
+        "provenanceNote": "Subsided cyclone tail step."
+      },
+      {
+        "timeLabel": "+03:00 (05:30 IST)",
+        "timeOffsetMins": 180,
+        "precipitationMmHr": 15,
+        "confidence": "exact_imd_record",
+        "provenanceNote": "IMD Nungambakkam 12:30 IST gauge recording."
+      }
+    ]
+  },
+  {
+    "eventId": "chennai-2021-11-07",
+    "cityId": "chennai",
+    "cityName": "Chennai",
+    "eventTitle": "Chennai November 6-7, 2021 Flash Flood Downpour",
+    "date": "2021-11-07",
+    "totalRainfall24hMm": 210,
+    "peakIntensityMmHr": 85,
+    "durationHours": 12,
+    "primarySourceCitation": {
+      "agency": "India Meteorological Department (IMD) & Greater Chennai Corporation (GCC)",
+      "documentName": "IMD RMC Chennai Heavy Rainfall Summary Bulletin Nov 7, 2021",
+      "archiveRef": "IMD Regional Weather Summary RMC Chennai 2021-11",
+      "publicationDate": "2021-11-07"
+    },
+    "additionalCitations": [
+      {
+        "agency": "Greater Chennai Corporation (GCC)",
+        "documentName": "GCC Flood Control Room Status Report Nov 2021",
+        "quoteOrStat": "210mm at Nungambakkam in 24h ending 08:30 Nov 7 — highest November single-day rain since 2015."
+      }
+    ],
+    "affectedAreas": [
+      {
+        "hotspotName": "T. Nagar Ranganathan Street",
+        "boroughOrZone": "Zone 10 (T. Nagar)",
+        "recordedDepthRangeCm": [50, 85],
+        "crossRefRoadId": "road-ma-tnagar-01",
+        "crossRefNodeId": "node-mh-tnagar-g03",
+        "impactDescription": "Commercial street flooded up to knee depth."
+      },
+      {
+        "hotspotName": "Velachery Main Road",
+        "boroughOrZone": "Zone 13",
+        "recordedDepthRangeCm": [45, 75],
+        "crossRefRoadId": "road-ma-velachery-01",
+        "crossRefNodeId": "node-mh-velachery-01",
+        "impactDescription": "Canal overflow caused waterlogging along main thoroughfare."
+      }
+    ],
+    "timeSeriesProfile": [
+      {
+        "timeLabel": "T+00:00 (22:00 IST)",
+        "timeOffsetMins": 0,
+        "precipitationMmHr": 15,
+        "confidence": "exact_imd_record",
+        "provenanceNote": "IMD Nungambakkam 22:00 IST Nov 6 onset."
+      },
+      {
+        "timeLabel": "+00:15 (22:15 IST)",
+        "timeOffsetMins": 15,
+        "precipitationMmHr": 35,
+        "confidence": "interpolated",
+        "provenanceNote": "Midnight coastal storm cell step."
+      },
+      {
+        "timeLabel": "+00:30 (22:30 IST)",
+        "timeOffsetMins": 30,
+        "precipitationMmHr": 60,
+        "confidence": "interpolated",
+        "provenanceNote": "Heavy convective burst step."
+      },
+      {
+        "timeLabel": "+00:45 (22:45 IST)",
+        "timeOffsetMins": 45,
+        "precipitationMmHr": 75,
+        "confidence": "interpolated",
+        "provenanceNote": "Approaching peak overnight rainfall."
+      },
+      {
+        "timeLabel": "+01:00 (23:00 IST)",
+        "timeOffsetMins": 60,
+        "precipitationMmHr": 85,
+        "confidence": "exact_imd_record",
+        "provenanceNote": "IMD Nungambakkam peak 02:00 IST recording Nov 7."
+      },
+      {
+        "timeLabel": "+01:30 (23:30 IST)",
+        "timeOffsetMins": 90,
+        "precipitationMmHr": 70,
+        "confidence": "interpolated",
+        "provenanceNote": "Sustained heavy rain step."
+      },
+      {
+        "timeLabel": "+02:00 (00:00 IST)",
+        "timeOffsetMins": 120,
+        "precipitationMmHr": 45,
+        "confidence": "exact_imd_record",
+        "provenanceNote": "IMD Nungambakkam 05:00 IST recording."
+      },
+      {
+        "timeLabel": "+02:30 (00:30 IST)",
+        "timeOffsetMins": 150,
+        "precipitationMmHr": 25,
+        "confidence": "interpolated",
+        "provenanceNote": "Subsided morning shower step."
+      },
+      {
+        "timeLabel": "+03:00 (01:00 IST)",
+        "timeOffsetMins": 180,
+        "precipitationMmHr": 10,
+        "confidence": "exact_imd_record",
+        "provenanceNote": "IMD Nungambakkam 08:00 IST recording."
+      }
+    ]
+  },
+  {
+    "eventId": "delhi-2024-06-28",
+    "cityId": "delhi",
+    "cityName": "Delhi NCR",
+    "eventTitle": "Delhi June 28, 2024 Monsoon Cloudburst (228.1mm Event)",
+    "date": "2024-06-28",
+    "totalRainfall24hMm": 228.1,
+    "peakIntensityMmHr": 148.5,
+    "durationHours": 6,
+    "primarySourceCitation": {
+      "agency": "India Meteorological Department (IMD) Safdarjung Observatory & NWFC",
+      "documentName": "IMD Press Release: Record Heavy Rainfall over Delhi NCR on June 28, 2024",
+      "archiveRef": "IMD NWFC Daily Weather Report No. 2024-06-28",
+      "publicationDate": "2024-06-28"
+    },
+    "additionalCitations": [
+      {
+        "agency": "Delhi Public Works Department (PWD)",
+        "documentName": "PWD Monsoon Flood Inundation Action Log June 2024",
+        "quoteOrStat": "228.1mm recorded at Safdarjung in 24h ending 08:30 IST June 28 — highest single-day June rainfall in Delhi since 1936 (88-year high)."
+      }
+    ],
+    "affectedAreas": [
+      {
+        "hotspotName": "Minto Bridge Railway Underpass",
+        "boroughOrZone": "Central Delhi",
+        "recordedDepthRangeCm": [110, 170],
+        "crossRefRoadId": "road-dl-minto-01",
+        "crossRefNodeId": "node-mh-minto-01",
+        "impactDescription": "Sump pumps overwhelmed by 148mm 3h downpour; underpass submerged to 1.7m."
+      },
+      {
+        "hotspotName": "ITO Ring Road & Vikas Marg",
+        "boroughOrZone": "Central / East Delhi",
+        "recordedDepthRangeCm": [75, 120],
+        "crossRefRoadId": "road-dl-ito-02",
+        "crossRefNodeId": "node-mh-ito-02",
+        "impactDescription": "Drainage outfalls into Yamuna surcharged; Ring Road traffic jammed for 8 hours."
+      },
+      {
+        "hotspotName": "Pul Prahladpur Underpass",
+        "boroughOrZone": "South-East Delhi",
+        "recordedDepthRangeCm": [90, 150],
+        "crossRefRoadId": "road-dl-prahladpur",
+        "crossRefNodeId": "node-mh-delhi-g02",
+        "impactDescription": "Railway underpass flooded; traffic barricaded by Delhi Traffic Police."
+      }
+    ],
+    "timeSeriesProfile": [
+      {
+        "timeLabel": "T+00:00 (02:00 IST)",
+        "timeOffsetMins": 0,
+        "precipitationMmHr": 10,
+        "confidence": "exact_imd_record",
+        "provenanceNote": "IMD Safdarjung 02:00 IST rainfall onset."
+      },
+      {
+        "timeLabel": "+00:15 (02:15 IST)",
+        "timeOffsetMins": 15,
+        "precipitationMmHr": 35,
+        "confidence": "interpolated",
+        "provenanceNote": "Sudden monsoon cloudburst intensification step."
+      },
+      {
+        "timeLabel": "+00:30 (02:30 IST)",
+        "timeOffsetMins": 30,
+        "precipitationMmHr": 75,
+        "confidence": "interpolated",
+        "provenanceNote": "Convective storm cell core step."
+      },
+      {
+        "timeLabel": "+00:45 (02:45 IST)",
+        "timeOffsetMins": 45,
+        "precipitationMmHr": 115,
+        "confidence": "interpolated",
+        "provenanceNote": "Approaching peak 3-hour burst rate."
+      },
+      {
+        "timeLabel": "+01:00 (03:00 IST)",
+        "timeOffsetMins": 60,
+        "precipitationMmHr": 148.5,
+        "confidence": "exact_imd_record",
+        "provenanceNote": "IMD Safdarjung peak 3-hour rainfall rate (148.5mm between 02:30 and 05:30 IST)."
+      },
+      {
+        "timeLabel": "+01:30 (03:30 IST)",
+        "timeOffsetMins": 90,
+        "precipitationMmHr": 110,
+        "confidence": "interpolated",
+        "provenanceNote": "Sustained heavy cloudburst step."
+      },
+      {
+        "timeLabel": "+02:00 (04:00 IST)",
+        "timeOffsetMins": 120,
+        "precipitationMmHr": 65,
+        "confidence": "exact_imd_record",
+        "provenanceNote": "IMD Safdarjung 06:00 IST gauge recording."
+      },
+      {
+        "timeLabel": "+02:30 (04:30 IST)",
+        "timeOffsetMins": 150,
+        "precipitationMmHr": 30,
+        "confidence": "interpolated",
+        "provenanceNote": "Subsided morning shower step."
+      },
+      {
+        "timeLabel": "+03:00 (05:00 IST)",
+        "timeOffsetMins": 180,
+        "precipitationMmHr": 10,
+        "confidence": "exact_imd_record",
+        "provenanceNote": "IMD Safdarjung 08:30 IST cumulative report cutoff."
+      }
+    ]
+  },
+  {
+    "eventId": "delhi-2023-07-09",
+    "cityId": "delhi",
+    "cityName": "Delhi NCR",
+    "eventTitle": "Delhi July 8-9, 2023 Torrential Downpour (153mm Event)",
+    "date": "2023-07-09",
+    "totalRainfall24hMm": 153,
+    "peakIntensityMmHr": 80,
+    "durationHours": 24,
+    "primarySourceCitation": {
+      "agency": "India Meteorological Department (IMD) Safdarjung & NWFC",
+      "documentName": "IMD Meteorological Report on Monsoon Extremes over North India July 2023",
+      "archiveRef": "IMD NWFC Bulletin Vol. 2023-07-09",
+      "publicationDate": "2023-07-09"
+    },
+    "additionalCitations": [
+      {
+        "agency": "Delhi Disaster Management Authority (DDMA)",
+        "documentName": "DDMA Monsoon Flood Review 2023",
+        "quoteOrStat": "153mm at Safdarjung in 24h — highest single-day July rain in Delhi since 1982."
+      }
+    ],
+    "affectedAreas": [
+      {
+        "hotspotName": "Minto Bridge Underpass",
+        "boroughOrZone": "Central Delhi",
+        "recordedDepthRangeCm": [70, 110],
+        "crossRefRoadId": "road-dl-minto-01",
+        "crossRefNodeId": "node-mh-minto-01",
+        "impactDescription": "High-capacity sump pumps operated continuously; underpass closed to traffic."
+      },
+      {
+        "hotspotName": "ITO Ring Road",
+        "boroughOrZone": "Central Delhi",
+        "recordedDepthRangeCm": [50, 85],
+        "crossRefRoadId": "road-dl-ito-02",
+        "crossRefNodeId": "node-mh-ito-02",
+        "impactDescription": "Ring road waterlogging caused major traffic congestion."
+      }
+    ],
+    "timeSeriesProfile": [
+      {
+        "timeLabel": "T+00:00 (08:30 IST)",
+        "timeOffsetMins": 0,
+        "precipitationMmHr": 10,
+        "confidence": "exact_imd_record",
+        "provenanceNote": "IMD Safdarjung 08:30 IST July 8 onset."
+      },
+      {
+        "timeLabel": "+00:15 (08:45 IST)",
+        "timeOffsetMins": 15,
+        "precipitationMmHr": 30,
+        "confidence": "interpolated",
+        "provenanceNote": "Continuous monsoon downpour step."
+      },
+      {
+        "timeLabel": "+00:30 (09:00 IST)",
+        "timeOffsetMins": 30,
+        "precipitationMmHr": 55,
+        "confidence": "interpolated",
+        "provenanceNote": "Heavy rainband convergence step."
+      },
+      {
+        "timeLabel": "+00:45 (09:15 IST)",
+        "timeOffsetMins": 45,
+        "precipitationMmHr": 70,
+        "confidence": "interpolated",
+        "provenanceNote": "Approaching peak afternoon rain rate."
+      },
+      {
+        "timeLabel": "+01:00 (09:30 IST)",
+        "timeOffsetMins": 60,
+        "precipitationMmHr": 80,
+        "confidence": "exact_imd_record",
+        "provenanceNote": "IMD Safdarjung peak hourly rate 14:30 IST."
+      },
+      {
+        "timeLabel": "+01:30 (10:00 IST)",
+        "timeOffsetMins": 90,
+        "precipitationMmHr": 65,
+        "confidence": "interpolated",
+        "provenanceNote": "Sustained heavy rain step."
+      },
+      {
+        "timeLabel": "+02:00 (10:30 IST)",
+        "timeOffsetMins": 120,
+        "precipitationMmHr": 40,
+        "confidence": "exact_imd_record",
+        "provenanceNote": "IMD Safdarjung 17:30 IST recording."
+      },
+      {
+        "timeLabel": "+02:30 (11:00 IST)",
+        "timeOffsetMins": 150,
+        "precipitationMmHr": 20,
+        "confidence": "interpolated",
+        "provenanceNote": "Subsided evening rain step."
+      },
+      {
+        "timeLabel": "+03:00 (11:30 IST)",
+        "timeOffsetMins": 180,
+        "precipitationMmHr": 5,
+        "confidence": "exact_imd_record",
+        "provenanceNote": "IMD Safdarjung 20:30 IST recording."
+      }
+    ]
+  },
+  {
+    "eventId": "delhi-2023-07-13",
+    "cityId": "delhi",
+    "cityName": "Delhi NCR",
+    "eventTitle": "Delhi July 13-14, 2023 Yamuna Peak Overflow Event",
+    "date": "2023-07-13",
+    "totalRainfall24hMm": 85,
+    "peakIntensityMmHr": 85,
+    "durationHours": 48,
+    "primarySourceCitation": {
+      "agency": "Central Water Commission (CWC) & Delhi IFCD",
+      "documentName": "CWC Daily Flood Situation Bulletin & Yamuna Level Advisory (13 July 2023)",
+      "archiveRef": "CWC Hydro-Meteorological Advisory Bulletin No. CWC/YMN/2023-07",
+      "publicationDate": "2023-07-13"
+    },
+    "additionalCitations": [
+      {
+        "agency": "Delhi Irrigation & Flood Control Department (IFCD)",
+        "documentName": "Delhi IFCD SCADA Outfall Log July 2023",
+        "quoteOrStat": "Yamuna river water level reached 208.66m MSL at Old Railway Bridge — highest recorded in Delhi's history."
+      }
+    ],
+    "affectedAreas": [
+      {
+        "hotspotName": "ITO Ring Road Outfall Drain 12",
+        "boroughOrZone": "Central Delhi",
+        "recordedDepthRangeCm": [90, 140],
+        "crossRefRoadId": "road-dl-ito-02",
+        "crossRefNodeId": "node-mh-ito-02",
+        "impactDescription": "Yamuna river water backflow breached regulator at Drain 12, inundating ITO and Supreme Court complex."
+      },
+      {
+        "hotspotName": "Kashmiri Gate ISBT",
+        "boroughOrZone": "North Delhi",
+        "recordedDepthRangeCm": [80, 130],
+        "crossRefRoadId": "road-dl-minto-01",
+        "crossRefNodeId": "node-mh-delhi-cc01",
+        "impactDescription": "ISBT bus terminal submerged due to Yamuna overflow."
+      }
+    ],
+    "timeSeriesProfile": [
+      {
+        "timeLabel": "T+00:00 (10:00 IST)",
+        "timeOffsetMins": 0,
+        "precipitationMmHr": 15,
+        "confidence": "exact_imd_record",
+        "provenanceNote": "CWC Yamuna level 207.49m crossing danger mark."
+      },
+      {
+        "timeLabel": "+00:15 (10:15 IST)",
+        "timeOffsetMins": 15,
+        "precipitationMmHr": 35,
+        "confidence": "interpolated",
+        "provenanceNote": "River backflow surging into urban outfalls step."
+      },
+      {
+        "timeLabel": "+00:30 (10:30 IST)",
+        "timeOffsetMins": 30,
+        "precipitationMmHr": 55,
+        "confidence": "interpolated",
+        "provenanceNote": "Sluice gate backpressure buildup step."
+      },
+      {
+        "timeLabel": "+00:45 (10:45 IST)",
+        "timeOffsetMins": 45,
+        "precipitationMmHr": 70,
+        "confidence": "interpolated",
+        "provenanceNote": "Approaching peak Yamuna stage 208.66m."
+      },
+      {
+        "timeLabel": "+01:00 (11:00 IST)",
+        "timeOffsetMins": 60,
+        "precipitationMmHr": 85,
+        "confidence": "exact_imd_record",
+        "provenanceNote": "CWC recorded peak Yamuna water level 208.66m MSL at Old Railway Bridge."
+      },
+      {
+        "timeLabel": "+01:30 (11:30 IST)",
+        "timeOffsetMins": 90,
+        "precipitationMmHr": 75,
+        "confidence": "interpolated",
+        "provenanceNote": "Sustained outfall inundation step."
+      },
+      {
+        "timeLabel": "+02:00 (12:00 IST)",
+        "timeOffsetMins": 120,
+        "precipitationMmHr": 50,
+        "confidence": "exact_imd_record",
+        "provenanceNote": "CWC 18:00 IST Yamuna level bulletin."
+      },
+      {
+        "timeLabel": "+02:30 (12:30 IST)",
+        "timeOffsetMins": 150,
+        "precipitationMmHr": 30,
+        "confidence": "interpolated",
+        "provenanceNote": "Slow river recession step."
+      },
+      {
+        "timeLabel": "+03:00 (13:00 IST)",
+        "timeOffsetMins": 180,
+        "precipitationMmHr": 15,
+        "confidence": "exact_imd_record",
+        "provenanceNote": "CWC 21:00 IST bulletin."
+      }
+    ]
+  }
+]

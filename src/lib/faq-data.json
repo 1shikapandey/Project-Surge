@@ -1,0 +1,50 @@
+[
+  {
+    "id": "severity-colors",
+    "question": "What do the flood severity colors mean?",
+    "keywords": ["severity", "color", "red", "yellow", "orange", "green", "meaning", "warning", "critical", "severe"],
+    "answer": "AquaAlert categorizes road inundation into four severity levels:\n• Safe (Green, <8cm): Passable for all vehicles including two-wheelers and compact cars.\n• Warning (Yellow, 8–15cm): Passable with caution for light vehicles; slowdown required.\n• Critical (Orange, 15–30cm): Dangerous for sedans & hatchbacks; accessible mainly by SUVs & high-clearance trucks.\n• Severe (Red, >30cm): Extreme hazard — total road closure recommended for all normal transit."
+  },
+  {
+    "id": "vehicle-routing",
+    "question": "How does vehicle-aware routing work?",
+    "keywords": ["vehicle", "routing", "car", "suv", "truck", "hatchback", "clearance", "safe route", "navigate"],
+    "answer": "Our hydro-routing engine calculates safe navigation paths by matching road water depth predictions against vehicle exhaust/intake clearance thresholds:\n• Hatchback / Sedan: Max depth 15 cm\n• SUV / Off-Road: Max depth 30 cm\n• Heavy Truck / Bus: Max depth 45 cm\nRoutes containing segments exceeding your vehicle's threshold are automatically filtered out."
+  },
+  {
+    "id": "live-radar-vs-estimate",
+    "question": "What is Live Radar vs Model Estimate?",
+    "keywords": ["live radar", "model estimate", "openmeteo", "fallback", "nowcast", "precipitation source", "difference"],
+    "answer": "AquaAlert fuses multiple atmospheric data streams:\n• Live Radar: Real-time X-band Doppler radar advection nowcasting with high spatial resolution and localized cloudburst detection.\n• Model Estimate: Numerical weather model fallback (OpenMeteo API) activated if Doppler radar data is offline or interrupted.\nThe active source and its confidence percentage are displayed in the header and map controls."
+  },
+  {
+    "id": "report-flooding",
+    "question": "How do I report flooding or a blocked drain?",
+    "keywords": ["report", "flooding", "blocked drain", "citizen report", "submit", "photo", "waterlogging"],
+    "answer": "To submit a crowdsourced flood signal:\n1. Click the 'Report Flood' button in the top navigation bar or app interface.\n2. Select your current location or tap the map.\n3. Choose water depth estimate (e.g. ankle, knee, waist level) and optionally upload a photo.\n4. Submit. Reports undergo automated AI deduplication and municipal triage verification before updating public warnings."
+  },
+  {
+    "id": "manhole-surcharge",
+    "question": "What is manhole surcharge and why is it monitored?",
+    "keywords": ["manhole", "surcharge", "drainage", "pipe", "backflow", "stormwater", "capacity"],
+    "answer": "Manhole surcharge occurs when stormwater inflow exceeds underground pipe capacity, causing water to push upward onto streets (100%+ capacity). AquaAlert tracks 1D SWMM network hydraulics to alert municipal teams to surcharging nodes and coastal backflow risks before street inundation peaks."
+  },
+  {
+    "id": "dem-elevation",
+    "question": "How does elevation affect water depth predictions?",
+    "keywords": ["dem", "elevation", "dem elevation", "terrain", "topography", "low lying"],
+    "answer": "AquaAlert integrates a High-Resolution Digital Elevation Model (DEM). Low-lying topographical bowls and underpasses receive higher runoff accumulation. Rain falling on steep slopes rapidly drains into lower micro-catchments, allowing hyper-local predictions down to individual road segments."
+  },
+  {
+    "id": "emergency-contacts",
+    "question": "What are the emergency response helpline numbers?",
+    "keywords": ["emergency", "helpline", "phone", "contact", "ndrf", "disaster", "rescue", "help"],
+    "answer": "In emergency flooding situations, contact official helpline services:\n• National Emergency Number: 112\n• NDRF Rescue Control Room: 011-24363260 / 1078\n• Municipal Control Room (Mumbai): 1916\n• Municipal Control Room (Chennai): 1913\n• Municipal Control Room (Delhi): 1266 / 1077"
+  },
+  {
+    "id": "data-safety",
+    "question": "Where does the chatbot get its data from?",
+    "keywords": ["data source", "internet", "real time", "accuracy", "provenance", "fake numbers"],
+    "answer": "All live flood depths, nowcasts, and telemetry presented by this chatbot come strictly from AquaAlert's internal hydraulic solver and radar nowcast pipeline. The chatbot NEVER fetches data from external websites or improvises numbers, ensuring total consistency with the GIS map."
+  }
+]

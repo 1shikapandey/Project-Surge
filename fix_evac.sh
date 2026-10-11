@@ -1,0 +1,5 @@
+sed -i 's/export function getEvacuationZonesForCity(cityId: CityId, timeOffsetMins: number = 60): EvacuationZone\[\] {/export function getEvacuationZonesForCity(cityId: CityId, timeOffsetMins: number = 60, hydraulicSnapshot?: import(".\/hydraulic-engine").NowcastTimeStep): EvacuationZone\[\] {/g' src/lib/evacuation-service.ts
+sed -i 's/const snapshot = getHydraulicSnapshotAtTime(timeOffsetMins, cityId);/const snapshot = hydraulicSnapshot || getHydraulicSnapshotAtTime(timeOffsetMins, cityId);/g' src/lib/evacuation-service.ts
+sed -i 's/const evacZones = getEvacuationZonesForCity(selectedCityId, timeOffsetMins);/const evacZones = getEvacuationZonesForCity(selectedCityId, timeOffsetMins, snapshot);/g' src/components/OpenLayersMapCanvas.tsx
+sed -i 's/const zones = getEvacuationZonesForCity(selectedCityId, timeOffsetMins);/const zones = getEvacuationZonesForCity(selectedCityId, timeOffsetMins, hydraulicSnapshotOverride);/g' src/components/OpenLayersMapCanvas.tsx
+sed -i 's/}, \[selectedCityId, timeOffsetMins, showEvacuationLayer\]);/}, \[selectedCityId, timeOffsetMins, showEvacuationLayer, hydraulicSnapshotOverride\]);/g' src/components/OpenLayersMapCanvas.tsx

@@ -1,0 +1,93 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "ward_no": 1, "ward_label": "Central Delhi" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[77.200, 28.615], [77.250, 28.615], [77.250, 28.655], [77.200, 28.655], [77.200, 28.615]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "ward_no": 2, "ward_label": "New Delhi" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[77.180, 28.580], [77.230, 28.580], [77.230, 28.625], [77.180, 28.625], [77.180, 28.580]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "ward_no": 3, "ward_label": "South Delhi" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[77.150, 28.500], [77.240, 28.500], [77.240, 28.570], [77.150, 28.570], [77.150, 28.500]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "ward_no": 4, "ward_label": "South East Delhi" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[77.230, 28.520], [77.310, 28.520], [77.310, 28.590], [77.230, 28.590], [77.230, 28.520]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "ward_no": 5, "ward_label": "South West Delhi" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[76.950, 28.500], [77.160, 28.500], [77.160, 28.630], [76.950, 28.630], [76.950, 28.500]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "ward_no": 6, "ward_label": "East Delhi" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[77.260, 28.600], [77.330, 28.600], [77.330, 28.660], [77.260, 28.660], [77.260, 28.600]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "ward_no": 7, "ward_label": "North East Delhi" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[77.240, 28.660], [77.310, 28.660], [77.310, 28.730], [77.240, 28.730], [77.240, 28.660]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "ward_no": 8, "ward_label": "North Delhi" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[77.170, 28.650], [77.240, 28.650], [77.240, 28.720], [77.170, 28.720], [77.170, 28.650]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "ward_no": 9, "ward_label": "North West Delhi" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[77.000, 28.680], [77.180, 28.680], [77.180, 28.850], [77.000, 28.850], [77.000, 28.680]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "ward_no": 10, "ward_label": "West Delhi" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[77.050, 28.620], [77.180, 28.620], [77.180, 28.680], [77.050, 28.680], [77.050, 28.620]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "ward_no": 11, "ward_label": "Shahdara District" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[77.270, 28.640], [77.330, 28.640], [77.330, 28.690], [77.270, 28.690], [77.270, 28.640]]]
+      }
+    }
+  ]
+}
