@@ -1,6 +1,7 @@
 # 🌊 SURGE — Real-Time Urban Flood Early Warning & AI Triage Platform
 
 **SURGE** is an enterprise-grade, multi-source meteorological fusion, 1D/2D DEM hydraulic simulation, and AI-assisted operational triage system designed for urban flood mitigation across major Indian metropolitan centers (Mumbai, Delhi NCR, and Chennai).
+<img width="959" height="473" alt="image" src="https://github.com/user-attachments/assets/608aae48-a33c-4369-96a8-66cf3179bcd0" />
 
 The platform ingests live IMD Doppler Weather Radar (DWR) imagery, cross-checks advection vectors against live Open-Meteo wind data, runs a CartoDEM-driven Manning hydraulic solver for street-level water depth accumulation, and synthesizes operational decision intelligence using a local **Ollama DeepSeek R1 1.5B** model.
 
@@ -56,81 +57,8 @@ The platform ingests live IMD Doppler Weather Radar (DWR) imagery, cross-checks 
 
 ## 📐 System Architecture Diagram
 
-```mermaid
-flowchart TD
-    %% CLIENTS & USERS
-    subgraph Clients ["👥 User & Authority Access Layer"]
-        Citizen["📱 Citizens / Motorists<br/>(Flood Map, Hazard Reports, Safe Routing)"]
-        Officer["🏛️ Disaster Officers<br/>(SITREP Triage, SCADA Dewatering, Advisories)"]
-    end
+<img width="2900" height="1810" alt="aws-architecture-dark" src="https://github.com/user-attachments/assets/b409ca40-2947-48f9-a956-2bc8db40883a" />
 
-    %% AUTHENTICATION
-    subgraph Auth ["🔐 Identity & Access Management"]
-        Cognito["Amazon Cognito User Pool<br/>(surge-authorities)<br/>• Officer Username & Password<br/>• Role Groups: Mumbai / Delhi / Chennai"]
-    end
-
-    %% COMPUTE & RUNTIME
-    subgraph Compute ["⚡ Application & Compute Layer"]
-        ECR["Amazon ECR<br/>(Private Image Registry)<br/>surge-web:latest"]
-        
-        subgraph EC2Server ["Amazon EC2 (Running on Port 80)"]
-            NextApp["Next.js 16 Full-Stack Container<br/>(Standalone Node.js Server)"]
-            GIS["OpenLayers / Leaflet GIS Engine<br/>• Real-Time Flood Depth Layers<br/>• Vehicle-Clearance Routing"]
-            Hydraulic["CartoDEM v3 Manning Solver<br/>• Runoff Depth D(cm)<br/>• Tide & Surcharging Manholes"]
-            HealthAPI["Health Check API<br/>(/api/health)"]
-        end
-    end
-
-    %% DATA PERSISTENCE
-    subgraph Storage ["💾 Data & Persistence Tier"]
-        S3["Amazon S3 Bucket<br/>(surge-radar-history)<br/>• 10-Min IMD Decoded Radar JSONs<br/>• Static GeoJSON / KML Datasets"]
-        DynamoDB["Amazon DynamoDB (On-Demand)<br/>• surge-signals: Citizen Reports<br/>• surge-ai-audit: Decision Logs"]
-    end
-
-    %% SERVERLESS INGESTION PIPELINE
-    subgraph IngestionPipeline ["⏱️ 10-Minute Serverless Ingestion Pipeline"]
-        EventBridge["Amazon EventBridge Scheduler<br/>(rate: 10 minutes)"]
-        Lambda["AWS Lambda Function<br/>(surge-radar-cron-trigger)"]
-        WeatherAPIs["External Weather Providers<br/>• IMD Doppler Radar (GIF Decoders)<br/>• Open-Meteo Wind & Rainfall API"]
-    end
-
-    %% AI DECISION LAYER
-    subgraph AILayer ["🧠 Operational AI Triage Layer"]
-        AI["DeepSeek-R1 1.5B / SageMaker AI<br/>• Strict Zero-Hallucination Provenance<br/>• Automated Official SitRep Generation"]
-    end
-
-    %% OBSERVABILITY & NOTIFICATION
-    subgraph MonitoringAlerts ["📢 Alerting & Observability"]
-        SNS["Amazon SNS Topic<br/>(surge-flood-alerts)<br/>• Emergency Email Broadcast<br/>• Municipal SMS Dispatch"]
-        CloudWatch["Amazon CloudWatch<br/>• EC2 & Docker Log Groups<br/>• Health & 5xx Uptime Alarms"]
-    end
-
-    %% CONNECTIONS
-    Officer -->|1. Sign in with Credentials| Cognito
-    Cognito -->|2. Issue JWT Token| Officer
-    Officer -->|3. Access Authority Controls| NextApp
-    Citizen -->|Access Public Flood Map & Report Hazards| NextApp
-
-    ECR -.->|Deploy Container Image| NextApp
-
-    EventBridge -->|Trigger every 10 mins| Lambda
-    Lambda -->|Fetch DWR & Wind Telemetry| WeatherAPIs
-    Lambda -->|POST /api/cron/radar-fetch| NextApp
-
-    NextApp -->|Execute Manning Physics| Hydraulic
-    Hydraulic -->|Compute Depths| GIS
-    Hydraulic -->|Telemetry Payload| AI
-    
-    NextApp -->|Persist Radar Grids| S3
-    NextApp -->|Store Verified Reports & Audit| DynamoDB
-
-    NextApp -->|Water Depth >= 40cm Trigger| SNS
-    SNS -->|Send Emergency Flood Warning| Citizen
-    SNS -->|Send Operational Escalation| Officer
-
-    NextApp -.->|Stream Logs & Heartbeats| CloudWatch
-    CloudWatch -.->|Trigger Failure Alarms| SNS
-```
 
 ---
 
