@@ -1,4 +1,4 @@
-# 🌊 SURGE — Real-Time Urban Flood Early Warning & AI Triage Platform
+# 🌊 SURGE - Real-Time Urban Flood Early Warning & AI Triage Platform
 
 **SURGE** is an enterprise-grade, multi-source meteorological fusion, 1D/2D DEM hydraulic simulation, and AI-assisted operational triage system designed for urban flood mitigation across major Indian metropolitan centers (Mumbai, Delhi NCR, and Chennai).
 
