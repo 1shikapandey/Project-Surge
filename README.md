@@ -1,6 +1,7 @@
 # 🌊 SURGE — Real-Time Urban Flood Early Warning & AI Triage Platform
 
 **SURGE** is an enterprise-grade, multi-source meteorological fusion, 1D/2D DEM hydraulic simulation, and AI-assisted operational triage system designed for urban flood mitigation across major Indian metropolitan centers (Mumbai, Delhi NCR, and Chennai).
+
 <img width="959" height="473" alt="image" src="https://github.com/user-attachments/assets/608aae48-a33c-4369-96a8-66cf3179bcd0" />
 
 The platform ingests live IMD Doppler Weather Radar (DWR) imagery, cross-checks advection vectors against live Open-Meteo wind data, runs a CartoDEM-driven Manning hydraulic solver for street-level water depth accumulation, and synthesizes operational decision intelligence using a local **Ollama DeepSeek R1 1.5B** model.
