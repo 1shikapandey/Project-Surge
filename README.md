@@ -4,8 +4,7 @@
 
 The platform ingests live IMD Doppler Weather Radar (DWR) imagery, cross-checks advection vectors against live Open-Meteo wind data, runs a CartoDEM-driven Manning hydraulic solver for street-level water depth accumulation, and synthesizes operational decision intelligence using a local **Ollama DeepSeek R1 1.5B** model.
 
-> 🌐 **Live AWS Deployment:** [http://3.109.121.81](http://3.109.121.81) · **Health API:** [http://3.109.121.81/api/health](http://3.109.121.81/api/health)  
-> ☁️ **AWS Cloud Stack:** Amazon EC2 (`ap-south-1` Mumbai) · Amazon ECR · Amazon S3 · Amazon DynamoDB · Amazon SNS · Amazon Cognito
+☁️ **AWS Cloud Stack:** Amazon EC2 (`ap-south-1` Mumbai) · Amazon ECR · Amazon S3 · Amazon DynamoDB · Amazon SNS · Amazon Cognito
 
 ---
 
